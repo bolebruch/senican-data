@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2026-06-21T07:22:12+02:00",
+    "generated_for_date": "2026-06-21",
+    "generator": "cowork/senican-mesto-feed",
+    "primary_source": "https://www.senica.sk",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú.",
+    "ghost_tags": {
+      "z_mesta": "z-mesta",
+      "podujatia": "podujatia",
+      "servis": "servis",
+      "transparentnost": "uradna-tabula"
+    }
+  },
+
+  "z_mesta": {
+    "title": "Z mesta",
+    "subtitle": "Stručný prehľad diania v meste — prepísané naším hlasom, vždy s odkazom na pôvodný zdroj.",
+    "attribution": "Zdroj: mesto Senica · automaticky aktualizované",
+    "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
+    "badge": "Z mesta",
+    "items": [
+      {
+        "headline": "Rodičia sa zapojili do diskusie o budúcnosti senických škôlok",
+        "summary": "Mesto pozvalo rodičov k debate o tom, ako naložiť s materskými školami pri klesajúcom počte detí. Diskusia má pomôcť nájsť ďalšie smerovanie škôlok v Senici.",
+        "date": "2026-06-19",
+        "date_label": "19. 6. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/rodicia-sa-zapojili-do-diskusie-o-buducnosti-skolok-v-senici"
+      },
+      {
+        "headline": "Referendum sa na Slovensku uskutoční v sobotu 4. júla",
+        "summary": "Celoslovenské referendum sa bude konať aj v Senici. Mesto zverejnilo praktické informácie k hlasovaniu, ktoré pripadá na sobotu 4. júla 2026.",
+        "date": "2026-06-19",
+        "date_label": "19. 6. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/referendum-na-slovensku-sa-uskutocni-v-sobotu-4-jula-2026"
+      },
+      {
+        "headline": "Mesto ocenilo mnohonásobných darcov krvi zo Senice",
+        "summary": "Samospráva poďakovala ľuďom, ktorí krv darujú opakovane. Ocenenie si prevzali viacerí dlhoroční darcovia z mesta.",
+        "date": "2026-06-18",
+        "date_label": "18. 6. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/vyjadrili-sme-uctu-mnohonasobnym-darcom-krvi-zo-senice"
+      },
+      {
+        "headline": "Senický amfiteáter čaká najväčšia obnova za desaťročia",
+        "summary": "Amfiteáter prejde najrozsiahlejšou rekonštrukciou za posledné desaťročia. Mesto sľubuje modernejší priestor pre letné podujatia.",
+        "date": "2026-06-18",
+        "date_label": "18. 6. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/senicky-amfiteater-najvaecsia-obnova-za-posledne-desatrocia"
+      }
+    ]
+  },
+
+  "podujatia": {
+    "title": "Podujatia v Senici",
+    "subtitle": "Nadchádzajúce podujatia zoradené podľa dátumu. Filtruj podľa toho, čo ťa zaujíma.",
+    "attribution": "Zdroj: TIC Senica · ticsenica.sk / mesto Senica",
+    "attribution_url": "https://ticsenica.sk/podujatia/",
+    "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
+    "items": [
+      {
+        "name": "Prednáška Ľubomíra Batka – 200. výročie narodenia V. Paulínyho-Tótha",
+        "date": "2026-06-21",
+        "day": "21",
+        "month": "Jún",
+        "time": "14:00",
+        "venue": "Evanjelický kostol augsburského vyznania, Fajnorova 806/1, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/prednaska-evanjelickeho-knaza-lubomira-batka/"
+      },
+      {
+        "name": "Koncert súboru DYSk",
+        "date": "2026-06-21",
+        "day": "21",
+        "month": "Jún",
+        "time": "15:00",
+        "venue": "ZUŠ, Vajanského 27/4, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/koncert-suboru-dysk/"
+      },
+      {
+        "name": "Deň objatí – Hug Day",
+        "date": "2026-06-24",
+        "day": "24",
+        "month": "Jún",
+        "time": "09:00",
+        "venue": "Námestie oslobodenia, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/hug-day-den-objati-copy/"
+      },
+      {
+        "name": "Cestovateľské kino",
+        "date": "2026-06-24",
+        "day": "24",
+        "month": "Jún",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/cestovatelske-kino/"
+      },
+      {
+        "name": "Hudobné štvrtky v DAV-e",
+        "date": "2026-06-25",
+        "day": "25",
+        "month": "Jún",
+        "time": "18:00",
+        "venue": "Mestský park Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/hudobne-stvrtky-v-dav-e-jun2026/"
+      },
+      {
+        "name": "Tvorivá sobota",
+        "date": "2026-06-27",
+        "day": "27",
+        "month": "Jún",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/tvoriva-sobota-s-ninou-danekovou-2/"
+      },
+      {
+        "name": "Kreatívna dielňa pre verejnosť",
+        "date": "2026-06-29",
+        "day": "29",
+        "month": "Jún",
+        "time": "13:00",
+        "venue": "Záhorská knižnica, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/kreativna-dielna-pre-verejnost-17/"
+      }
+    ]
+  },
+
+  "servis": {
+    "title": "Servis pre obyvateľov",
+    "subtitle": "Aktuálne odstávky a obmedzenia",
+    "attribution": "Zdroj: senica.sk",
+    "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
+    "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
+    "items": [
+      {
+        "type": "voda",
+        "what": "Prerušenie dodávky vody z verejného vodovodu",
+        "where": "Ul. Slnečná 3148/18, 3149/20, 3150/22, 3153/28, 3155/25, 3156/23, 3157/21, 3180/17, 3158/19",
+        "when": "1. 7. 2026, 8:00 – 12:00",
+        "starts": "2026-07-01",
+        "ends": "2026-07-01",
+        "status": "plánovaná",
+        "provider": "Bratislavská vodárenská spoločnosť, a. s.",
+        "note": "Plánovaná oprava, bez náhradného zásobovania pitnou vodou.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/prerusenie-dodavky-vody-z-verejneho-vodovodu"
+      }
+    ]
+  },
+
+  "transparentnost": {
+    "title": "Transparentnosť a zastupiteľstvo",
+    "subtitle": "Najnovšie úradné dokumenty a záznamy zo zasadnutí — preberané doslovne, s odkazom na celé znenie.",
+    "attribution": "Zdroj: Úradná tabuľa · senica.sk",
+    "attribution_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
+    "badge": "Úradné",
+    "items": [
+      {
+        "title": "24. zasadnutie MsZ — zápisnica a videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-04-30",
+        "date_label": "30. 4. 2026",
+        "status": null,
+        "source_url": "https://senica.sk/clanok/10193-24-zasadnutie-msz",
+        "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10193-1.pdf",
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10193-1.pdf",
+          "video": "https://www.youtube.com/embed/ccMqeFdmvno"
+        }
+      },
+      {
+        "title": "23. zasadnutie MsZ — zápisnica a videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-04-16",
+        "date_label": "16. 4. 2026",
+        "status": null,
+        "source_url": "https://senica.sk/clanok/10148-23-zasadnutie-msz",
+        "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10148-1.pdf",
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10148-1.pdf",
+          "video": "https://www.youtube.com/embed/Z4HltbXNIZo"
+        }
+      },
+      {
+        "title": "22. zasadnutie MsZ — zápisnica a videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-02-19",
+        "date_label": "19. 2. 2026",
+        "status": null,
+        "source_url": "https://senica.sk/clanok/9997-22-zasadnutie-msz",
+        "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f9997-1.pdf",
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f9997-1.pdf",
+          "video": "https://www.youtube.com/embed/fktP9lu49PQ"
+        }
+      },
+      {
+        "title": "VZN č. 92/2026 — O podmienkach nakladania s nájomnými bytmi v bytovom dome súpisné č. 734 na ul. J. Kráľa v meste Senica",
+        "type": "VZN",
+        "date": null,
+        "date_label": null,
+        "status": "účinné",
+        "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica"
+      },
+      {
+        "title": "VZN č. 91/2025 — O úprave predaja výrobkov na trhových miestach určených na ambulantný predaj",
+        "type": "VZN",
+        "date": null,
+        "date_label": null,
+        "status": "účinné",
+        "source_url": "https://senica.sk/clanok/o-uprave-predaja-vyrobkov-na-trhovych-miestach-urcenych-na-ambulantny-predaj"
+      }
+    ]
+  }
+}

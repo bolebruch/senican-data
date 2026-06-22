@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-21T07:22:12+02:00",
+    "generated_at": "2026-06-21T18:12:19+02:00",
     "generated_for_date": "2026-06-21",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
@@ -63,79 +63,69 @@
   "podujatia": {
     "title": "Podujatia v Senici",
     "subtitle": "Nadchádzajúce podujatia zoradené podľa dátumu. Filtruj podľa toho, čo ťa zaujíma.",
-    "attribution": "Zdroj: TIC Senica · ticsenica.sk / mesto Senica",
-    "attribution_url": "https://ticsenica.sk/podujatia/",
+    "attribution": "Zdroj: mesto Senica · senica.sk (Pozvánky)",
+    "attribution_url": "https://senica.sk/kategoria/pozvanky",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
+      {
+        "name": "Ďakovné služby božie",
+        "date": "2026-06-21",
+        "day": "21",
+        "month": "Jún",
+        "time": "10:00",
+        "venue": "Evanjelický kostol, Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/dakovne-sluzby-bozie"
+      },
       {
         "name": "Prednáška Ľubomíra Batka – 200. výročie narodenia V. Paulínyho-Tótha",
         "date": "2026-06-21",
         "day": "21",
         "month": "Jún",
         "time": "14:00",
-        "venue": "Evanjelický kostol augsburského vyznania, Fajnorova 806/1, Senica",
+        "venue": "Evanjelický kostol, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/prednaska-evanjelickeho-knaza-lubomira-batka/"
+        "source_url": "https://senica.sk/clanok/dakovne-sluzby-bozie"
       },
       {
-        "name": "Koncert súboru DYSk",
-        "date": "2026-06-21",
-        "day": "21",
+        "name": "Dekafest – festival chutí, hier a priateľstva na deke",
+        "date": "2026-06-22",
+        "day": "22",
         "month": "Jún",
         "time": "15:00",
-        "venue": "ZUŠ, Vajanského 27/4, Senica",
+        "venue": "Základná škola Sadová, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/koncert-suboru-dysk/"
+        "source_url": "https://senica.sk/clanok/dekafest"
       },
       {
-        "name": "Deň objatí – Hug Day",
+        "name": "Primátorská kvapka krvi",
         "date": "2026-06-24",
         "day": "24",
         "month": "Jún",
-        "time": "09:00",
-        "venue": "Námestie oslobodenia, Senica",
+        "time": null,
+        "venue": null,
         "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/hug-day-den-objati-copy/"
+        "source_url": "https://senica.sk/clanok/10328-primatorska-kvapka-krvi"
       },
       {
-        "name": "Cestovateľské kino",
+        "name": "Cestovateľské kino – Čína",
         "date": "2026-06-24",
         "day": "24",
         "month": "Jún",
-        "time": "17:00",
+        "time": "17:30",
         "venue": "Záhorské osvetové stredisko, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/cestovatelske-kino/"
+        "source_url": "https://senica.sk/clanok/cestovatelske-kino-cina"
       },
       {
-        "name": "Hudobné štvrtky v DAV-e",
-        "date": "2026-06-25",
-        "day": "25",
-        "month": "Jún",
-        "time": "18:00",
-        "venue": "Mestský park Senica",
+        "name": "Marián Komáček – Návraty (výstava do 13. 8. 2026)",
+        "date": "2026-08-13",
+        "day": "13",
+        "month": "August",
+        "time": null,
+        "venue": "LM Galéria súčasného umenia, Štefánikova 699/9, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/hudobne-stvrtky-v-dav-e-jun2026/"
-      },
-      {
-        "name": "Tvorivá sobota",
-        "date": "2026-06-27",
-        "day": "27",
-        "month": "Jún",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/tvoriva-sobota-s-ninou-danekovou-2/"
-      },
-      {
-        "name": "Kreatívna dielňa pre verejnosť",
-        "date": "2026-06-29",
-        "day": "29",
-        "month": "Jún",
-        "time": "13:00",
-        "venue": "Záhorská knižnica, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/kreativna-dielna-pre-verejnost-17/"
+        "source_url": "https://senica.sk/clanok/marian-komacek-navraty"
       }
     ]
   },
@@ -193,7 +183,7 @@
         "extra_links": {
           "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10148-1.pdf",
           "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10148-1.pdf",
-          "video": "https://www.youtube.com/embed/Z4HltbXNIZo"
+          "video": "https://youtu.be/Z4HltbXNIZo"
         }
       },
       {

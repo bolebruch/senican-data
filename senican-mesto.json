@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-21T18:12:19+02:00",
-    "generated_for_date": "2026-06-21",
+    "generated_at": "2026-06-22T18:12:55+02:00",
+    "generated_for_date": "2026-06-22",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
     "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú.",
@@ -68,26 +68,6 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Ďakovné služby božie",
-        "date": "2026-06-21",
-        "day": "21",
-        "month": "Jún",
-        "time": "10:00",
-        "venue": "Evanjelický kostol, Senica",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/dakovne-sluzby-bozie"
-      },
-      {
-        "name": "Prednáška Ľubomíra Batka – 200. výročie narodenia V. Paulínyho-Tótha",
-        "date": "2026-06-21",
-        "day": "21",
-        "month": "Jún",
-        "time": "14:00",
-        "venue": "Evanjelický kostol, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/dakovne-sluzby-bozie"
-      },
-      {
         "name": "Dekafest – festival chutí, hier a priateľstva na deke",
         "date": "2026-06-22",
         "day": "22",
@@ -96,16 +76,6 @@
         "venue": "Základná škola Sadová, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/dekafest"
-      },
-      {
-        "name": "Primátorská kvapka krvi",
-        "date": "2026-06-24",
-        "day": "24",
-        "month": "Jún",
-        "time": null,
-        "venue": null,
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10328-primatorska-kvapka-krvi"
       },
       {
         "name": "Cestovateľské kino – Čína",
@@ -118,14 +88,54 @@
         "source_url": "https://senica.sk/clanok/cestovatelske-kino-cina"
       },
       {
-        "name": "Marián Komáček – Návraty (výstava do 13. 8. 2026)",
-        "date": "2026-08-13",
-        "day": "13",
-        "month": "August",
+        "name": "Primátorská kvapka krvi",
+        "date": "2026-06-24",
+        "day": "24",
+        "month": "Jún",
         "time": null,
-        "venue": "LM Galéria súčasného umenia, Štefánikova 699/9, Senica",
+        "venue": null,
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10328-primatorska-kvapka-krvi"
+      },
+      {
+        "name": "Tvorivá sobota – výroba rybičiek s Ninou Danekovou",
+        "date": "2026-06-27",
+        "day": "27",
+        "month": "Jún",
+        "time": "09:30",
+        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/marian-komacek-navraty"
+        "source_url": "https://senica.sk/clanok/10370-tvoriva-sobota"
+      },
+      {
+        "name": "Prehliadka speváckych súborov seniorov okresu Senica",
+        "date": "2026-06-27",
+        "day": "27",
+        "month": "Jún",
+        "time": "14:00",
+        "venue": "Mestské kultúrne stredisko (MsKS), Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10373-prehliadka-spevackych-suborov-seniorov-okresu-senica"
+      },
+      {
+        "name": "Opravářská pohádka – divadlo DNO (Brno)",
+        "date": "2026-06-30",
+        "day": "30",
+        "month": "Jún",
+        "time": "15:00",
+        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/opravarska-pohadka"
+      },
+      {
+        "name": "Tajomná obálka – odmena za vysvedčenie",
+        "date": "2026-06-30",
+        "day": "30",
+        "month": "Jún",
+        "time": null,
+        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/tajomna-obalka"
       }
     ]
   },

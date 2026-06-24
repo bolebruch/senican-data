@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-22T18:12:55+02:00",
-    "generated_for_date": "2026-06-22",
+    "generated_at": "2026-06-23T20:14:24+02:00",
+    "generated_for_date": "2026-06-23",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk) bolo v tomto behu nedostupné, sekcia Podujatia preto vychádza zo senica.sk (Pozvánky).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,40 +22,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Rodičia sa zapojili do diskusie o budúcnosti senických škôlok",
-        "summary": "Mesto pozvalo rodičov k debate o tom, ako naložiť s materskými školami pri klesajúcom počte detí. Diskusia má pomôcť nájsť ďalšie smerovanie škôlok v Senici.",
-        "date": "2026-06-19",
-        "date_label": "19. 6. 2026",
+        "headline": "Švajčiarsky veľvyslanec Peter Nelson sa pred odchodom rozlúčil so Senicou",
+        "summary": "Švajčiarsky veľvyslanec Peter Nelson navštívil Senicu na rozlúčku pred svojím odchodom na nové pôsobisko.",
+        "date": "2026-06-23",
+        "date_label": "23. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/rodicia-sa-zapojili-do-diskusie-o-buducnosti-skolok-v-senici"
+        "source_url": "https://senica.sk/clanok/svajciarsky-velvyslanec-peter-nelson-sa-rozlucil-so-senicou-pred-odchodom-na-nove-posobisko"
       },
       {
-        "headline": "Referendum sa na Slovensku uskutoční v sobotu 4. júla",
-        "summary": "Celoslovenské referendum sa bude konať aj v Senici. Mesto zverejnilo praktické informácie k hlasovaniu, ktoré pripadá na sobotu 4. júla 2026.",
-        "date": "2026-06-19",
-        "date_label": "19. 6. 2026",
+        "headline": "Mesto sa pýta obyvateľov na ich skúsenosti s dopravou",
+        "summary": "Samospráva chce poznať názory a skúsenosti Seničanov s dopravnou situáciou v meste.",
+        "date": "2026-06-22",
+        "date_label": "22. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/referendum-na-slovensku-sa-uskutocni-v-sobotu-4-jula-2026"
+        "source_url": "https://senica.sk/clanok/chceme-vediet-vas-nazor-a-skusenosti-s-dopravnou-situaciou-v-nasom-meste"
       },
       {
-        "headline": "Mesto ocenilo mnohonásobných darcov krvi zo Senice",
-        "summary": "Samospráva poďakovala ľuďom, ktorí krv darujú opakovane. Ocenenie si prevzali viacerí dlhoroční darcovia z mesta.",
-        "date": "2026-06-18",
-        "date_label": "18. 6. 2026",
+        "headline": "Gulášovú súťaž o pohár primátora vyhral tím „2,5 promile“",
+        "summary": "Jedenásty ročník súťaže vo varení guláša o pohár primátora Senice ovládol tím „2,5 promile“.",
+        "date": "2026-06-22",
+        "date_label": "22. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/vyjadrili-sme-uctu-mnohonasobnym-darcom-krvi-zo-senice"
+        "source_url": "https://senica.sk/clanok/11-rocnik-gulasovej-sutaze-o-pohar-primatora-mesta-senica-ovladol-tim-2-5-promile"
       },
       {
-        "headline": "Senický amfiteáter čaká najväčšia obnova za desaťročia",
-        "summary": "Amfiteáter prejde najrozsiahlejšou rekonštrukciou za posledné desaťročia. Mesto sľubuje modernejší priestor pre letné podujatia.",
-        "date": "2026-06-18",
-        "date_label": "18. 6. 2026",
+        "headline": "V evanjelickom chráme znela história mesta i odkaz Paulínyho-Tótha",
+        "summary": "Podujatie v evanjelickom chráme pripomenulo históriu Senice a odkaz Paulínyho-Tótha.",
+        "date": "2026-06-21",
+        "date_label": "21. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/senicky-amfiteater-najvaecsia-obnova-za-posledne-desatrocia"
+        "source_url": "https://senica.sk/clanok/v-evanjelickom-chrame-rezonovala-historia-mesta-i-odkaz-paulinyho-totha"
       }
     ]
   },
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kategoria/pozvanky",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Dekafest – festival chutí, hier a priateľstva na deke",
-        "date": "2026-06-22",
-        "day": "22",
-        "month": "Jún",
-        "time": "15:00",
-        "venue": "Základná škola Sadová, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/dekafest"
-      },
       {
         "name": "Cestovateľské kino – Čína",
         "date": "2026-06-24",

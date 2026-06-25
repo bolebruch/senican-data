@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-23T20:14:24+02:00",
-    "generated_for_date": "2026-06-23",
+    "generated_at": "2026-06-24T18:12:30+02:00",
+    "generated_for_date": "2026-06-24",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk) bolo v tomto behu nedostupné, sekcia Podujatia preto vychádza zo senica.sk (Pozvánky).",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk) bolo v tomto behu nedostupné (web_fetch ho neumožnil stiahnuť), sekcia Podujatia preto vychádza zo senica.sk (Pozvánky) a z detailov článkov.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,8 +22,8 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Švajčiarsky veľvyslanec Peter Nelson sa pred odchodom rozlúčil so Senicou",
-        "summary": "Švajčiarsky veľvyslanec Peter Nelson navštívil Senicu na rozlúčku pred svojím odchodom na nové pôsobisko.",
+        "headline": "Švajčiarsky veľvyslanec sa pred odchodom rozlúčil so Senicou",
+        "summary": "Švajčiarsky veľvyslanec Peter Nelson zavítal do Senice na rozlúčkovú návštevu pred odchodom na nové pôsobisko.",
         "date": "2026-06-23",
         "date_label": "23. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -31,8 +31,17 @@
         "source_url": "https://senica.sk/clanok/svajciarsky-velvyslanec-peter-nelson-sa-rozlucil-so-senicou-pred-odchodom-na-nove-posobisko"
       },
       {
-        "headline": "Mesto sa pýta obyvateľov na ich skúsenosti s dopravou",
-        "summary": "Samospráva chce poznať názory a skúsenosti Seničanov s dopravnou situáciou v meste.",
+        "headline": "Mesto pozýva na 25. zasadnutie mestského zastupiteľstva",
+        "summary": "Samospráva zverejnila pozvánku na 25. zasadnutie mestského zastupiteľstva v Senici.",
+        "date": "2026-06-23",
+        "date_label": "23. 6. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/pozvanka-na-25-zasadnutie-mestskeho-zastupitelstva-v-senici"
+      },
+      {
+        "headline": "Mesto zisťuje skúsenosti obyvateľov s dopravou",
+        "summary": "Samospráva spustila prieskum, v ktorom chce poznať názory a skúsenosti Seničanov s dopravnou situáciou v meste.",
         "date": "2026-06-22",
         "date_label": "22. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -47,15 +56,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/11-rocnik-gulasovej-sutaze-o-pohar-primatora-mesta-senica-ovladol-tim-2-5-promile"
-      },
-      {
-        "headline": "V evanjelickom chráme znela história mesta i odkaz Paulínyho-Tótha",
-        "summary": "Podujatie v evanjelickom chráme pripomenulo históriu Senice a odkaz Paulínyho-Tótha.",
-        "date": "2026-06-21",
-        "date_label": "21. 6. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/v-evanjelickom-chrame-rezonovala-historia-mesta-i-odkaz-paulinyho-totha"
       }
     ]
   },
@@ -68,16 +68,6 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Cestovateľské kino – Čína",
-        "date": "2026-06-24",
-        "day": "24",
-        "month": "Jún",
-        "time": "17:30",
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/cestovatelske-kino-cina"
-      },
-      {
         "name": "Primátorská kvapka krvi",
         "date": "2026-06-24",
         "day": "24",
@@ -86,6 +76,16 @@
         "venue": null,
         "category": "Komunita",
         "source_url": "https://senica.sk/clanok/10328-primatorska-kvapka-krvi"
+      },
+      {
+        "name": "Cestovateľské kino – Čína",
+        "date": "2026-06-24",
+        "day": "24",
+        "month": "Jún",
+        "time": "17:30",
+        "venue": "Záhorské osvetové stredisko, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/cestovatelske-kino-cina"
       },
       {
         "name": "Tvorivá sobota – výroba rybičiek s Ninou Danekovou",
@@ -108,6 +108,16 @@
         "source_url": "https://senica.sk/clanok/10373-prehliadka-spevackych-suborov-seniorov-okresu-senica"
       },
       {
+        "name": "Tajomná obálka – odmena za vysvedčenie",
+        "date": "2026-06-30",
+        "day": "30",
+        "month": "Jún",
+        "time": null,
+        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/tajomna-obalka"
+      },
+      {
         "name": "Opravářská pohádka – divadlo DNO (Brno)",
         "date": "2026-06-30",
         "day": "30",
@@ -118,14 +128,24 @@
         "source_url": "https://senica.sk/clanok/opravarska-pohadka"
       },
       {
-        "name": "Tajomná obálka – odmena za vysvedčenie",
-        "date": "2026-06-30",
-        "day": "30",
-        "month": "Jún",
-        "time": null,
-        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
+        "name": "Klub Podporka – letné stretnutia podpornej skupiny duševného zdravia",
+        "date": "2026-07-07",
+        "day": "07",
+        "month": "Júl",
+        "time": "16:00",
+        "venue": "Denné centrum Senica, SNP 784",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/klub-podporka-pocas-leta"
+      },
+      {
+        "name": "Vernisáž: Milan Rašla – Zrkadlo v zrkadle",
+        "date": "2026-07-17",
+        "day": "17",
+        "month": "Júl",
+        "time": "17:00",
+        "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/tajomna-obalka"
+        "source_url": "https://senica.sk/clanok/program-zahorskej-galerie-jana-mudrocha-v-senici"
       }
     ]
   },

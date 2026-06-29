@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-27T18:12:31+02:00",
-    "generated_for_date": "2026-06-27",
+    "generated_at": "2026-06-28T18:25:28+02:00",
+    "generated_for_date": "2026-06-28",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk) bolo v tomto behu nedostupné (web_fetch ho neumožnil stiahnuť), sekcia Podujatia preto vychádza zo senica.sk (Pozvánky) a z detailov článkov.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: Sekcia Podujatia vychádza z mestského Kalendára podujatí (senica.sk/kalendar-podujati), ktorý agreguje dáta TIC (ticsenica.sk) – priame TIC REST API nebolo cez web_fetch dostupné, ale kalendár nesie tie isté podujatia vrátane času, miesta a odkazu na ticsenica.sk. Filmové premietania v Kine Mladosť sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,8 +22,8 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Vladimír Masrna odchádza do dôchodku, mesto mu poďakovalo",
-        "summary": "Vladimír Masrna sa po rokoch lúči s pracovným pôsobením a odchádza do dôchodku. Samospráva mu vyjadrila poďakovanie.",
+        "headline": "Vladimír Masrna odchádza do dôchodku, mesto sa s ním rozlúčilo",
+        "summary": "Dlhoročný pracovník Vladimír Masrna ukončil svoje pôsobenie a odchádza do dôchodku. Samospráva mu poďakovala za odvedenú prácu.",
         "date": "2026-06-26",
         "date_label": "26. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -31,8 +31,8 @@
         "source_url": "https://senica.sk/clanok/podakovanie-vladimirovi-masrnovi-a-odchod-do-dochodku"
       },
       {
-        "headline": "Nové okná v objekte Domky zlepšia podmienky pre prácu s mládežou",
-        "summary": "V objekte Domky vymenili okná. Má to zlepšiť podmienky pre prácu s mládežou.",
+        "headline": "V objekte Domky vymenili okná, zlepšia prácu s mládežou",
+        "summary": "V mládežníckom objekte Domky pribudli nové okná. Majú zlepšiť podmienky pre prácu s mladými ľuďmi.",
         "date": "2026-06-25",
         "date_label": "25. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -40,22 +40,22 @@
         "source_url": "https://senica.sk/clanok/vymena-okien-v-objekte-domky-zlepsi-podmienky-pre-pracu-s-mladezou"
       },
       {
-        "headline": "Telesne postihnutí v Senici zablahoželali svojim jubilantom",
-        "summary": "Senická organizácia Slovenského zväzu telesne postihnutých si pripomenula a uctila svojich jubilantov.",
-        "date": "2026-06-25",
-        "date_label": "25. 6. 2026",
+        "headline": "Mesto vyzýva obyvateľov, aby šetrili pitnou vodou",
+        "summary": "Pre aktuálny nedostatok zdrojov samospráva mimoriadne vyzýva domácnosti, aby šetrili pitnou vodou.",
+        "date": "2026-06-24",
+        "date_label": "24. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/slovensky-zvaez-telesne-postihnutych-v-senici-zablahozelal-jubilantom"
+        "source_url": "https://senica.sk/clanok/mimoriadna-vyzva-na-setrenie-pitnou-vodou"
       },
       {
-        "headline": "Poslanci budú rozhodovať o volebných obvodoch aj záverečnom účte mesta",
-        "summary": "Blížiace sa zasadnutie zastupiteľstva určí volebné obvody a počet poslancov a bude schvaľovať záverečný účet mesta.",
-        "date": "2026-06-25",
-        "date_label": "25. 6. 2026",
+        "headline": "Primátorská kvapka krvi: darovať prišlo 33 ľudí",
+        "summary": "Na mestský úrad prišlo darovať krv 33 darcov. Akcia opäť spojila dobrovoľníkov zo Senice a okolia.",
+        "date": "2026-06-24",
+        "date_label": "24. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/avizo-na-msz-urcenie-volebnych-obvodov-poctu-poslancov-aj-schvalovanie-zaverecneho-uctu"
+        "source_url": "https://senica.sk/clanok/primatorska-kvapka-krvi-na-mestsky-urad-prislo-33-darcov"
       }
     ]
   },
@@ -63,39 +63,19 @@
   "podujatia": {
     "title": "Podujatia v Senici",
     "subtitle": "Nadchádzajúce podujatia zoradené podľa dátumu. Filtruj podľa toho, čo ťa zaujíma.",
-    "attribution": "Zdroj: mesto Senica · senica.sk (Pozvánky)",
-    "attribution_url": "https://senica.sk/kategoria/pozvanky",
+    "attribution": "Zdroj: mesto Senica · Kalendár podujatí (ticsenica.sk)",
+    "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Tvorivá sobota",
-        "date": "2026-06-27",
-        "day": "27",
+        "name": "Kreatívna dielňa pre verejnosť",
+        "date": "2026-06-29",
+        "day": "29",
         "month": "Jún",
-        "time": "09:30",
-        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10370-tvoriva-sobota"
-      },
-      {
-        "name": "Prehliadka speváckych súborov seniorov okresu Senica",
-        "date": "2026-06-27",
-        "day": "27",
-        "month": "Jún",
-        "time": "14:00",
-        "venue": "Mestské kultúrne stredisko (MsKS), Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10373-prehliadka-spevackych-suborov-seniorov-okresu-senica"
-      },
-      {
-        "name": "Tajomná obálka – odmena za vysvedčenie",
-        "date": "2026-06-30",
-        "day": "30",
-        "month": "Jún",
-        "time": null,
-        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/tajomna-obalka"
+        "time": "13:00",
+        "venue": "Záhorská knižnica, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/kreativna-dielna-pre-verejnost-17/"
       },
       {
         "name": "Opravářská pohádka – divadlo DNO (Brno)",
@@ -103,9 +83,49 @@
         "day": "30",
         "month": "Jún",
         "time": "15:00",
-        "venue": "Záhorská knižnica – odd. pre deti a mládež, Senica",
+        "venue": "Záhorská knižnica, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/opravarska-pohadka"
+        "source_url": "https://ticsenica.sk/podujatie/opravarska-pohadka/"
+      },
+      {
+        "name": "TriKáčko – komunitný knižný klub",
+        "date": "2026-07-01",
+        "day": "01",
+        "month": "Júl",
+        "time": "16:00",
+        "venue": "Záhorská knižnica, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/trikacko-komunitny-knizny-klub-6/"
+      },
+      {
+        "name": "Hudobné štvrtky v DAV-e",
+        "date": "2026-07-02",
+        "day": "02",
+        "month": "Júl",
+        "time": "18:00",
+        "venue": "Mestský park Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/hudobne-stvrtky-v-dav-e-6/"
+      },
+      {
+        "name": "Štramák fest",
+        "date": "2026-07-04",
+        "day": "04",
+        "month": "Júl",
+        "time": "12:00",
+        "venue": "Futbalový štadión Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/stramak-fest/"
+      },
+      {
+        "name": "Nedeľné kultúrne večery (NKV)",
+        "date": "2026-07-05",
+        "day": "05",
+        "month": "Júl",
+        "time": "19:00",
+        "venue": "Dom kultúry, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/nedelne-kulturne-vecery-nkv-15/"
       },
       {
         "name": "Letný ateliér – denný výtvarný tábor pre deti",
@@ -115,37 +135,27 @@
         "time": null,
         "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/program-zahorskej-galerie-jana-mudrocha-v-senici#letny-atelier"
+        "source_url": "https://ticsenica.sk/podujatie/letny-atelier/"
       },
       {
-        "name": "Klub Podporka – letné stretnutia podpornej skupiny duševného zdravia",
-        "date": "2026-07-07",
-        "day": "07",
-        "month": "Júl",
-        "time": "16:00",
-        "venue": "Denné centrum Senica, SNP 784",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/klub-podporka-pocas-leta"
-      },
-      {
-        "name": "Komentovaná prehliadka končiacich výstav s autormi a kurátormi",
+        "name": "Komentovaná prehliadka výstav",
         "date": "2026-07-12",
         "day": "12",
         "month": "Júl",
         "time": "15:00",
         "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/program-zahorskej-galerie-jana-mudrocha-v-senici#komentovana-prehliadka"
+        "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-vystav/"
       },
       {
-        "name": "Vernisáž: Milan Rašla – Zrkadlo v zrkadle",
+        "name": "Milan Rašla: Zrkadlo v zrkadle (vernisáž)",
         "date": "2026-07-17",
         "day": "17",
         "month": "Júl",
         "time": "17:00",
         "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/program-zahorskej-galerie-jana-mudrocha-v-senici"
+        "source_url": "https://ticsenica.sk/podujatie/milan-rasla-zrkadlo-v-zrkadle/"
       }
     ]
   },
@@ -207,6 +217,19 @@
         }
       },
       {
+        "title": "22. zasadnutie MsZ — zápisnica a videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-02-19",
+        "date_label": "19. 2. 2026",
+        "status": null,
+        "source_url": "https://senica.sk/clanok/9997-22-zasadnutie-msz",
+        "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f9997-1.pdf",
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f9997-1.pdf",
+          "video": "https://www.youtube.com/embed/fktP9lu49PQ"
+        }
+      },
+      {
         "title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica",
         "type": "VZN",
         "date": null,
@@ -221,14 +244,6 @@
         "date_label": null,
         "status": "účinné",
         "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica"
-      },
-      {
-        "title": "VZN č. 91/2025 — O úprave predaja výrobkov na trhových miestach určených na ambulantný predaj",
-        "type": "VZN",
-        "date": null,
-        "date_label": null,
-        "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-uprave-predaja-vyrobkov-na-trhovych-miestach-urcenych-na-ambulantny-predaj"
       }
     ]
   }

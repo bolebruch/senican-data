@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-28T18:25:28+02:00",
-    "generated_for_date": "2026-06-28",
+    "generated_at": "2026-06-29T18:12:20+02:00",
+    "generated_for_date": "2026-06-29",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: Sekcia Podujatia vychádza z mestského Kalendára podujatí (senica.sk/kalendar-podujati), ktorý agreguje dáta TIC (ticsenica.sk) – priame TIC REST API nebolo cez web_fetch dostupné, ale kalendár nesie tie isté podujatia vrátane času, miesta a odkazu na ticsenica.sk. Filmové premietania v Kine Mladosť sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: Sekcia Podujatia vychádza z mestského Kalendára podujatí (senica.sk/kalendar-podujati), ktorý agreguje dáta TIC (ticsenica.sk) – priame TIC REST API nebolo cez web_fetch dostupné (provenance), ale kalendár nesie tie isté podujatia vrátane času, miesta a odkazu na ticsenica.sk. Filmové premietania v Kine Mladosť sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -40,22 +40,22 @@
         "source_url": "https://senica.sk/clanok/vymena-okien-v-objekte-domky-zlepsi-podmienky-pre-pracu-s-mladezou"
       },
       {
-        "headline": "Mesto vyzýva obyvateľov, aby šetrili pitnou vodou",
-        "summary": "Pre aktuálny nedostatok zdrojov samospráva mimoriadne vyzýva domácnosti, aby šetrili pitnou vodou.",
-        "date": "2026-06-24",
-        "date_label": "24. 6. 2026",
+        "headline": "Telesne postihnutí v Senici si uctili svojich jubilantov",
+        "summary": "Miestna organizácia Slovenského zväzu telesne postihnutých zablahoželala svojim členom, ktorí v tomto období oslávili životné jubileá.",
+        "date": "2026-06-25",
+        "date_label": "25. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/mimoriadna-vyzva-na-setrenie-pitnou-vodou"
+        "source_url": "https://senica.sk/clanok/slovensky-zvaez-telesne-postihnutych-v-senici-zablahozelal-jubilantom"
       },
       {
-        "headline": "Primátorská kvapka krvi: darovať prišlo 33 ľudí",
-        "summary": "Na mestský úrad prišlo darovať krv 33 darcov. Akcia opäť spojila dobrovoľníkov zo Senice a okolia.",
-        "date": "2026-06-24",
-        "date_label": "24. 6. 2026",
+        "headline": "Poslanci budú rozhodovať o volebných obvodoch aj záverečnom účte",
+        "summary": "Na blížiacom sa zasadnutí zastupiteľstva sa bude určovať počet poslancov a volebné obvody a schvaľovať záverečný účet mesta.",
+        "date": "2026-06-25",
+        "date_label": "25. 6. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/primatorska-kvapka-krvi-na-mestsky-urad-prislo-33-darcov"
+        "source_url": "https://senica.sk/clanok/avizo-na-msz-urcenie-volebnych-obvodov-poctu-poslancov-aj-schvalovanie-zaverecneho-uctu"
       }
     ]
   },
@@ -78,7 +78,7 @@
         "source_url": "https://ticsenica.sk/podujatie/kreativna-dielna-pre-verejnost-17/"
       },
       {
-        "name": "Opravářská pohádka – divadlo DNO (Brno)",
+        "name": "Opravářská pohádka",
         "date": "2026-06-30",
         "day": "30",
         "month": "Jún",
@@ -148,7 +148,7 @@
         "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-vystav/"
       },
       {
-        "name": "Milan Rašla: Zrkadlo v zrkadle (vernisáž)",
+        "name": "Milan Rašla: Zrkadlo v zrkadle",
         "date": "2026-07-17",
         "day": "17",
         "month": "Júl",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-06-29T18:12:20+02:00",
-    "generated_for_date": "2026-06-29",
+    "generated_at": "2026-07-01T20:35:51+02:00",
+    "generated_for_date": "2026-07-01",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
     "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: Sekcia Podujatia vychádza z mestského Kalendára podujatí (senica.sk/kalendar-podujati), ktorý agreguje dáta TIC (ticsenica.sk) – priame TIC REST API nebolo cez web_fetch dostupné (provenance), ale kalendár nesie tie isté podujatia vrátane času, miesta a odkazu na ticsenica.sk. Filmové premietania v Kine Mladosť sú vynechané.",
@@ -68,26 +68,6 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Kreatívna dielňa pre verejnosť",
-        "date": "2026-06-29",
-        "day": "29",
-        "month": "Jún",
-        "time": "13:00",
-        "venue": "Záhorská knižnica, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/kreativna-dielna-pre-verejnost-17/"
-      },
-      {
-        "name": "Opravářská pohádka",
-        "date": "2026-06-30",
-        "day": "30",
-        "month": "Jún",
-        "time": "15:00",
-        "venue": "Záhorská knižnica, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/opravarska-pohadka/"
-      },
-      {
         "name": "TriKáčko – komunitný knižný klub",
         "date": "2026-07-01",
         "day": "01",
@@ -116,6 +96,16 @@
         "venue": "Futbalový štadión Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/stramak-fest/"
+      },
+      {
+        "name": "Letné soboty na priehrade",
+        "date": "2026-07-04",
+        "day": "04",
+        "month": "Júl",
+        "time": "17:00",
+        "venue": "Kunovská priehrada",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/letne-soboty-na-priehrade-11/"
       },
       {
         "name": "Nedeľné kultúrne večery (NKV)",

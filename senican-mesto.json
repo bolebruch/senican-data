@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-01T20:35:51+02:00",
-    "generated_for_date": "2026-07-01",
+    "generated_at": "2026-07-02T20:12:00+02:00",
+    "generated_for_date": "2026-07-02",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
     "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: Sekcia Podujatia vychádza z mestského Kalendára podujatí (senica.sk/kalendar-podujati), ktorý agreguje dáta TIC (ticsenica.sk) – priame TIC REST API nebolo cez web_fetch dostupné (provenance), ale kalendár nesie tie isté podujatia vrátane času, miesta a odkazu na ticsenica.sk. Filmové premietania v Kine Mladosť sú vynechané.",
@@ -22,40 +22,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Vladimír Masrna odchádza do dôchodku, mesto sa s ním rozlúčilo",
-        "summary": "Dlhoročný pracovník Vladimír Masrna ukončil svoje pôsobenie a odchádza do dôchodku. Samospráva mu poďakovala za odvedenú prácu.",
-        "date": "2026-06-26",
-        "date_label": "26. 6. 2026",
+        "headline": "Mladí by v Senici najviac privítali bikepark",
+        "summary": "Spomedzi nápadov, čo by v meste pomohlo mladým ľuďom, získal najväčšiu podporu bikepark.",
+        "date": "2026-07-02",
+        "date_label": "2. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/podakovanie-vladimirovi-masrnovi-a-odchod-do-dochodku"
+        "source_url": "https://senica.sk/clanok/senicania-si-pre-mladych-najviac-zelaju-bikepark"
       },
       {
-        "headline": "V objekte Domky vymenili okná, zlepšia prácu s mládežou",
-        "summary": "V mládežníckom objekte Domky pribudli nové okná. Majú zlepšiť podmienky pre prácu s mladými ľuďmi.",
-        "date": "2026-06-25",
-        "date_label": "25. 6. 2026",
+        "headline": "Senica a Hodonín rozbehli spoločný projekt pre cyklistov",
+        "summary": "Susedné mestá Senica a Hodonín uzavreli spoločný projekt zameraný na podporu cyklomobility.",
+        "date": "2026-07-02",
+        "date_label": "2. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/vymena-okien-v-objekte-domky-zlepsi-podmienky-pre-pracu-s-mladezou"
+        "source_url": "https://senica.sk/clanok/senica-a-hodonin-uzavreli-spolocny-projekt-na-podporu-cyklomobility"
       },
       {
-        "headline": "Telesne postihnutí v Senici si uctili svojich jubilantov",
-        "summary": "Miestna organizácia Slovenského zväzu telesne postihnutých zablahoželala svojim členom, ktorí v tomto období oslávili životné jubileá.",
-        "date": "2026-06-25",
-        "date_label": "25. 6. 2026",
+        "headline": "Mesto zverejnilo sobášne dni na rok 2027",
+        "summary": "Matrika oznámila termíny sobášnych dní v Senici na budúci rok.",
+        "date": "2026-07-01",
+        "date_label": "1. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/slovensky-zvaez-telesne-postihnutych-v-senici-zablahozelal-jubilantom"
+        "source_url": "https://senica.sk/clanok/sobasne-dni-v-senici-v-roku-2027"
       },
       {
-        "headline": "Poslanci budú rozhodovať o volebných obvodoch aj záverečnom účte",
-        "summary": "Na blížiacom sa zasadnutí zastupiteľstva sa bude určovať počet poslancov a volebné obvody a schvaľovať záverečný účet mesta.",
-        "date": "2026-06-25",
-        "date_label": "25. 6. 2026",
+        "headline": "Spevácke súbory seniorov sa opäť stretli na pódiu",
+        "summary": "Súbory seniorov z okolia sa predstavili na spoločnej prehliadke a znovu si zaspievali pred publikom.",
+        "date": "2026-07-01",
+        "date_label": "1. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/avizo-na-msz-urcenie-volebnych-obvodov-poctu-poslancov-aj-schvalovanie-zaverecneho-uctu"
+        "source_url": "https://senica.sk/clanok/subory-seniorov-sa-opaet-stretli-na-podiu"
       }
     ]
   },
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "TriKáčko – komunitný knižný klub",
-        "date": "2026-07-01",
-        "day": "01",
-        "month": "Júl",
-        "time": "16:00",
-        "venue": "Záhorská knižnica, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/trikacko-komunitny-knizny-klub-6/"
-      },
       {
         "name": "Hudobné štvrtky v DAV-e",
         "date": "2026-07-02",
@@ -122,7 +112,7 @@
         "date": "2026-07-06",
         "day": "06",
         "month": "Júl",
-        "time": null,
+        "time": "08:00",
         "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/letny-atelier/"
@@ -138,6 +128,16 @@
         "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-vystav/"
       },
       {
+        "name": "Právna pomoc pre obyvateľov",
+        "date": "2026-07-14",
+        "day": "14",
+        "month": "Júl",
+        "time": "08:30",
+        "venue": "Mestský úrad Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/pravna-pomoc-5/"
+      },
+      {
         "name": "Milan Rašla: Zrkadlo v zrkadle",
         "date": "2026-07-17",
         "day": "17",
@@ -146,6 +146,16 @@
         "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/milan-rasla-zrkadlo-v-zrkadle/"
+      },
+      {
+        "name": "Letné soboty na priehrade",
+        "date": "2026-07-18",
+        "day": "18",
+        "month": "Júl",
+        "time": "17:00",
+        "venue": "Kunovská priehrada",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/letne-soboty-na-priehrade-12/"
       }
     ]
   },
@@ -156,21 +166,7 @@
     "attribution": "Zdroj: senica.sk",
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
-    "items": [
-      {
-        "type": "voda",
-        "what": "Prerušenie dodávky vody z verejného vodovodu",
-        "where": "Ul. Slnečná 3148/18, 3149/20, 3150/22, 3153/28, 3155/25, 3156/23, 3157/21, 3180/17, 3158/19",
-        "when": "1. 7. 2026, 8:00 – 12:00",
-        "starts": "2026-07-01",
-        "ends": "2026-07-01",
-        "status": "plánovaná",
-        "provider": "Bratislavská vodárenská spoločnosť, a. s.",
-        "note": "Plánovaná oprava, bez náhradného zásobovania pitnou vodou.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/prerusenie-dodavky-vody-z-verejneho-vodovodu"
-      }
-    ]
+    "items": []
   },
 
   "transparentnost": {
@@ -180,6 +176,17 @@
     "attribution_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
     "badge": "Úradné",
     "items": [
+      {
+        "title": "25. zasadnutie MsZ — videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-06-26",
+        "date_label": "26. 6. 2026",
+        "status": null,
+        "source_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
+        "extra_links": {
+          "video": "https://www.youtube.com/embed/fwG-Ba4RM9E"
+        }
+      },
       {
         "title": "24. zasadnutie MsZ — zápisnica a videozáznam",
         "type": "Záznam MsZ",
@@ -204,19 +211,6 @@
           "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10148-1.pdf",
           "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10148-1.pdf",
           "video": "https://youtu.be/Z4HltbXNIZo"
-        }
-      },
-      {
-        "title": "22. zasadnutie MsZ — zápisnica a videozáznam",
-        "type": "Záznam MsZ",
-        "date": "2026-02-19",
-        "date_label": "19. 2. 2026",
-        "status": null,
-        "source_url": "https://senica.sk/clanok/9997-22-zasadnutie-msz",
-        "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f9997-1.pdf",
-          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f9997-1.pdf",
-          "video": "https://www.youtube.com/embed/fktP9lu49PQ"
         }
       },
       {

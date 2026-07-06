@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-03T20:24:03+02:00",
-    "generated_for_date": "2026-07-03",
+    "generated_at": "2026-07-05T20:11:32+02:00",
+    "generated_for_date": "2026-07-05",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: Priame TIC REST API (ticsenica.sk) ani mestský Kalendár podujatí neboli cez web_fetch dostupné (provenance / JS aplikácia). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi; pri ďalšom behu s dostupným TIC API sa prepíše čerstvými dátami. Filmové premietania v Kine Mladosť sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nedá stiahnuť). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi (Štramák fest 04.07. a Letné soboty 04.07. vypadli). Mestské pozvánky (senica.sk/pozvanky) sa preverili — dátumy v listingu sú publikačné, nie dátumy konania, a väčšina má miesto/čas len v obrázku, preto sa neoverené pozvánky nepridávali (radšej prázdne než vymyslené). Servis: všetky odstávky (voda 01.07., elektrina 08.–11.06.) už prešli → prázdne. Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -67,26 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Štramák fest",
-        "date": "2026-07-04",
-        "day": "04",
-        "month": "Júl",
-        "time": "12:00",
-        "venue": "Futbalový štadión Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/stramak-fest/"
-      },
-      {
-        "name": "Letné soboty na priehrade",
-        "date": "2026-07-04",
-        "day": "04",
-        "month": "Júl",
-        "time": "17:00",
-        "venue": "Kunovská priehrada",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/letne-soboty-na-priehrade-11/"
-      },
       {
         "name": "Nedeľné kultúrne večery (NKV)",
         "date": "2026-07-05",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-07T20:12:34+02:00",
-    "generated_for_date": "2026-07-07",
+    "generated_at": "2026-07-08T20:10:52+02:00",
+    "generated_for_date": "2026-07-08",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nedá stiahnuť, jeho URL sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk (Čchi kung, SmartLab, Tančírna, Klub Podporka, Hecni sa) — pri každej sme otvorili článok a vytiahli dátum, čas a miesto z textu. Klub Podporka je séria stretnutí (7. 7., 21. 7., 4. 8., 18. 8.); zaradený je najbližší jasne budúci termín 21. 7. Recurring podujatia bez jedného pevného dátumu (Workshopy pre dospelých — 'každú stredu', Kreatívne dielne — 'utorky a štvrtky') sme nezaradili. Uplynulé sme vynechali: Štramák fest (04.07.), Letný ateliér (06.07.). Servis: jediná plánovaná odstávka (voda, Slnečná ul., 01.07.2026 8:00-12:00) už prešla → prázdne. Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz, takže sa nedá stiahnuť). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk. Kontrola voči senica.sk/kategoria/pozvanky (8. 7. 2026): všetkých 9 podujatí je stále v budúcnosti (najbližšie Čchi kung 8. 7., najvzdialenejšie Hecni sa 22. 8.). Recurring pozvánky bez jedného pevného dátumu (Workshopy pre dospelých, Kreatívne dielne, program Záhorského osvetového strediska) sme nezaradili. Uplynulé z pozvánok sme vynechali: Štramák fest (4. 7.), Letný ateliér (6. 7.). Servis: jediná evidovaná odstávka (voda, Ul. Slnečná, 1. 7. 2026 8:00-12:00) už prešla → sekcia prázdna. Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,6 +21,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "ZŠ s MŠ J. Mudrocha dostane výťah pre deti s pohybovým znevýhodnením",
+        "summary": "Na základnej škole s materskou školou J. Mudrocha pribudne výťah, ktorý sprístupní budovu deťom s pohybovým znevýhodnením.",
+        "date": "2026-07-08",
+        "date_label": "8. 7. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/pre-pohybovo-znevyhodnene-deti-pribudne-na-zs-s-ms-j-mudrocha-vytah"
+      },
       {
         "headline": "Materské školy v Senici pôjdu od septembra z 23 tried na 21",
         "summary": "Od nového školského roka klesne počet tried v senických materských školách z 23 na 21.",
@@ -47,15 +56,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/ucast-na-referende-bola-aj-v-senici-nizka"
-      },
-      {
-        "headline": "Mestská polícia riešila potýčku, útok psa na kuriéra aj spadnutý strom",
-        "summary": "Z posledných zásahov senickej mestskej polície — potýčka medzi ľuďmi, útok psa na kuriéra a odstraňovanie spadnutého stromu.",
-        "date": "2026-07-03",
-        "date_label": "3. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Zo zápisníka MsP",
-        "source_url": "https://senica.sk/clanok/zo-zasahov-mestskej-policie-potycka-utok-psa-na-kuriera-aj-spadnuty-strom"
       }
     ]
   },
@@ -217,17 +217,12 @@
         "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica"
       },
       {
-        "title": "23. zasadnutie MsZ — zápisnica a videozáznam",
-        "type": "Záznam MsZ",
-        "date": "2026-04-16",
-        "date_label": "16. 4. 2026",
-        "status": null,
-        "source_url": "https://senica.sk/clanok/10148-23-zasadnutie-msz",
-        "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10148-1.pdf",
-          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10148-1.pdf",
-          "video": "https://youtu.be/Z4HltbXNIZo"
-        }
+        "title": "VZN č. 91/2025 — O úprave predaja výrobkov na trhových miestach určených na ambulantný predaj",
+        "type": "VZN",
+        "date": null,
+        "date_label": null,
+        "status": "účinné",
+        "source_url": "https://senica.sk/clanok/o-uprave-predaja-vyrobkov-na-trhovych-miestach-urcenych-na-ambulantny-predaj"
       }
     ]
   }

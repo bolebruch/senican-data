@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-08T20:10:52+02:00",
-    "generated_for_date": "2026-07-08",
+    "generated_at": "2026-07-09T20:10:46+02:00",
+    "generated_for_date": "2026-07-09",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz, takže sa nedá stiahnuť). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk. Kontrola voči senica.sk/kategoria/pozvanky (8. 7. 2026): všetkých 9 podujatí je stále v budúcnosti (najbližšie Čchi kung 8. 7., najvzdialenejšie Hecni sa 22. 8.). Recurring pozvánky bez jedného pevného dátumu (Workshopy pre dospelých, Kreatívne dielne, program Záhorského osvetového strediska) sme nezaradili. Uplynulé z pozvánok sme vynechali: Štramák fest (4. 7.), Letný ateliér (6. 7.). Servis: jediná evidovaná odstávka (voda, Ul. Slnečná, 1. 7. 2026 8:00-12:00) už prešla → sekcia prázdna. Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk. Kontrola voči senica.sk/kategoria/pozvanky (9. 7. 2026): oproti minulému behu vypadlo 'Cvičíme Čchi kung' (8. 7. 2026 už uplynulo). Ostatných 8 podujatí je stále v budúcnosti (najbližšie Komentovaná prehliadka výstav 12. 7., najvzdialenejšie Hecni sa po desiate 22. 8.). Recurring pozvánky bez jedného pevného dátumu (Workshopy pre dospelých, Kreatívne dielne, program Záhorského osvetového strediska) sme nezaradili. Servis: článok 'Prerušenie dodávky vody - júl 2026' bol aktualizovaný 8. 7. 2026 a obsahuje ešte platný termín 22. 7. 2026 (8:00-12:00) na Ul. Slnečná — sekcia preto už nie je prázdna (termín 1. 7. 2026 uplynul). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Cvičíme Čchi kung",
-        "date": "2026-07-08",
-        "day": "08",
-        "month": "Júl",
-        "time": "17:00",
-        "venue": "Záhorská knižnica – dvor, Senica",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/cvicime-cchi-kung"
-      },
       {
         "name": "Komentovaná prehliadka výstav",
         "date": "2026-07-12",
@@ -166,7 +156,21 @@
     "attribution": "Zdroj: senica.sk",
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
-    "items": []
+    "items": [
+      {
+        "type": "voda",
+        "what": "Prerušenie dodávky vody z verejného vodovodu",
+        "where": "Ul. Slnečná 3148/18, 3149/20, 3150/22, 3153/28, 3155/25, 3156/23, 3157/21, 3180/17, 3158/19",
+        "when": "22. 7. 2026, 8:00 – 12:00 hod.",
+        "starts": "2026-07-22",
+        "ends": "2026-07-22",
+        "status": "plánovaná",
+        "provider": "Bratislavská vodárenská spoločnosť, a. s.",
+        "note": "Bez náhradného zásobovania pitnou vodou.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/prerusenie-dodavky-vody-z-verejneho-vodovodu-jul-2026"
+      }
+    ]
   },
 
   "transparentnost": {
@@ -205,7 +209,7 @@
         "type": "VZN",
         "date": null,
         "date_label": null,
-        "status": "platné",
+        "status": "účinné",
         "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica"
       },
       {

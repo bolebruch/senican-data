@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-09T20:10:46+02:00",
-    "generated_for_date": "2026-07-09",
+    "generated_at": "2026-07-11T20:11:04+02:00",
+    "generated_for_date": "2026-07-11",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk. Kontrola voči senica.sk/kategoria/pozvanky (9. 7. 2026): oproti minulému behu vypadlo 'Cvičíme Čchi kung' (8. 7. 2026 už uplynulo). Ostatných 8 podujatí je stále v budúcnosti (najbližšie Komentovaná prehliadka výstav 12. 7., najvzdialenejšie Hecni sa po desiate 22. 8.). Recurring pozvánky bez jedného pevného dátumu (Workshopy pre dospelých, Kreatívne dielne, program Záhorského osvetového strediska) sme nezaradili. Servis: článok 'Prerušenie dodávky vody - júl 2026' bol aktualizovaný 8. 7. 2026 a obsahuje ešte platný termín 22. 7. 2026 (8:00-12:00) na Ul. Slnečná — sekcia preto už nie je prázdna (termín 1. 7. 2026 uplynul). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk. Kontrola voči senica.sk/kategoria/pozvanky (11. 7. 2026): pribudli dve nové pozvánky — 'Nedeľné kultúrne večery' (najbližší koncert 12. 7. o 18:00) a 'Prázdninový SmartLab pre dospelých' (22. 7. 14:00-17:00, Záhorská knižnica – klubovňa). Kvôli stropu ~9 položiek a zoradeniu podľa dátumu vypadla najvzdialenejšia položka 'Hecni sa po desiate' (22. 8.). Recurring pozvánky bez jedného pevného dátumu (Workshopy pre dospelých, Kreatívne dielne) sme nezaradili. Z mesta: 4 najnovšie spravodajské články sú nezmenené oproti minulému behu (novšie sú už len pracovné inzeráty 'Hľadáme...'). Servis: článok 'Prerušenie dodávky vody - júl 2026' stále obsahuje platný termín 22. 7. 2026 (8:00-12:00) na Ul. Slnečná — sekcia nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN je stále 93/2026, najnovší záznam MsZ je 25. zasadnutie). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -78,6 +78,16 @@
         "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-vystav/"
       },
       {
+        "name": "Nedeľné kultúrne večery: Klub priateľov heligónky a Seniorka",
+        "date": "2026-07-12",
+        "day": "12",
+        "month": "Júl",
+        "time": "18:00",
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
+      },
+      {
         "name": "Právna pomoc pre obyvateľov",
         "date": "2026-07-14",
         "day": "14",
@@ -138,14 +148,14 @@
         "source_url": "https://senica.sk/clanok/klub-podporka-pocas-leta"
       },
       {
-        "name": "Hecni sa po desiate",
-        "date": "2026-08-22",
+        "name": "Prázdninový SmartLab pre dospelých",
+        "date": "2026-07-22",
         "day": "22",
-        "month": "August",
-        "time": null,
-        "venue": "Kunovská priehrada",
-        "category": "Šport",
-        "source_url": "https://senica.sk/clanok/hecni-sa-po-desiate"
+        "month": "Júl",
+        "time": "14:00",
+        "venue": "Záhorská knižnica – klubovňa, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/prazdninovy-smartlab-pre-dospelych"
       }
     ]
   },

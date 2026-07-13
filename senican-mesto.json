@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-11T20:11:04+02:00",
-    "generated_for_date": "2026-07-11",
+    "generated_at": "2026-07-12T20:11:45+02:00",
+    "generated_for_date": "2026-07-12",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk. Kontrola voči senica.sk/kategoria/pozvanky (11. 7. 2026): pribudli dve nové pozvánky — 'Nedeľné kultúrne večery' (najbližší koncert 12. 7. o 18:00) a 'Prázdninový SmartLab pre dospelých' (22. 7. 14:00-17:00, Záhorská knižnica – klubovňa). Kvôli stropu ~9 položiek a zoradeniu podľa dátumu vypadla najvzdialenejšia položka 'Hecni sa po desiate' (22. 8.). Recurring pozvánky bez jedného pevného dátumu (Workshopy pre dospelých, Kreatívne dielne) sme nezaradili. Z mesta: 4 najnovšie spravodajské články sú nezmenené oproti minulému behu (novšie sú už len pracovné inzeráty 'Hľadáme...'). Servis: článok 'Prerušenie dodávky vody - júl 2026' stále obsahuje platný termín 22. 7. 2026 (8:00-12:00) na Ul. Slnečná — sekcia nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN je stále 93/2026, najnovší záznam MsZ je 25. zasadnutie). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk (kontrola 12. 7. 2026). Oproti behu z 11. 7. 2026 sa nič nezmenilo: žiadne z 9 podujatí ešte neprešlo (najskoršie sú dve dnešné — Komentovaná prehliadka výstav 15:00 a Nedeľné kultúrne večery 18:00), v pozvánkach nepribudla nová položka (najbližšia mimo stropu je 'Hecni sa po desiate' 22. 8.). Z mesta: 4 najnovšie spravodajské články sú nezmenené (novšie sú už len pracovné inzeráty 'Hľadáme...'). Servis: článok 'Prerušenie dodávky vody - júl 2026' obsahuje dva termíny (1. 7. – uplynul, 22. 7. 2026 8:00-12:00 – platný), sekcia teda nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN je stále 93/2026, najnovší záznam MsZ je 25. zasadnutie z 26. 6. 2026; esam zoznam MsZ končí na 24. zasadnutí). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -176,7 +176,7 @@
         "ends": "2026-07-22",
         "status": "plánovaná",
         "provider": "Bratislavská vodárenská spoločnosť, a. s.",
-        "note": "Bez náhradného zásobovania pitnou vodou.",
+        "note": "Plánovaná oprava, bez náhradného zásobovania pitnou vodou. (Skorší termín 1. 7. 2026 už prebehol.)",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/prerusenie-dodavky-vody-z-verejneho-vodovodu-jul-2026"
       }

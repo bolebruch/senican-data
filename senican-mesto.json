@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-15T06:00:00+02:00",
-    "generated_for_date": "2026-07-15",
+    "generated_at": "2026-07-16T20:14:11+02:00",
+    "generated_for_date": "2026-07-16",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz). Sekcia Podujatia preto nesie posledný známy TIC snímok s odstránenými uplynulými termínmi, doplnený o overené mestské pozvánky zo senica.sk (kontrola 15. 7. 2026). Oproti behu zo 14. 7. 2026: vypadli dve podujatia zo 14. 7. (Právna pomoc pre obyvateľov, Prázdninový SmartLab pre deti — už uplynuli). Pribudli dve nové mestské pozvánky s overeným detailom: 'Tri príbehy na jednej vlne' (29. 7. 2026, 16:30–18:00, Záhorská knižnica – dvor, voľný vstup) a 'Hecni sa po desiate' (22. 8. 2026, Kunovská priehrada, adrenalínové preteky — čas v článku neuvedený, ponechaný null). Zoznam podujatí má 8 položiek. Z mesta: 4 najnovšie spravodajské články sú nezmenené (novšie sú len pracovné inzeráty 'Hľadáme...'). Servis: článok 'Prerušenie dodávky vody - júl 2026' — platný termín 22. 7. 2026 8:00-12:00 (skorší termín 1. 7. už prebehol), sekcia nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN je stále 93/2026, najnovší záznam MsZ je 25. zasadnutie z 26. 6. 2026). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz, ktorý by web_fetch mohol nasledovať). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 16. 7. 2026) a z posledného známeho TIC snímku s odstránenými uplynulými termínmi. Oproti behu z 15. 7. 2026: vypadli podujatia z 15. 7. (Workshopy pre dospelých, Tančírna — už uplynuli). Pribudlo 'Nedeľné kultúrne večery' (letný cyklus, najbližší koncert 19. 7. 2026 — Spevácky zbor Cantilena; miesto ani čas nie sú v texte uvedené, ponechané null). Zoznam podujatí má 7 položiek. Z mesta: prebraté 4 najnovšie spravodajské články (pracovný inzerát 'Hľadáme operátora...' vynechaný), všetky nové oproti minulému behu — rozptylová lúka na cintoríne, termín zberu objemného odpadu, letná prevádzka Poradne komplexnej pomoci a článok o zaniknutých senických cintorínoch. Servis: článok 'Prerušenie dodávky vody - júl 2026' — platný termín 22. 7. 2026 8:00-12:00 (skorší termín 1. 7. už prebehol), sekcia nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN je stále 93/2026, najnovší záznam MsZ je 25. zasadnutie z 26. 6. 2026). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,40 +22,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "ZŠ s MŠ J. Mudrocha dostane výťah pre deti s pohybovým znevýhodnením",
-        "summary": "Na základnej škole s materskou školou J. Mudrocha pribudne výťah, ktorý sprístupní budovu deťom s pohybovým znevýhodnením.",
-        "date": "2026-07-08",
-        "date_label": "8. 7. 2026",
+        "headline": "Na senickom cintoríne pribudne rozptylová lúka",
+        "summary": "Na mestskom cintoríne v Senici vznikne rozptylová lúka — nová možnosť pre pietne rozlúčenie.",
+        "date": "2026-07-16",
+        "date_label": "16. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/pre-pohybovo-znevyhodnene-deti-pribudne-na-zs-s-ms-j-mudrocha-vytah"
+        "source_url": "https://senica.sk/clanok/na-cintorine-pribudne-rozptylova-luka"
       },
       {
-        "headline": "Materské školy v Senici pôjdu od septembra z 23 tried na 21",
-        "summary": "Od nového školského roka klesne počet tried v senických materských školách z 23 na 21.",
-        "date": "2026-07-07",
-        "date_label": "7. 7. 2026",
+        "headline": "Blíži sa termín zberu objemného odpadu",
+        "summary": "V Senici sa blíži termín zberu objemného odpadu — pripomienka pre domácnosti, čo a kedy môžu vyložiť.",
+        "date": "2026-07-16",
+        "date_label": "16. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/od-septembra-sa-znizi-pocet-tried-ms-z-23-na-21"
+        "source_url": "https://senica.sk/clanok/blizi-sa-termin-zberu-objemneho-odpadu"
       },
       {
-        "headline": "Leto v Senici sa dá užiť aj na dvoch kolesách",
-        "summary": "Tip na leto — vyraziť do okolia Senice na bicykli a využiť miestne cyklotrasy.",
-        "date": "2026-07-06",
-        "date_label": "6. 7. 2026",
+        "headline": "Poradňa komplexnej pomoci funguje v Senici aj cez leto",
+        "summary": "Senická Poradňa komplexnej pomoci je k dispozícii aj počas letných mesiacov.",
+        "date": "2026-07-15",
+        "date_label": "15. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/uzivajte-si-leto-aj-na-dvoch-kolesach"
+        "source_url": "https://senica.sk/clanok/senicka-poradna-komplexnej-pomoci-funguje-aj-v-lete"
       },
       {
-        "headline": "Referendum malo aj v Senici nízku účasť",
-        "summary": "K referendu prišlo v Senici málo voličov — účasť zostala nízka, podobne ako inde.",
-        "date": "2026-07-06",
-        "date_label": "6. 7. 2026",
+        "headline": "Tichí svedkovia minulosti: história zaniknutých senických cintorínov",
+        "summary": "Pohľad do minulosti mesta — príbeh cintorínov, ktoré v Senici už dnes nenájdete.",
+        "date": "2026-07-14",
+        "date_label": "14. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/ucast-na-referende-bola-aj-v-senici-nizka"
+        "source_url": "https://senica.sk/clanok/tichi-svedkovia-minulosti-poznate-historiu-zaniknutych-senickych-cintorinov"
       }
     ]
   },
@@ -68,26 +68,6 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Workshopy pre dospelých",
-        "date": "2026-07-15",
-        "day": "15",
-        "month": "Júl",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/workshopy-pre-dospelych"
-      },
-      {
-        "name": "Tančírna",
-        "date": "2026-07-15",
-        "day": "15",
-        "month": "Júl",
-        "time": "18:00",
-        "venue": "Glow Park House, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/tancirna"
-      },
-      {
         "name": "Milan Rašla: Zrkadlo v zrkadle",
         "date": "2026-07-17",
         "day": "17",
@@ -95,7 +75,7 @@
         "time": "17:00",
         "venue": "Záhorská galéria Jána Mudrocha, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/milan-rasla-zrkadlo-v-zrkadle/"
+        "source_url": "https://senica.sk/clanok/milan-rasla-zrkadlo-v-zrkadle"
       },
       {
         "name": "Letné soboty na priehrade",
@@ -106,6 +86,16 @@
         "venue": "Kunovská priehrada",
         "category": "Komunita",
         "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
+      },
+      {
+        "name": "Nedeľné kultúrne večery",
+        "date": "2026-07-19",
+        "day": "19",
+        "month": "Júl",
+        "time": null,
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
       },
       {
         "name": "Klub Podporka – podporná skupina duševného zdravia",

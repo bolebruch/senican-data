@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-17T21:09:12+02:00",
-    "generated_for_date": "2026-07-17",
+    "generated_at": "2026-07-20T20:10:51+02:00",
+    "generated_for_date": "2026-07-20",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz, ktorý by web_fetch mohol nasledovať). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 17. 7. 2026), pričom dátumy, časy a miesta boli overené otvorením konkrétnych článkov. Oproti behu z 16. 7. 2026: podujatia sa nezmenili (Milan Rašla 17. 7. je stále >= dnes), Letné soboty na priehrade posunuté na najbližší termín 18. 7. (Včelie dedičstvo, bábková hra, 17:00 pri lodenici) a Nedeľné kultúrne večery na 19. 7. (Spevácky zbor Cantilena) — potvrdené z článkov. Zoznam podujatí má 7 položiek. Z mesta: prebraté 4 najnovšie články (3 nové oproti minulému behu — kampaň Do práce na bicykli, Zo zápisníka MsP, vznik erbu mesta; ponechaná rozptylová lúka zo 16. 7.). Servis: článok 'Prerušenie dodávky vody - júl 2026' — skorší termín 1. 7. 2026 už prebehol, platný ostáva 22. 7. 2026 8:00-12:00; sekcia nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN je stále 93/2026, 92/2026, 91/2025; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nikde neobjaví ako odkaz, ktorý by web_fetch mohol nasledovať). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 20. 7. 2026), pričom dátumy, časy a miesta boli overené otvorením konkrétnych článkov. Oproti behu zo 17. 7. 2026: minulotýždňové položky (Milan Rašla 17. 7., Včelie dedičstvo 18. 7., Cantilena 19. 7.) už prešli a vypadli; nahradili ich ďalšie termíny letných sérií (Nedeľné kultúrne večery 26. 7. Robo Čerňák a RBB, 2. 8. Benedikt Cintula a Martin Jamárik, 9. 8. Martin Kier; Letné soboty na priehrade 1. 8. Koncert Dlhé vlny 19:00, 8. 8. Tinti Linti 17:00) — všetky dátumy potvrdené z programov v článkoch. Zoznam podujatí má 8 položiek. Z mesta: 4 najnovšie mestské články (kampaň Do práce na bicykli, Zo zápisníka MsP, vznik erbu mesta, rozptylová lúka na cintoríne). Servis: článok 'Prerušenie dodávky vody - júl 2026' — platný termín 22. 7. 2026 8:00-12:00 je stále >= dnes, sekcia nie je prázdna. Transparentnosť: bez zmeny (najvyššie účinné VZN 93/2026, 92/2026, 91/2025; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026, žiadne 26. zasadnutie sa zatiaľ neobjavilo). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -23,7 +23,7 @@
     "items": [
       {
         "headline": "Kampaň Do práce na bicykli mala v Senici rekordnú účasť",
-        "summary": "Tohtoročná kampaň Do práce na bicykli priniesla v Senici rekordné čísla — zapojilo sa viac ľudí než kedykoľvek predtým.",
+        "summary": "Tohtoročná Do práce na bicykli priniesla v Senici rekordné čísla — do sedla si sadlo viac ľudí než v ktoromkoľvek predošlom ročníku.",
         "date": "2026-07-17",
         "date_label": "17. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -32,7 +32,7 @@
       },
       {
         "headline": "Zo zápisníka mestskej polície: kôň v Kunove, škoda v hoteli aj krádež v obchode",
-        "summary": "Najnovší výber prípadov senickej mestskej polície — voľne pobehujúci kôň v Kunove, poškodená hotelová izba a krádež v obchode.",
+        "summary": "Najnovší výber z hlásení senickej mestskej polície — voľne pobehujúci kôň v Kunove, poškodená hotelová izba a krádež v obchode.",
         "date": "2026-07-17",
         "date_label": "17. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -50,7 +50,7 @@
       },
       {
         "headline": "Na senickom cintoríne pribudne rozptylová lúka",
-        "summary": "Na mestskom cintoríne v Senici vznikne rozptylová lúka — nová možnosť pre pietne rozlúčenie.",
+        "summary": "Na mestskom cintoríne v Senici vznikne rozptylová lúka — nová možnosť pietnej rozlúčky.",
         "date": "2026-07-16",
         "date_label": "16. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -68,46 +68,6 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Milan Rašla: Zrkadlo v zrkadle",
-        "date": "2026-07-17",
-        "day": "17",
-        "month": "Júl",
-        "time": "17:00",
-        "venue": "Záhorská galéria Jána Mudrocha, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/milan-rasla-zrkadlo-v-zrkadle"
-      },
-      {
-        "name": "Letné soboty na priehrade: Včelie dedičstvo (bábková hra)",
-        "date": "2026-07-18",
-        "day": "18",
-        "month": "Júl",
-        "time": "17:00",
-        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
-      },
-      {
-        "name": "Nedeľné kultúrne večery: Spevácky zbor mesta Senica Cantilena",
-        "date": "2026-07-19",
-        "day": "19",
-        "month": "Júl",
-        "time": null,
-        "venue": null,
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
-      },
-      {
-        "name": "Klub Podporka – podporná skupina duševného zdravia",
-        "date": "2026-07-21",
-        "day": "21",
-        "month": "Júl",
-        "time": "16:00",
-        "venue": "Denné centrum, SNP 784, Senica",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/klub-podporka-pocas-leta"
-      },
-      {
         "name": "Prázdninový SmartLab pre dospelých",
         "date": "2026-07-22",
         "day": "22",
@@ -118,6 +78,16 @@
         "source_url": "https://senica.sk/clanok/prazdninovy-smartlab-pre-dospelych"
       },
       {
+        "name": "Nedeľné kultúrne večery: Robo Čerňák a RBB",
+        "date": "2026-07-26",
+        "day": "26",
+        "month": "Júl",
+        "time": null,
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
+      },
+      {
         "name": "Tri príbehy na jednej vlne",
         "date": "2026-07-29",
         "day": "29",
@@ -126,6 +96,46 @@
         "venue": "Záhorská knižnica – dvor, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/tri-pribehy-na-jednej-vlne"
+      },
+      {
+        "name": "Letné soboty na priehrade: Koncert skupiny Dlhé vlny",
+        "date": "2026-08-01",
+        "day": "01",
+        "month": "August",
+        "time": "19:00",
+        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
+      },
+      {
+        "name": "Nedeľné kultúrne večery: Benedikt Cintula a Martin Jamárik (MyJam Guitars)",
+        "date": "2026-08-02",
+        "day": "02",
+        "month": "August",
+        "time": null,
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
+      },
+      {
+        "name": "Letné soboty na priehrade: Tinti Linti (pesničkový koncert)",
+        "date": "2026-08-08",
+        "day": "08",
+        "month": "August",
+        "time": "17:00",
+        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
+      },
+      {
+        "name": "Nedeľné kultúrne večery: Martin Kier (klavír)",
+        "date": "2026-08-09",
+        "day": "09",
+        "month": "August",
+        "time": null,
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
       },
       {
         "name": "Hecni sa po desiate",

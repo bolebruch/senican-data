@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-21T20:12:17+02:00",
-    "generated_for_date": "2026-07-21",
+    "generated_at": "2026-07-22T20:12:35+02:00",
+    "generated_for_date": "2026-07-22",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... sa nedá dosiahnuť ako nasledovateľný odkaz a WebSearch ho nesurfuje). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 21. 7. 2026); dátumy, časy a miesta boli overené otvorením konkrétnych článkov (Nedeľné kultúrne večery, Letné soboty na priehrade, Prázdninový SmartLab). Oproti behu z 20. 7. 2026: pribudli ďalšie termíny letných sérií — Nedeľné kultúrne večery 16. 8. Ralf Skowronnek (saxofón) a Letné soboty potvrdené (1. 8. Dlhé vlny 19:00, 8. 8. Tinti Linti 17:00). Zoznam podujatí má 9 položiek. Z mesta: 4 najnovšie mestské články (vypnuté semafory na hlavnej križovatke 21. 7., kampaň Do práce na bicykli, Zo zápisníka MsP, vznik erbu mesta). Servis: článok 'Prerušenie dodávky vody - júl 2026' — platný termín 22. 7. 2026 8:00-12:00 je stále >= dnes, sekcia nie je prázdna (skorší termín 1. 7. 2026 už prešiel). Transparentnosť: bez zmeny (najvyššie účinné VZN 93/2026, 92/2026, 91/2025; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026, žiadne 26. zasadnutie sa zatiaľ neobjavilo). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... nie je nasledovateľný odkaz a WebSearch ho nesurfuje). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 22. 7. 2026); dátumy, časy a miesta boli overené otvorením konkrétnych článkov. Oproti behu z 21. 7. 2026: pribudli dve nové mestské pozvánky — 'Výstava obrazov Premeny krajiny Jozefíny Bartoňovej' (vernisáž 6. 8. 2026 17:00, Záhorské osvetové stredisko; výstava do 31. 8.) a 'Hudobné štvrtky v DAV-e' (6. 8. Ralf Skowranek, 20. 8. Brian Freeman, 27. 8. Dlhé vlny; vždy 18:00 v DAV-e) — pridané do Podujatí. Zoznam podujatí má 9 položiek. Z mesta: 4 najnovšie mestské články; skorší titulok o vypnutých semaforoch (utorok 21. 7.) je už neaktuálny a bol nahradený užitočnejším 'Blíži sa termín zberu objemného odpadu' (zber 21.–23. 7. a 5.–6. 8.). Servis: článok 'Prerušenie dodávky vody - júl 2026' — druhý termín 22. 7. 2026 8:00-12:00 je platný (ends == dnes), sekcia nie je prázdna (skorší termín 1. 7. 2026 už prešiel). Transparentnosť: bez zmeny (najvyššie účinné VZN 93/2026, 92/2026, 91/2025; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026; v esam zozname zápisníc je zatiaľ najvyššie 24. zasadnutie z 30. 4. 2026). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,17 +22,8 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Na hlavnej križovatke doobeda nesvietia semafory",
-        "summary": "V utorok 21. júla sú od 9:00 do 12:00 na hlavnej križovatke vypnuté semafory — dôvodom je oprava senzorov vo vozovke v časti od Kútov. Svetlá zatiaľ blikajú len na oranžovo, tak v tom úseku opatrne.",
-        "date": "2026-07-20",
-        "date_label": "20. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/v-utorok-dopoludnia-budu-vypnute-semafory"
-      },
-      {
-        "headline": "Kampaň Do práce na bicykli mala v Senici rekordnú účasť",
-        "summary": "Tohtoročná Do práce na bicykli priniesla v Senici rekordné čísla — do sedla si sadlo viac ľudí než v ktoromkoľvek predošlom ročníku.",
+        "headline": "Do práce na bicykli mala v Senici rekordnú účasť",
+        "summary": "Tohtoročná kampaň Do práce na bicykli priniesla v Senici rekordné čísla — do sedla si sadlo viac ľudí než v ktoromkoľvek predošlom ročníku.",
         "date": "2026-07-17",
         "date_label": "17. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -41,7 +32,7 @@
       },
       {
         "headline": "Zo zápisníka mestskej polície: kôň v Kunove, škoda v hoteli aj krádež v obchode",
-        "summary": "Najnovší výber z hlásení senickej mestskej polície — voľne pobehujúci kôň v Kunove, poškodená hotelová izba a krádež v obchode.",
+        "summary": "Z najnovších hlásení senickej mestskej polície — voľne pobehujúci kôň v Kunove, poškodená hotelová izba a krádež v obchode.",
         "date": "2026-07-17",
         "date_label": "17. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -56,6 +47,15 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/ako-sa-zrodil-jedinecny-erb-mesta-senica"
+      },
+      {
+        "headline": "Blíži sa zber objemného odpadu — skontrolujte si termín pre svoju časť mesta",
+        "summary": "Mesto pristaví vozidlá a kontajnery na objemný odpad (starý nábytok, matrace, koberce, elektroodpad). V jednotlivých častiach Senice sa zbiera 21., 22. a 23. júla a potom 5. a 6. augusta, vždy od 8:00 do 17:00.",
+        "date": "2026-07-16",
+        "date_label": "16. 7. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/blizi-sa-termin-zberu-objemneho-odpadu"
       }
     ]
   },
@@ -118,6 +118,26 @@
         "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
       },
       {
+        "name": "Vernisáž výstavy Premeny krajiny (Jozefína Bartoňová)",
+        "date": "2026-08-06",
+        "day": "06",
+        "month": "August",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko – výstavná sála, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/vystava-obrazov-premeny-krajiny-jozefiny-bartonovej"
+      },
+      {
+        "name": "Hudobné štvrtky v DAV-e: Ralf Skowranek (saxofón)",
+        "date": "2026-08-06",
+        "day": "06",
+        "month": "August",
+        "time": "18:00",
+        "venue": "DAV, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
+      },
+      {
         "name": "Letné soboty na priehrade: Tinti Linti (pesničkový koncert)",
         "date": "2026-08-08",
         "day": "08",
@@ -126,26 +146,6 @@
         "venue": "Ihrisko pri lodenici, Kunovská priehrada",
         "category": "Komunita",
         "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
-      },
-      {
-        "name": "Nedeľné kultúrne večery: Martin Kier (klavír)",
-        "date": "2026-08-09",
-        "day": "09",
-        "month": "August",
-        "time": null,
-        "venue": null,
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
-      },
-      {
-        "name": "Nedeľné kultúrne večery: Ralf Skowronnek (saxofón)",
-        "date": "2026-08-16",
-        "day": "16",
-        "month": "August",
-        "time": null,
-        "venue": null,
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
       },
       {
         "name": "Hecni sa po desiate",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-28T20:10:24+02:00",
-    "generated_for_date": "2026-07-28",
+    "generated_at": "2026-07-30T20:10:02+02:00",
+    "generated_for_date": "2026-07-30",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... nie je nasledovateľný odkaz). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 28. 7. 2026); dátumy, časy a miesta overené z detailov článkov. Oproti behu z 27. 7. 2026: 'Tri príbehy na jednej vlne' (29. 7.) ostáva ako najbližšie podujatie; pribudli dve nové pozvánky z detailov článkov — 'Poľovnícka zábava' (8. 8. 2026, 18:00, areál Krúžok v Hlbokom) a 'XXI. ročník BEHU VĎAKY' (29. 8. 2026, 10:00, Futbalový štadión FK Senica). Z mesta: bez zmeny oproti 27. 7. — najnovšie štyri články (poliklinika 23. 7., chodník v Čáčove 22. 7., Do práce na bicykli 17. 7., zápisník MsP 17. 7.). Servis: článok 'Prerušenie dodávky vody z verejného vodovodu - júl 2026' má oba termíny (1. 7. a 22. 7. 2026) už po dátume — odstávka expirovala, sekcia je prázdna (empty_state). Transparentnosť: bez zmeny (najvyššie účinné VZN 93/2026, 92/2026, 91/2025; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026; v esam zozname zápisníc je najvyššie 24. zasadnutie z 30. 4. 2026). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... nie je nasledovateľný odkaz). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 30. 7. 2026); dátumy, časy a miesta zachované z overených detailov článkov z predošlých behov. Oproti behu z 28. 7. 2026: podujatie 'Tri príbehy na jednej vlne' (29. 7.) je už po dátume — vypadlo; najbližším podujatím sú teraz 'Letné soboty na priehrade: Dlhé vlny' (1. 8.). Žiadne nové pozvánky nepribudli. Z mesta: bez zmeny — najnovšie štyri články (poliklinika 23. 7., chodník v Čáčove 22. 7., Do práce na bicykli 17. 7., zápisník MsP 17. 7.); dopravné oznámenie 'V utorok budú vypnuté semafory' (20. 7.) je servisného charakteru a po termíne, preto sa v Z mesta neuvádza. Servis: článok 'Prerušenie dodávky vody z verejného vodovodu - júl 2026' má oba termíny (1. 7. a 22. 7. 2026) už po dátume — odstávka expirovala, sekcia je prázdna (empty_state). Transparentnosť: bez zmeny (najvyššie účinné VZN 93/2026, 92/2026, 91/2025 overené v esam zozname; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026; v esam zozname zápisníc je najvyššie 24. zasadnutie z 30. 4. 2026). Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Tri príbehy na jednej vlne",
-        "date": "2026-07-29",
-        "day": "29",
-        "month": "Júl",
-        "time": "16:30",
-        "venue": "Záhorská knižnica – dvor, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/tri-pribehy-na-jednej-vlne"
-      },
       {
         "name": "Letné soboty na priehrade: Koncert skupiny Dlhé vlny",
         "date": "2026-08-01",

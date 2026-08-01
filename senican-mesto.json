@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-07-30T20:10:02+02:00",
-    "generated_for_date": "2026-07-30",
+    "generated_at": "2026-07-31T20:28:23+02:00",
+    "generated_for_date": "2026-07-31",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn.: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... nie je nasledovateľný odkaz). Sekcia Podujatia preto vychádza z mestských Pozvánok na senica.sk (kontrola 30. 7. 2026); dátumy, časy a miesta zachované z overených detailov článkov z predošlých behov. Oproti behu z 28. 7. 2026: podujatie 'Tri príbehy na jednej vlne' (29. 7.) je už po dátume — vypadlo; najbližším podujatím sú teraz 'Letné soboty na priehrade: Dlhé vlny' (1. 8.). Žiadne nové pozvánky nepribudli. Z mesta: bez zmeny — najnovšie štyri články (poliklinika 23. 7., chodník v Čáčove 22. 7., Do práce na bicykli 17. 7., zápisník MsP 17. 7.); dopravné oznámenie 'V utorok budú vypnuté semafory' (20. 7.) je servisného charakteru a po termíne, preto sa v Z mesta neuvádza. Servis: článok 'Prerušenie dodávky vody z verejného vodovodu - júl 2026' má oba termíny (1. 7. a 22. 7. 2026) už po dátume — odstávka expirovala, sekcia je prázdna (empty_state). Transparentnosť: bez zmeny (najvyššie účinné VZN 93/2026, 92/2026, 91/2025 overené v esam zozname; najnovší záznam MsZ je 25. zasadnutie - videozáznam z 26. 6. 2026; v esam zozname zápisníc je najvyššie 24. zasadnutie z 30. 4. 2026). Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 31. 7. 2026: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné (provenance obmedzenie — endpoint /wp-json/... ani doména ticsenica.sk nie sú nasledovateľné odkazy). Sekcia Podujatia preto opäť vychádza z mestských Pozvánok na senica.sk (kontrola 31. 7. 2026); dátumy, časy a miesta zachované z overených detailov článkov z predošlých behov. Oproti behu z 30. 7. 2026 nepribudla žiadna nová pozvánka a žiadne podujatie nevypadlo — zoznam Podujatí je nezmenený, najbližšie je 'Letné soboty na priehrade: Dlhé vlny' (1. 8.). Z mesta: dve nové položky — 'Oznam MsÚ Senica - ohlasovňa pobytov' (31. 7.) a 'Cyklocesta Senica – Dojč – Šajdíkove Humence sa rozširuje' (28. 7.); vypadli 'Do práce na bicykli' (17. 7.) a zápisník MsP (17. 7.). ROZHODNUTIE: oznam o zatvorenej ohlasovni pobytov (5.–7. 8. 2026) je servisného charakteru, ale schéma servis.type pozná len 'voda'/'elektrina'/'doprava' — aby sa nerozširoval kontrakt, je zaradený do Z mesta (je to najnovší článok v kategórii Spravodajstvo). Servis: v kategórii Odstávky elektriny a vody nepribudol žiadny nový článok; najnovší ('Prerušenie dodávky vody z verejného vodovodu - júl 2026') má oba termíny (1. 7. a 22. 7. 2026) po dátume — sekcia je prázdna (empty_state). Transparentnosť: esam zoznam zápisníc vrátil cachovaný snapshot k 20. 6. 2026, najvyššie je stále 24. zasadnutie MsZ (30. 4. 2026); najnovší videozáznam je 25. zasadnutie (26. 6. 2026, potvrdené widgetom VIDEÁ MsZ). Zoznam VZN sa v tomto behu nepodarilo znovu načítať, hodnoty (93/2026, 92/2026, 91/2025 – účinné) sú prenesené z overeného behu. Filmové premietania (Kino) sú vynechané.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,6 +21,24 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Ohlasovňa pobytov bude začiatkom augusta tri dni zatvorená",
+        "summary": "Od stredy 5. do piatka 7. augusta 2026 nebude ohlasovňa pobytov na mestskom úrade fungovať. Najbližší stránkový deň pripadá na pondelok 10. augusta.",
+        "date": "2026-07-31",
+        "date_label": "31. 7. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/oznam-msu-senica-ohlasovna-pobytov"
+      },
+      {
+        "headline": "Na Záhorí sa začala stavať cyklocesta zo Senice cez Dojč do Šajdíkových Humeniec",
+        "summary": "Nový 9,6-kilometrový úsek za 3,8 milióna eur z Programu Slovensko prepojí šesť obcí a povedie mimo frekventovanej cesty II/500. Stavenisko odovzdali 27. júla 2026, hotovo má byť v januári 2027; súčasťou bude aj odpočívadlo pre cyklistov a nová zeleň.",
+        "date": "2026-07-28",
+        "date_label": "28. 7. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/cyklocesta-senica-dojc-sajdikove-humence-sa-rozsiruje"
+      },
       {
         "headline": "Mestská poliklinika sa púšťa do trojmiliónovej modernizácie",
         "summary": "Senická poliklinika prechádza komplexnou rekonštrukciou za vyše 3,14 milióna eur, financovanou najmä z eurofondov. Pribudne nová rádiodiagnostika, moderné rehabilitačné pracovisko aj obnovené ambulancie; počas prác zostáva v plnej prevádzke a hotová má byť do septembra 2027.",
@@ -38,24 +56,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/v-cacove-dokoncili-opravu-chodnika"
-      },
-      {
-        "headline": "Do práce na bicykli mala v Senici rekordnú účasť",
-        "summary": "Tohtoročná kampaň Do práce na bicykli priniesla v Senici rekordné čísla — do sedla si sadlo viac ľudí než v ktoromkoľvek predošlom ročníku.",
-        "date": "2026-07-17",
-        "date_label": "17. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/kampan-do-prace-na-bicykli-priniesla-rekordne-cisla"
-      },
-      {
-        "headline": "Zo zápisníka mestskej polície: kôň v Kunove, škoda v hoteli aj krádež v obchode",
-        "summary": "Z najnovších hlásení senickej mestskej polície — voľne pobehujúci kôň v Kunove, poškodená hotelová izba a krádež v obchode.",
-        "date": "2026-07-17",
-        "date_label": "17. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Zo zápisníka MsP",
-        "source_url": "https://senica.sk/clanok/zo-zapisnika-msp-kon-v-kunove-poskodena-izba-v-hoteli-i-kradez-v-obchode"
       }
     ]
   },
@@ -191,6 +191,19 @@
         }
       },
       {
+        "title": "23. zasadnutie MsZ — zápisnica a videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-04-16",
+        "date_label": "16. 4. 2026",
+        "status": null,
+        "source_url": "https://senica.sk/clanok/10148-23-zasadnutie-msz",
+        "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10148-1.pdf",
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10148-1.pdf",
+          "video": "https://youtu.be/Z4HltbXNIZo"
+        }
+      },
+      {
         "title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica",
         "type": "VZN",
         "date": null,
@@ -205,14 +218,6 @@
         "date_label": null,
         "status": "účinné",
         "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica"
-      },
-      {
-        "title": "VZN č. 91/2025 — O úprave predaja výrobkov na trhových miestach určených na ambulantný predaj",
-        "type": "VZN",
-        "date": null,
-        "date_label": null,
-        "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-uprave-predaja-vyrobkov-na-trhovych-miestach-urcenych-na-ambulantny-predaj"
       }
     ]
   }

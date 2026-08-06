@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-04T20:50:20+02:00",
-    "generated_for_date": "2026-08-04",
+    "generated_at": "2026-08-05T20:14:00+02:00",
+    "generated_for_date": "2026-08-05",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 4. 8. 2026: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebolo cez web_fetch dostupné — doména ticsenica.sk je mimo provenance setu, endpoint sa nedá zavolať ani po tom, čo sa odkaz na ticsenica.sk objaví v načítanej stránke (rovnaký problém ako v behu 2. 8. 2026). Sekcia Podujatia preto vychádza výhradne z mestských Pozvánok na senica.sk; pri sériových podujatiach (Letné soboty na priehrade, Nedeľné kultúrne večery, Hudobné štvrtky v DAV-e) boli otvorené detailné články, aby sa získali presné dátumy/časy/miesta jednotlivých termínov namiesto len úvodnej položky série. Výber je orezaný na 9 položiek s vyváženým zastúpením Kultúra/Komunita/Šport; niektoré ďalšie termíny tých istých sérií (napr. 16. 8. a 27. 8.) boli vynechané, aby séria neprevážila sekciu. Z mesta: štvorica najnovších článkov zo Spravodajstva k 4. 8. 2026 — nový je 'Senické senobranie' (3. 8.), ostatné tri (ohlasovňa pobytov, cyklocesta, poliklinika) sú nezmenené z predchádzajúceho behu. Perex k článku o Senickom senobraní sa cez web_fetch opakovane nepodarilo načítať (prázdna odpoveď), preto zhrnutie vychádza iba z titulku bez vymýšľania ďalších faktov. Servis: kategória Odstávky elektriny a vody vrátila cachovaný snapshot k 15. 6. 2026, najnovší článok je 'Prerušenie dodávky vody z verejného vodovodu - júl 2026' s termínmi 1. 7. a 22. 7. 2026 — oba už prešli, sekcia je prázdna (empty_state). Transparentnosť: esam zoznam zápisníc vrátil cachovaný snapshot k 20. 6. 2026 (najvyššie 24. zasadnutie MsZ, 30. 4. 2026); videozáznam 25. zasadnutia (26. 6. 2026) potvrdený čerstvým widgetom VIDEÁ MsZ. Zoznam VZN sa načítal čerstvo, no bez filtra podľa čísla (URL s query parametrami f_vzn_state/f_sort_by opakovane vrátila prázdnu odpoveď) — najvyššie dve viditeľné účinné VZN sú 92/2026 a 91/2025, VZN 93/2026 sa v tomto zozname nezobrazilo. Filmové premietania (Kino) sú vynechané.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 5. 8. 2026: TIC REST API (ticsenica.sk) opäť nedostupné cez web_fetch (doména mimo provenance setu, rovnako ako v behoch 2. 8. a 4. 8.) — Podujatia vychádzajú výhradne z mestských Pozvánok na senica.sk. Nové pozvánky: Pozorovanie Perzeíd (7. 8., Hvezdáreň Sobotište, detaily z článku), Relax cvičenie pre ženy (19. a 26. 8., ZOS — vynechané pre limit 9 položiek, drobná opakovaná aktivita) a Senické senobranie 2026 (5. 9., futbalový štadión, od 10.00 — doplnené z detailu pozvánky). Kvôli limitu ~9 položiek boli vynechané aj ďalšie termíny sérií Hudobné štvrtky (20. 8.) a Letné soboty na priehrade (22. 8.), ktoré boli v predchádzajúcom behu — nahradili ich Perzeidy a Senobranie. Z mesta: štvorica najnovších článkov zo Spravodajstva k 5. 8. 2026 je nezmenená oproti 4. 8. (Senobranie, ohlasovňa pobytov, cyklocesta, poliklinika); Zo zápisníka MsP nemá novší článok (posledný 17. 7.). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' s termínmi 1. 7. a 22. 7. — oba prešli, sekcia prázdna (empty_state). Transparentnosť: esam zoznam zápisníc sa načítal čerstvo — k 25. zasadnutiu MsZ (26. 6. 2026) už pribudla zápisnica aj hlasovania (PDF), doplnené. Zoznam VZN sa načítal čerstvo bez filtra (filtrovaná URL vracia prázdnu odpoveď) — nové VZN č. 93/2026 (školské obvody, účinné) doplnené, VZN 91/2025 vypadlo pre limit 5 položiek. Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -88,6 +88,16 @@
         "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
       },
       {
+        "name": "Pozorovanie Perzeíd a nočnej oblohy",
+        "date": "2026-08-07",
+        "day": "07",
+        "month": "August",
+        "time": "21:30",
+        "venue": "Hvezdáreň Sobotište",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10509-pozorovanie-perzeid-a-nocnej-oblohy"
+      },
+      {
         "name": "Letné soboty na priehrade: Tinti Linti (pesničkový koncert)",
         "date": "2026-08-08",
         "day": "08",
@@ -118,26 +128,6 @@
         "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
       },
       {
-        "name": "Hudobné štvrtky v DAV-e: Brian Freeman",
-        "date": "2026-08-20",
-        "day": "20",
-        "month": "August",
-        "time": "18:00",
-        "venue": "DAV, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
-      },
-      {
-        "name": "Letné soboty na priehrade: Kocúr v čižmách (bábková hra)",
-        "date": "2026-08-22",
-        "day": "22",
-        "month": "August",
-        "time": "16:00",
-        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
-      },
-      {
         "name": "Hecni sa po desiate",
         "date": "2026-08-22",
         "day": "22",
@@ -156,6 +146,16 @@
         "venue": "Futbalový štadión FK Senica",
         "category": "Šport",
         "source_url": "https://senica.sk/clanok/xxi-rocnik-behu-vdaky-o-senica-prietrz-pamaetnik-snp-u-rehusov"
+      },
+      {
+        "name": "Senické senobranie 2026",
+        "date": "2026-09-05",
+        "day": "05",
+        "month": "September",
+        "time": "10:00",
+        "venue": "Futbalový štadión Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/senicke-senobranie-2026"
       }
     ]
   },
@@ -177,13 +177,15 @@
     "badge": "Úradné",
     "items": [
       {
-        "title": "25. zasadnutie MsZ — videozáznam",
+        "title": "25. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-06-26",
         "date_label": "26. 6. 2026",
         "status": null,
-        "source_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
+        "source_url": "https://senica.sk/clanok/10396-25-zasadnutie-msz",
         "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10396-1.pdf",
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10396-1.pdf",
           "video": "https://www.youtube.com/embed/fwG-Ba4RM9E"
         }
       },
@@ -195,7 +197,7 @@
         "status": null,
         "source_url": "https://senica.sk/clanok/10193-24-zasadnutie-msz",
         "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10193-1.pdf",
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10193-2.pdf",
           "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10193-1.pdf",
           "video": "https://www.youtube.com/embed/ccMqeFdmvno"
         }
@@ -214,20 +216,20 @@
         }
       },
       {
+        "title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica",
+        "type": "VZN",
+        "date": null,
+        "date_label": null,
+        "status": "účinné",
+        "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica"
+      },
+      {
         "title": "VZN č. 92/2026 — O podmienkach nakladania s nájomnými bytmi v bytovom dome súpisné č. 734 na ul. J. Kráľa v meste Senica",
         "type": "VZN",
         "date": null,
         "date_label": null,
         "status": "účinné",
         "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica"
-      },
-      {
-        "title": "VZN č. 91/2025 — O úprave predaja výrobkov na trhových miestach určených na ambulantný predaj",
-        "type": "VZN",
-        "date": null,
-        "date_label": null,
-        "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-uprave-predaja-vyrobkov-na-trhovych-miestach-urcenych-na-ambulantny-predaj"
       }
     ]
   }

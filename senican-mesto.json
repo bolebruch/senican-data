@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-06T20:16:00+02:00",
-    "generated_for_date": "2026-08-06",
+    "generated_at": "2026-08-07T20:12:00+02:00",
+    "generated_for_date": "2026-08-07",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 6. 8. 2026: TIC REST API (ticsenica.sk) opäť nedostupné cez web_fetch (doména mimo provenance setu, rovnako ako v behoch 2.–5. 8.) — Podujatia vychádzajú výhradne z mestských Pozvánok na senica.sk. Nová pozvánka: Prázdninový SmartLab pre deti (11. 8., Záhorská knižnica – klubovňa, 10:00, detaily z článku). Kvôli limitu ~9 položiek vypadla Poľovnícka zábava (8. 8., Areál Krúžok, Hlboké — mimo mesta, najslabšia relevancia) a naďalej sú vynechané Relax cvičenie pre ženy (19. a 26. 8., drobná opakovaná aktivita) a ďalšie termíny sérií Hudobné štvrtky a Letné soboty. Z mesta: štvorica najnovších článkov zo Spravodajstva je k 6. 8. nezmenená (Senobranie, ohlasovňa pobytov, cyklocesta, poliklinika); Zo zápisníka MsP nemá novší článok. Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny 1. 7. a 22. 7. — oba prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznam zápisníc aj VZN sa načítal čerstvo — bez zmien oproti 5. 8. (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 7. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu, rovnako ako v behoch 2.–6. 8.) — Podujatia vychádzajú výhradne z mestských Pozvánok na senica.sk. Vypadli včerajšie podujatia (vernisáž Premeny krajiny a Hudobné štvrtky, 6. 8.), vďaka uvoľnenému miestu pribudli Poľovnícka zábava (8. 8., Areál Krúžok, Hlboké — blízke okolie, čas 18:00 doplnený z článku) a Relax cvičenie pre ženy (19. a 26. 8., ZOS, 10:00 — uvedený prvý nadchádzajúci termín 19. 8.). Z mesta: nový článok 'Cintorín bude mať nový plot' (5. 8.) nahradil polikliniku; zvyšná trojica (Senobranie, ohlasovňa pobytov, cyklocesta) bez zmeny. Zo zápisníka MsP nemá novší článok (posledný apríl 2026). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny 1. 7. a 22. 7. — oba prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznam zápisníc aj VZN načítaný čerstvo — bez zmien (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,6 +22,15 @@
     "badge": "Z mesta",
     "items": [
       {
+        "headline": "Cintorín na ulici SNP dostane do konca septembra nový plot",
+        "summary": "Časť oplotenia senického cintorína museli pre zlý statický stav odstrániť. Nahradí ju nový, bezpečný plot — hotový má byť do konca septembra.",
+        "date": "2026-08-05",
+        "date_label": "5. 8. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/cintorin-bude-mat-novy-plot"
+      },
+      {
         "headline": "Senické senobranie sa vracia s jarmokom, koncertmi aj dožinkami",
         "summary": "Mesto chystá tradičné podujatie Senické senobranie, tentoraz s jarmokom, koncertmi, dožinkovým programom a bohatou ponukou aktivít pre deti.",
         "date": "2026-08-03",
@@ -31,8 +40,8 @@
         "source_url": "https://senica.sk/clanok/senicke-senobranie-jarmok-koncerty-dozinky-aj-bohaty-program-pre-deti"
       },
       {
-        "headline": "Ohlasovňa pobytov bude začiatkom augusta tri dni zatvorená",
-        "summary": "Od stredy 5. do piatka 7. augusta 2026 nebude ohlasovňa pobytov na mestskom úrade fungovať. Najbližší stránkový deň pripadá na pondelok 10. augusta.",
+        "headline": "Ohlasovňa pobytov bola začiatkom augusta tri dni zatvorená",
+        "summary": "Od stredy 5. do piatka 7. augusta 2026 ohlasovňa pobytov na mestskom úrade nefungovala. Najbližší stránkový deň pripadá na pondelok 10. augusta.",
         "date": "2026-07-31",
         "date_label": "31. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -47,15 +56,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/cyklocesta-senica-dojc-sajdikove-humence-sa-rozsiruje"
-      },
-      {
-        "headline": "Mestská poliklinika sa púšťa do trojmiliónovej modernizácie",
-        "summary": "Senická poliklinika prechádza komplexnou rekonštrukciou za vyše 3,14 milióna eur, financovanou najmä z eurofondov. Pribudne nová rádiodiagnostika, moderné rehabilitačné pracovisko aj obnovené ambulancie; počas prác zostáva v plnej prevádzke a hotová má byť do septembra 2027.",
-        "date": "2026-07-23",
-        "date_label": "23. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/odstartovala-velka-modernizacia-mestskej-polikliniky-za-3-miliony-eur"
       }
     ]
   },
@@ -67,26 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Vernisáž výstavy Premeny krajiny (Jozefína Bartoňová)",
-        "date": "2026-08-06",
-        "day": "06",
-        "month": "August",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko – výstavná sála, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/jozefina-bartonova-premeny-krajiny"
-      },
-      {
-        "name": "Hudobné štvrtky v DAV-e: Ralf Skowranek (saxofón)",
-        "date": "2026-08-06",
-        "day": "06",
-        "month": "August",
-        "time": "18:00",
-        "venue": "DAV, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
-      },
       {
         "name": "Pozorovanie Perzeíd a nočnej oblohy",
         "date": "2026-08-07",
@@ -108,6 +88,16 @@
         "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
       },
       {
+        "name": "Poľovnícka zábava s kapelou Magic Sound",
+        "date": "2026-08-08",
+        "day": "08",
+        "month": "August",
+        "time": "18:00",
+        "venue": "Areál Krúžok, Hlboké",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/polovnicka-zabava"
+      },
+      {
         "name": "Nedeľné kultúrne večery: Martin Kier (klavír)",
         "date": "2026-08-09",
         "day": "09",
@@ -126,6 +116,16 @@
         "venue": "Záhorská knižnica – klubovňa, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/10501-prazdninovy-smartlab-pre-deti"
+      },
+      {
+        "name": "Relax cvičenie pre ženy (aj 26. 8.)",
+        "date": "2026-08-19",
+        "day": "19",
+        "month": "August",
+        "time": "10:00",
+        "venue": "Záhorské osvetové stredisko, Senica",
+        "category": "Šport",
+        "source_url": "https://senica.sk/clanok/relax-cvicenie-pre-zeny"
       },
       {
         "name": "Hecni sa po desiate",

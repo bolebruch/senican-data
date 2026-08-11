@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-07T20:12:00+02:00",
-    "generated_for_date": "2026-08-07",
+    "generated_at": "2026-08-10T20:09:00+02:00",
+    "generated_for_date": "2026-08-10",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 7. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu, rovnako ako v behoch 2.–6. 8.) — Podujatia vychádzajú výhradne z mestských Pozvánok na senica.sk. Vypadli včerajšie podujatia (vernisáž Premeny krajiny a Hudobné štvrtky, 6. 8.), vďaka uvoľnenému miestu pribudli Poľovnícka zábava (8. 8., Areál Krúžok, Hlboké — blízke okolie, čas 18:00 doplnený z článku) a Relax cvičenie pre ženy (19. a 26. 8., ZOS, 10:00 — uvedený prvý nadchádzajúci termín 19. 8.). Z mesta: nový článok 'Cintorín bude mať nový plot' (5. 8.) nahradil polikliniku; zvyšná trojica (Senobranie, ohlasovňa pobytov, cyklocesta) bez zmeny. Zo zápisníka MsP nemá novší článok (posledný apríl 2026). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny 1. 7. a 22. 7. — oba prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznam zápisníc aj VZN načítaný čerstvo — bez zmien (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 10. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu, rovnako ako v behoch 2.–7. 8.) — Podujatia vychádzajú výhradne z mestských Pozvánok na senica.sk. Cez víkend vypadli 4 podujatia (Perzeidy 7. 8., Tinti Linti a Poľovnícka zábava 8. 8., Nedeľné kultúrne večery 9. 8.), na stránke Pozvánok nepribudlo nič nové — ostáva 5 nadchádzajúcich (najbližšie SmartLab zajtra 11. 8.). Z mesta: bez zmeny (Cintorín-plot, Senobranie, ohlasovňa pobytov — zhrnutie upravené do minulého času, prevádzka od 10. 8. obnovená —, cyklocesta). Zo zápisníka MsP nemá novší článok (posledný apríl 2026). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny 1. 7. a 22. 7. — oba prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznam zápisníc aj VZN načítaný čerstvo — bez zmien (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -41,7 +41,7 @@
       },
       {
         "headline": "Ohlasovňa pobytov bola začiatkom augusta tri dni zatvorená",
-        "summary": "Od stredy 5. do piatka 7. augusta 2026 ohlasovňa pobytov na mestskom úrade nefungovala. Najbližší stránkový deň pripadá na pondelok 10. augusta.",
+        "summary": "Od stredy 5. do piatka 7. augusta 2026 ohlasovňa pobytov na mestskom úrade nefungovala. Od pondelka 10. augusta je opäť v bežnej prevádzke.",
         "date": "2026-07-31",
         "date_label": "31. 7. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -67,46 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Pozorovanie Perzeíd a nočnej oblohy",
-        "date": "2026-08-07",
-        "day": "07",
-        "month": "August",
-        "time": "21:30",
-        "venue": "Hvezdáreň Sobotište",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10509-pozorovanie-perzeid-a-nocnej-oblohy"
-      },
-      {
-        "name": "Letné soboty na priehrade: Tinti Linti (pesničkový koncert)",
-        "date": "2026-08-08",
-        "day": "08",
-        "month": "August",
-        "time": "17:00",
-        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
-      },
-      {
-        "name": "Poľovnícka zábava s kapelou Magic Sound",
-        "date": "2026-08-08",
-        "day": "08",
-        "month": "August",
-        "time": "18:00",
-        "venue": "Areál Krúžok, Hlboké",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/polovnicka-zabava"
-      },
-      {
-        "name": "Nedeľné kultúrne večery: Martin Kier (klavír)",
-        "date": "2026-08-09",
-        "day": "09",
-        "month": "August",
-        "time": null,
-        "venue": null,
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10441-nedelne-kulturne-vecery"
-      },
       {
         "name": "Prázdninový SmartLab pre deti — hráme sa s ozobotmi",
         "date": "2026-08-11",

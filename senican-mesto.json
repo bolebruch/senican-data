@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-10T20:09:00+02:00",
-    "generated_for_date": "2026-08-10",
+    "generated_at": "2026-08-12T20:12:00+02:00",
+    "generated_for_date": "2026-08-12",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 10. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu, rovnako ako v behoch 2.–7. 8.) — Podujatia vychádzajú výhradne z mestských Pozvánok na senica.sk. Cez víkend vypadli 4 podujatia (Perzeidy 7. 8., Tinti Linti a Poľovnícka zábava 8. 8., Nedeľné kultúrne večery 9. 8.), na stránke Pozvánok nepribudlo nič nové — ostáva 5 nadchádzajúcich (najbližšie SmartLab zajtra 11. 8.). Z mesta: bez zmeny (Cintorín-plot, Senobranie, ohlasovňa pobytov — zhrnutie upravené do minulého času, prevádzka od 10. 8. obnovená —, cyklocesta). Zo zápisníka MsP nemá novší článok (posledný apríl 2026). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny 1. 7. a 22. 7. — oba prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznam zápisníc aj VZN načítaný čerstvo — bez zmien (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 12. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia vychádzajú z mestských Pozvánok na senica.sk. Novinka: z detailov pozvánok doplnené jednotlivé termíny sérií — Hudobné štvrtky v DAV-e (20. 8. Brian Freeman, 27. 8. Dlhé vlny) a Letné soboty na priehrade (22. 8. Kocúr v čižmách) — spolu 7 nadchádzajúcich podujatí. SmartLab (11. 8.) vypadol ako minulý. Z mesta: nový článok 'Zimný štadión je už v prevádzke' (12. 8., vrátane verejného korčuľovania od víkendu 15.–16. 8.), cyklocesta vypadla ako najstaršia. Zo zápisníka MsP nemá novší článok (posledný apríl 2026). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznamy načítané čerstvo — bez zmien (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,6 +21,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Zimný štadión opäť funguje, verejné korčuľovanie štartuje už tento víkend",
+        "summary": "Ľad je po letnej prestávke hotový od stredy 12. augusta a plochu už využívajú mládežnícke tímy Dukly. Verejné korčuľovanie sa spúšťa 15.–16. augusta od 15:30 do 17:00, vstupné mierne zdraželo o 10–20 centov.",
+        "date": "2026-08-12",
+        "date_label": "12. 8. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/zimny-stadion-je-uz-v-prevadzke"
+      },
       {
         "headline": "Cintorín na ulici SNP dostane do konca septembra nový plot",
         "summary": "Časť oplotenia senického cintorína museli pre zlý statický stav odstrániť. Nahradí ju nový, bezpečný plot — hotový má byť do konca septembra.",
@@ -47,15 +56,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/oznam-msu-senica-ohlasovna-pobytov"
-      },
-      {
-        "headline": "Na Záhorí sa začala stavať cyklocesta zo Senice cez Dojč do Šajdíkových Humeniec",
-        "summary": "Nový 9,6-kilometrový úsek za 3,8 milióna eur z Programu Slovensko prepojí šesť obcí a povedie mimo frekventovanej cesty II/500. Stavenisko odovzdali 27. júla 2026, hotovo má byť v januári 2027; súčasťou bude aj odpočívadlo pre cyklistov a nová zeleň.",
-        "date": "2026-07-28",
-        "date_label": "28. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/cyklocesta-senica-dojc-sajdikove-humence-sa-rozsiruje"
       }
     ]
   },
@@ -68,16 +68,6 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Prázdninový SmartLab pre deti — hráme sa s ozobotmi",
-        "date": "2026-08-11",
-        "day": "11",
-        "month": "August",
-        "time": "10:00",
-        "venue": "Záhorská knižnica – klubovňa, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10501-prazdninovy-smartlab-pre-deti"
-      },
-      {
         "name": "Relax cvičenie pre ženy (aj 26. 8.)",
         "date": "2026-08-19",
         "day": "19",
@@ -88,6 +78,16 @@
         "source_url": "https://senica.sk/clanok/relax-cvicenie-pre-zeny"
       },
       {
+        "name": "Hudobné štvrtky v DAV-e: Brian Freeman",
+        "date": "2026-08-20",
+        "day": "20",
+        "month": "August",
+        "time": "18:00",
+        "venue": "DAV, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
+      },
+      {
         "name": "Hecni sa po desiate",
         "date": "2026-08-22",
         "day": "22",
@@ -96,6 +96,26 @@
         "venue": "Kunovská priehrada",
         "category": "Šport",
         "source_url": "https://senica.sk/clanok/hecni-sa-po-desiate"
+      },
+      {
+        "name": "Letné soboty na priehrade: Kocúr v čižmách (bábková hra)",
+        "date": "2026-08-22",
+        "day": "22",
+        "month": "August",
+        "time": "16:00",
+        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
+      },
+      {
+        "name": "Hudobné štvrtky v DAV-e: Dlhé vlny",
+        "date": "2026-08-27",
+        "day": "27",
+        "month": "August",
+        "time": "18:00",
+        "venue": "DAV, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
       },
       {
         "name": "XXI. ročník BEHU VĎAKY • Senica – Prietrž – Pamätník SNP u Rehušov",

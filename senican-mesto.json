@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-12T20:12:00+02:00",
-    "generated_for_date": "2026-08-12",
+    "generated_at": "2026-08-13T20:25:00+02:00",
+    "generated_for_date": "2026-08-13",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 12. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia vychádzajú z mestských Pozvánok na senica.sk. Novinka: z detailov pozvánok doplnené jednotlivé termíny sérií — Hudobné štvrtky v DAV-e (20. 8. Brian Freeman, 27. 8. Dlhé vlny) a Letné soboty na priehrade (22. 8. Kocúr v čižmách) — spolu 7 nadchádzajúcich podujatí. SmartLab (11. 8.) vypadol ako minulý. Z mesta: nový článok 'Zimný štadión je už v prevádzke' (12. 8., vrátane verejného korčuľovania od víkendu 15.–16. 8.), cyklocesta vypadla ako najstaršia. Zo zápisníka MsP nemá novší článok (posledný apríl 2026). Servis: najnovší článok v kategórii Odstávky je 'Prerušenie dodávky vody - júl 2026' (termíny prešli), sekcia prázdna (empty_state). Transparentnosť: esam zoznamy načítané čerstvo — bez zmien (25. zasadnutie MsZ najnovšie; VZN 93/2026 a 92/2026 účinné). Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 13. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia vychádzajú z mestských Pozvánok na senica.sk. Nové pozvánky s detailmi (čas/miesto z článkov): Leto na Starom sídlisku (14. 8., pri Korunke), Organový koncert (15. 8., kostol), Liečivá sila psa (18. 8., knižnica), Prázdninový SmartLab pre dospelých (19. 8., knižnica). Prečítané leto (13. 8. 10:00) vynechané — v čase generovania už skončilo. Sochárske sympózium Od modelu k soche (17. 8.) vynechané — koná sa v Lužiciach (ČR), do Senice spadá až odhalenie sôch 28. 8., ktoré je momentálne za horizontom max 9 položiek spolu s Behom vďaky (29. 8.) a Senobraním (5. 9.) — doplnia sa, keď skoršie termíny expirujú. Z mesta bez zmien (Zimný štadión 12. 8. najnovší; Zo zápisníka MsP naposledy apríl 2026). Servis: najnovší článok v Odstávkach je 'Prerušenie dodávky vody - júl 2026' (termíny prešli) → sekcia prázdna. Transparentnosť: MsZ zoznam načítaný čerstvo (25. zasadnutie stále najnovšie); zoznam VZN sa dnes nepodarilo načítať (prázdna odpoveď), položky VZN 93/2026 a 92/2026 prevzaté z včerajšieho overeného stavu. Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -68,6 +68,36 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
+        "name": "Leto na Starom sídlisku — divadielko, piesne pre deti, skákacie hrady",
+        "date": "2026-08-14",
+        "day": "14",
+        "month": "August",
+        "time": "17:00",
+        "venue": "Pri Korunke, Staré sídlisko, Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10513-leto-na-starom-sidlisku"
+      },
+      {
+        "name": "Organový koncert — Samuel Lihotský (francúzska organová hudba)",
+        "date": "2026-08-15",
+        "day": "15",
+        "month": "August",
+        "time": "17:00",
+        "venue": "Kostol sv. Cyrila a Metoda, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/organovy-koncert"
+      },
+      {
+        "name": "Liečivá sila psa — o kanisterapii s Ivetou Holičovou a psíkom Larou",
+        "date": "2026-08-18",
+        "day": "18",
+        "month": "August",
+        "time": "10:00",
+        "venue": "Záhorská knižnica – dvor, Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/lieciva-sila-psa"
+      },
+      {
         "name": "Relax cvičenie pre ženy (aj 26. 8.)",
         "date": "2026-08-19",
         "day": "19",
@@ -76,6 +106,16 @@
         "venue": "Záhorské osvetové stredisko, Senica",
         "category": "Šport",
         "source_url": "https://senica.sk/clanok/relax-cvicenie-pre-zeny"
+      },
+      {
+        "name": "Prázdninový SmartLab pre dospelých — výroba hrnčeka s vlastným motívom",
+        "date": "2026-08-19",
+        "day": "19",
+        "month": "August",
+        "time": "14:00",
+        "venue": "Záhorská knižnica – klubovňa, Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10504-prazdninovy-smartlab-pre-dospelych"
       },
       {
         "name": "Hudobné štvrtky v DAV-e: Brian Freeman",
@@ -116,26 +156,6 @@
         "venue": "DAV, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
-      },
-      {
-        "name": "XXI. ročník BEHU VĎAKY • Senica – Prietrž – Pamätník SNP u Rehušov",
-        "date": "2026-08-29",
-        "day": "29",
-        "month": "August",
-        "time": "10:00",
-        "venue": "Futbalový štadión FK Senica",
-        "category": "Šport",
-        "source_url": "https://senica.sk/clanok/xxi-rocnik-behu-vdaky-o-senica-prietrz-pamaetnik-snp-u-rehusov"
-      },
-      {
-        "name": "Senické senobranie 2026",
-        "date": "2026-09-05",
-        "day": "05",
-        "month": "September",
-        "time": "10:00",
-        "venue": "Futbalový štadión Senica",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/senicke-senobranie-2026"
       }
     ]
   },

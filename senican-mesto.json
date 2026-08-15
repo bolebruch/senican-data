@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-13T20:25:00+02:00",
-    "generated_for_date": "2026-08-13",
+    "generated_at": "2026-08-14T20:10:00+02:00",
+    "generated_for_date": "2026-08-14",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 13. 8. 2026: TIC REST API (ticsenica.sk) naďalej nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia vychádzajú z mestských Pozvánok na senica.sk. Nové pozvánky s detailmi (čas/miesto z článkov): Leto na Starom sídlisku (14. 8., pri Korunke), Organový koncert (15. 8., kostol), Liečivá sila psa (18. 8., knižnica), Prázdninový SmartLab pre dospelých (19. 8., knižnica). Prečítané leto (13. 8. 10:00) vynechané — v čase generovania už skončilo. Sochárske sympózium Od modelu k soche (17. 8.) vynechané — koná sa v Lužiciach (ČR), do Senice spadá až odhalenie sôch 28. 8., ktoré je momentálne za horizontom max 9 položiek spolu s Behom vďaky (29. 8.) a Senobraním (5. 9.) — doplnia sa, keď skoršie termíny expirujú. Z mesta bez zmien (Zimný štadión 12. 8. najnovší; Zo zápisníka MsP naposledy apríl 2026). Servis: najnovší článok v Odstávkach je 'Prerušenie dodávky vody - júl 2026' (termíny prešli) → sekcia prázdna. Transparentnosť: MsZ zoznam načítaný čerstvo (25. zasadnutie stále najnovšie); zoznam VZN sa dnes nepodarilo načítať (prázdna odpoveď), položky VZN 93/2026 a 92/2026 prevzaté z včerajšieho overeného stavu. Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 14. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia teda vychádzajú z mestských Pozvánok na senica.sk plus z položiek overených v predchádzajúcich behoch (Hudobné štvrtky v DAV-e, Letné soboty na priehrade). Zoznam Pozvánok sa oproti 13. 8. nezmenil; 'Prečítané leto' (13. 8.) vypadlo ako expirované. Sochárske sympózium Od modelu k soche (17. 8.) ostáva vynechané — koná sa v Lužiciach (ČR). Beh vďaky (29. 8.) a Senobranie (5. 9.) čakajú za horizontom 9 položiek. NOVÉ: Servis už nie je prázdny — z článku zo 14. 8. pribudla plošná oprava miestnych komunikácií (štart 17. 8., ukončenie do konca októbra 2026). Z mesta má dve nové položky zo 14. 8. (oprava ciest, spojené voľby) a jednu z 13. 8. (ohlasovňa pobytov zatvorená 14. 8.). Odstávky elektriny a vody: najnovší článok je stále 'Prerušenie dodávky vody - júl 2026' (termíny prešli) → do Servisu sa nedáva. Transparentnosť: zoznam MsZ aj zoznam VZN načítané čerstvo, 25. zasadnutie a VZN 93/2026, 92/2026 potvrdené. Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,6 +22,33 @@
     "badge": "Z mesta",
     "items": [
       {
+        "headline": "Deväť ulíc dostane nový asfalt, práce začínajú budúci týždeň",
+        "summary": "Od týždňa od 17. augusta sa v Senici opravuje viac než 16-tisíc m² ciest na deviatich uliciach — začína sa Topoľovou a úsekom pri ZŠ V. Paulínyho-Tótha. Zákazku za 547-tisíc eur robí Strabag, hotovo má byť do konca októbra.",
+        "date": "2026-08-14",
+        "date_label": "14. 8. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/senicu-caka-v-najblizsich-tyzdnoch-rozsiahla-oprava-ciest"
+      },
+      {
+        "headline": "Mesto zhrnulo praktické informácie k spojeným voľbám 2026",
+        "summary": "Na webe mesta pribudol súhrn toho, čo treba vedieť o spojených voľbách 2026 v Senici. Podrobnosti sú v pôvodnom článku.",
+        "date": "2026-08-14",
+        "date_label": "14. 8. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/potrebne-informacie-k-spojenym-volbam-2026"
+      },
+      {
+        "headline": "Ohlasovňa pobytov bola v piatok zatvorená, otvorí až v pondelok",
+        "summary": "V piatok 14. augusta ohlasovňa pobytov na mestskom úrade nefungovala. Najbližší stránkový deň je pondelok 17. augusta.",
+        "date": "2026-08-13",
+        "date_label": "13. 8. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/10527-oznam-msu-senica-ohlasovna-pobytov"
+      },
+      {
         "headline": "Zimný štadión opäť funguje, verejné korčuľovanie štartuje už tento víkend",
         "summary": "Ľad je po letnej prestávke hotový od stredy 12. augusta a plochu už využívajú mládežnícke tímy Dukly. Verejné korčuľovanie sa spúšťa 15.–16. augusta od 15:30 do 17:00, vstupné mierne zdraželo o 10–20 centov.",
         "date": "2026-08-12",
@@ -29,33 +56,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/zimny-stadion-je-uz-v-prevadzke"
-      },
-      {
-        "headline": "Cintorín na ulici SNP dostane do konca septembra nový plot",
-        "summary": "Časť oplotenia senického cintorína museli pre zlý statický stav odstrániť. Nahradí ju nový, bezpečný plot — hotový má byť do konca septembra.",
-        "date": "2026-08-05",
-        "date_label": "5. 8. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/cintorin-bude-mat-novy-plot"
-      },
-      {
-        "headline": "Senické senobranie sa vracia s jarmokom, koncertmi aj dožinkami",
-        "summary": "Mesto chystá tradičné podujatie Senické senobranie, tentoraz s jarmokom, koncertmi, dožinkovým programom a bohatou ponukou aktivít pre deti.",
-        "date": "2026-08-03",
-        "date_label": "3. 8. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/senicke-senobranie-jarmok-koncerty-dozinky-aj-bohaty-program-pre-deti"
-      },
-      {
-        "headline": "Ohlasovňa pobytov bola začiatkom augusta tri dni zatvorená",
-        "summary": "Od stredy 5. do piatka 7. augusta 2026 ohlasovňa pobytov na mestskom úrade nefungovala. Od pondelka 10. augusta je opäť v bežnej prevádzke.",
-        "date": "2026-07-31",
-        "date_label": "31. 7. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/oznam-msu-senica-ohlasovna-pobytov"
       }
     ]
   },
@@ -166,7 +166,21 @@
     "attribution": "Zdroj: senica.sk",
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
-    "items": []
+    "items": [
+      {
+        "type": "doprava",
+        "what": "Plošná oprava miestnych komunikácií a spevnených plôch — odfrézovanie asfaltu, oprava podkladu, pokládka nového povrchu, úprava šácht, obrubníkov, chodníkov a dopravného značenia",
+        "where": "Topoľová, V. Paulínyho-Tótha (úsek pri základnej škole), Hollého, Fajnorova, J. Kráľa, Novomeského, Robotnícka (pri materskej škole), Palárikova, horný koniec v Kunove",
+        "when": "Začiatok prác v týždni od 17. 8. 2026, ukončenie do konca októbra 2026; úsek na Ulici V. Paulínyho-Tótha má byť hotový do konca augusta 2026",
+        "starts": "2026-08-17",
+        "ends": "2026-10-31",
+        "status": "plánovaná",
+        "provider": "Mesto Senica / Strabag",
+        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Pri ZŠ V. Paulínyho-Tótha sa plánuje zjednosmernenie cesty a nové vyhradené miesta na dočasné parkovanie pre rodičov školákov.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/senicu-caka-v-najblizsich-tyzdnoch-rozsiahla-oprava-ciest"
+      }
+    ]
   },
 
   "transparentnost": {

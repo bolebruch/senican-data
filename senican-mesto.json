@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-14T20:10:00+02:00",
-    "generated_for_date": "2026-08-14",
+    "generated_at": "2026-08-15T06:10:00+02:00",
+    "generated_for_date": "2026-08-15",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 14. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia teda vychádzajú z mestských Pozvánok na senica.sk plus z položiek overených v predchádzajúcich behoch (Hudobné štvrtky v DAV-e, Letné soboty na priehrade). Zoznam Pozvánok sa oproti 13. 8. nezmenil; 'Prečítané leto' (13. 8.) vypadlo ako expirované. Sochárske sympózium Od modelu k soche (17. 8.) ostáva vynechané — koná sa v Lužiciach (ČR). Beh vďaky (29. 8.) a Senobranie (5. 9.) čakajú za horizontom 9 položiek. NOVÉ: Servis už nie je prázdny — z článku zo 14. 8. pribudla plošná oprava miestnych komunikácií (štart 17. 8., ukončenie do konca októbra 2026). Z mesta má dve nové položky zo 14. 8. (oprava ciest, spojené voľby) a jednu z 13. 8. (ohlasovňa pobytov zatvorená 14. 8.). Odstávky elektriny a vody: najnovší článok je stále 'Prerušenie dodávky vody - júl 2026' (termíny prešli) → do Servisu sa nedáva. Transparentnosť: zoznam MsZ aj zoznam VZN načítané čerstvo, 25. zasadnutie a VZN 93/2026, 92/2026 potvrdené. Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 15. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia teda vychádzajú z mestských Pozvánok na senica.sk plus z položiek overených v predchádzajúcich behoch (Hudobné štvrtky v DAV-e, Letné soboty na priehrade). Oproti 14. 8. vypadli dve expirované položky (Leto na Starom sídlisku 14. 8., Prečítané leto 13. 8.) a NOVÉ do rebríčka postúpil XXI. ročník Behu vďaky (29. 8., 10:00, Futbalový štadión FK Senica) — miesto aj čas overené priamo v článku. Senické senobranie (5. 9.) čaká za horizontom 9 položiek. Sochárske sympózium Od modelu k soche (17. 8.) ostáva vynechané — koná sa v Lužiciach (ČR). Spravodajstvo aj Zo zápisníka MsP bez nových článkov (najnovšie Spravodajstvo je stále 14. 8., najnovší zápisník MsP apríl 2026) → Z mesta nezmenené. Odstávky elektriny a vody: najnovší článok je stále 'Prerušenie dodávky vody - júl 2026' (termíny prešli) → do Servisu sa nedáva; Servis drží plošnú opravu miestnych komunikácií (štart 17. 8., ukončenie do konca októbra 2026). Transparentnosť: zoznam VZN načítaný čerstvo — 93/2026 a 92/2026 potvrdené ako najnovšie účinné, žiadne nové VZN. Zoznam zápisníc MsZ sa dnes nenačítal (timeout), ale modul 'Videá MsZ' na viacerých stránkach potvrdzuje, že najnovšie je stále 25. zasadnutie (26. 6. 2026) → položky prevzaté bez zmeny. Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,7 +22,7 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Deväť ulíc dostane nový asfalt, práce začínajú budúci týždeň",
+        "headline": "Deväť ulíc dostane nový asfalt, práce začínajú v pondelok",
         "summary": "Od týždňa od 17. augusta sa v Senici opravuje viac než 16-tisíc m² ciest na deviatich uliciach — začína sa Topoľovou a úsekom pri ZŠ V. Paulínyho-Tótha. Zákazku za 547-tisíc eur robí Strabag, hotovo má byť do konca októbra.",
         "date": "2026-08-14",
         "date_label": "14. 8. 2026",
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Leto na Starom sídlisku — divadielko, piesne pre deti, skákacie hrady",
-        "date": "2026-08-14",
-        "day": "14",
-        "month": "August",
-        "time": "17:00",
-        "venue": "Pri Korunke, Staré sídlisko, Senica",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10513-leto-na-starom-sidlisku"
-      },
       {
         "name": "Organový koncert — Samuel Lihotský (francúzska organová hudba)",
         "date": "2026-08-15",
@@ -156,6 +146,16 @@
         "venue": "DAV, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
+      },
+      {
+        "name": "XXI. ročník Behu vďaky — Senica – Prietrž – Pamätník SNP u Rehušov",
+        "date": "2026-08-29",
+        "day": "29",
+        "month": "August",
+        "time": "10:00",
+        "venue": "Futbalový štadión FK Senica",
+        "category": "Šport",
+        "source_url": "https://senica.sk/clanok/xxi-rocnik-behu-vdaky-o-senica-prietrz-pamaetnik-snp-u-rehusov"
       }
     ]
   },

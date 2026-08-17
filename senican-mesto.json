@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-15T06:10:00+02:00",
-    "generated_for_date": "2026-08-15",
+    "generated_at": "2026-08-16T20:11:55+02:00",
+    "generated_for_date": "2026-08-16",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 15. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia teda vychádzajú z mestských Pozvánok na senica.sk plus z položiek overených v predchádzajúcich behoch (Hudobné štvrtky v DAV-e, Letné soboty na priehrade). Oproti 14. 8. vypadli dve expirované položky (Leto na Starom sídlisku 14. 8., Prečítané leto 13. 8.) a NOVÉ do rebríčka postúpil XXI. ročník Behu vďaky (29. 8., 10:00, Futbalový štadión FK Senica) — miesto aj čas overené priamo v článku. Senické senobranie (5. 9.) čaká za horizontom 9 položiek. Sochárske sympózium Od modelu k soche (17. 8.) ostáva vynechané — koná sa v Lužiciach (ČR). Spravodajstvo aj Zo zápisníka MsP bez nových článkov (najnovšie Spravodajstvo je stále 14. 8., najnovší zápisník MsP apríl 2026) → Z mesta nezmenené. Odstávky elektriny a vody: najnovší článok je stále 'Prerušenie dodávky vody - júl 2026' (termíny prešli) → do Servisu sa nedáva; Servis drží plošnú opravu miestnych komunikácií (štart 17. 8., ukončenie do konca októbra 2026). Transparentnosť: zoznam VZN načítaný čerstvo — 93/2026 a 92/2026 potvrdené ako najnovšie účinné, žiadne nové VZN. Zoznam zápisníc MsZ sa dnes nenačítal (timeout), ale modul 'Videá MsZ' na viacerých stránkach potvrdzuje, že najnovšie je stále 25. zasadnutie (26. 6. 2026) → položky prevzaté bez zmeny. Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 16. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia teda vychádzajú z mestských Pozvánok na senica.sk plus z položiek overených v predchádzajúcich behoch (Hudobné štvrtky v DAV-e, Letné soboty na priehrade). Oproti 15. 8. vypadol Organový koncert (15. 8.) a NOVÉ pribudlo Senické senobranie 2026 (5. 9., futbalový štadión Senica, program štartuje o 10:00 — čas prebratý z prvej položky programu, samostatný údaj o začiatku článok neuvádza). Sochárske sympózium Od modelu k soche (17. 8.) ostáva vynechané — koná sa v Lužiciach (ČR). Spravodajstvo bez nových článkov (najnovšie stále 14. 8.), Zo zápisníka MsP tiež bez novšieho príspevku → Z mesta nezmenené. VÝRAZNÁ ZMENA V SERVISE: kategória Odstávky elektriny a vody sa dnes načítala kompletne a odhalila tri aktívne oznamy, ktoré predošlé behy nezachytili — odstávka teplej vody z Mestskej výhrevne (17.–26. 8., Termming), odstávka elektriny v auguste (25. 8. Sadová, 31. 8. Čáčovská a Športová) a odstávka elektriny v septembri (2.–15. 9., Športová, Čáčovská, L. Novomeského, Sadová, lokality Suroviny/Hlboké lúky). Servis má teda 4 položky vrátane plošnej opravy miestnych komunikácií (štart 17. 8., ukončenie do konca októbra 2026). Transparentnosť: zoznam zápisníc MsZ aj VZN načítaný čerstvo — najnovšie je stále 25. zasadnutie (26. 6. 2026) a VZN 93/2026 a 92/2026, žiadne nové položky, žiadne VZN v stave 'návrh'. Filmové premietania (Kino) sa do Podujatí nedávajú.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Organový koncert — Samuel Lihotský (francúzska organová hudba)",
-        "date": "2026-08-15",
-        "day": "15",
-        "month": "August",
-        "time": "17:00",
-        "venue": "Kostol sv. Cyrila a Metoda, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/organovy-koncert"
-      },
       {
         "name": "Liečivá sila psa — o kanisterapii s Ivetou Holičovou a psíkom Larou",
         "date": "2026-08-18",
@@ -156,6 +146,16 @@
         "venue": "Futbalový štadión FK Senica",
         "category": "Šport",
         "source_url": "https://senica.sk/clanok/xxi-rocnik-behu-vdaky-o-senica-prietrz-pamaetnik-snp-u-rehusov"
+      },
+      {
+        "name": "Senické senobranie 2026 — jarmok, koncerty, dožinky a program pre deti",
+        "date": "2026-09-05",
+        "day": "5",
+        "month": "September",
+        "time": "10:00",
+        "venue": "Futbalový štadión Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/senicke-senobranie-2026"
       }
     ]
   },
@@ -168,6 +168,19 @@
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
       {
+        "type": "voda",
+        "what": "Odstávka dodávky teplej vody z dôvodu údržby tepelno-technických zariadení",
+        "where": "Všetky odovzdávacie stanice tepla (OST) napojené na Mestskú výhrevňu v Senici",
+        "when": "od 17. 08. 2026 6:00 hod. do 26. 08. 2026 18:00 hod.",
+        "starts": "2026-08-17",
+        "ends": "2026-08-26",
+        "status": "plánovaná",
+        "provider": "Termming, a. s. — Mestská výhrevňa Senica",
+        "note": "Ak práce skončia skôr, dodávka teplej vody sa obnoví okamžite.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/odstavka-dodavky-teplej-vody-august-2026"
+      },
+      {
         "type": "doprava",
         "what": "Plošná oprava miestnych komunikácií a spevnených plôch — odfrézovanie asfaltu, oprava podkladu, pokládka nového povrchu, úprava šácht, obrubníkov, chodníkov a dopravného značenia",
         "where": "Topoľová, V. Paulínyho-Tótha (úsek pri základnej škole), Hollého, Fajnorova, J. Kráľa, Novomeského, Robotnícka (pri materskej škole), Palárikova, horný koniec v Kunove",
@@ -179,6 +192,32 @@
         "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Pri ZŠ V. Paulínyho-Tótha sa plánuje zjednosmernenie cesty a nové vyhradené miesta na dočasné parkovanie pre rodičov školákov.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/senicu-caka-v-najblizsich-tyzdnoch-rozsiahla-oprava-ciest"
+      },
+      {
+        "type": "elektrina",
+        "what": "Prerušenie distribúcie elektriny z dôvodu plánovanej práce na zariadeniach distribučnej sústavy",
+        "where": "25. 8.: Sadová č. 41, 45, 49 · 31. 8.: Čáčovská a Športová",
+        "when": "dňa 25.08.2026 od 08:00:00 hod. do 14:00:00 hod.; dňa 31.08.2026 v čase od 07:30:00 hod. do 15:30:00 hod.",
+        "starts": "2026-08-25",
+        "ends": "2026-08-31",
+        "status": "plánovaná",
+        "provider": "Západoslovenská distribučná, a. s.",
+        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-august-2026"
+      },
+      {
+        "type": "elektrina",
+        "what": "Prerušenie distribúcie elektriny z dôvodu plánovanej práce na zariadeniach distribučnej sústavy",
+        "where": "2. 9., 8. 9., 10. 9. a 15. 9.: Športová (10. a 15. 9. aj Čáčovská) · 4. 9.: lokality Chata poľovnícka, Hlboké lúky, Suroviny dolné a horné · 7. 9.: L. Novomeského a Sadová",
+        "when": "02.09.2026 od 07:30 do 15:30; 04.09.2026 od 11:30 do 14:30; 07.09.2026 od 07:30 do 15:00; 08.09.2026 od 07:30 do 15:30; 10.09.2026 od 07:30 do 15:30; 15.09.2026 od 07:30 do 15:30",
+        "starts": "2026-09-02",
+        "ends": "2026-09-15",
+        "status": "plánovaná",
+        "provider": "Západoslovenská distribučná, a. s.",
+        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-september-2026"
       }
     ]
   },

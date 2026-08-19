@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-16T20:11:55+02:00",
-    "generated_for_date": "2026-08-16",
+    "generated_at": "2026-08-18T20:38:47+02:00",
+    "generated_for_date": "2026-08-18",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 16. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch (doména mimo provenance setu) — Podujatia teda vychádzajú z mestských Pozvánok na senica.sk plus z položiek overených v predchádzajúcich behoch (Hudobné štvrtky v DAV-e, Letné soboty na priehrade). Oproti 15. 8. vypadol Organový koncert (15. 8.) a NOVÉ pribudlo Senické senobranie 2026 (5. 9., futbalový štadión Senica, program štartuje o 10:00 — čas prebratý z prvej položky programu, samostatný údaj o začiatku článok neuvádza). Sochárske sympózium Od modelu k soche (17. 8.) ostáva vynechané — koná sa v Lužiciach (ČR). Spravodajstvo bez nových článkov (najnovšie stále 14. 8.), Zo zápisníka MsP tiež bez novšieho príspevku → Z mesta nezmenené. VÝRAZNÁ ZMENA V SERVISE: kategória Odstávky elektriny a vody sa dnes načítala kompletne a odhalila tri aktívne oznamy, ktoré predošlé behy nezachytili — odstávka teplej vody z Mestskej výhrevne (17.–26. 8., Termming), odstávka elektriny v auguste (25. 8. Sadová, 31. 8. Čáčovská a Športová) a odstávka elektriny v septembri (2.–15. 9., Športová, Čáčovská, L. Novomeského, Sadová, lokality Suroviny/Hlboké lúky). Servis má teda 4 položky vrátane plošnej opravy miestnych komunikácií (štart 17. 8., ukončenie do konca októbra 2026). Transparentnosť: zoznam zápisníc MsZ aj VZN načítaný čerstvo — najnovšie je stále 25. zasadnutie (26. 6. 2026) a VZN 93/2026 a 92/2026, žiadne nové položky, žiadne VZN v stave 'návrh'. Filmové premietania (Kino) sa do Podujatí nedávajú.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 18. 8. 2026: TIC REST API (ticsenica.sk/wp-json/tribe/events/v1/events) ostáva nedostupné cez web_fetch (doména mimo provenance setu), rovnako aj ical export. PREBOJ: Podujatia sa tentoraz podarilo načítať cez mestský agregátor https://senica.sk/kalendar-podujati, ktorý zobrazuje ten istý TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... — dáta sú teda po prvý raz od 15. 8. opäť čerstvé a priamo z TIC-u, nie iba z Pozvánok. Filmové premietania v Kine Mladosť (Bardotky, Bojovník, INSIDIOUS, Tom a Jerry, KAVEJ 2, Na jednu noc, Tajomstvo krištáľovej planéty…) sú z Podujatí vynechané podľa pravidla. Vynechané sú aj opakujúce sa prevádzkové položky, ktoré by vytlačili zvyšok programu (Korčuľovanie pre verejnosť na zimnom štadióne každý víkend, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska, Prečítané leto) — z každej série sme nechali nanajvýš jednu reprezentatívnu položku, aby zoznam pokryl širší časový rozsah. NOVÉ oproti 16. 8.: Dostihový deň v Čáčove (23. 8.), Od modelu k soche v Múzeu Senica (28. 8.) — sympózium sa teda do Senice vracia výstavou, preto ho už nevynechávame — a Beh vďaky s presnejším časom a miestom z TIC (29. 8., 08:00, Obec Prietrž) namiesto skoršieho odhadu 10:00 na štadióne. VYPADLI: Relax cvičenie pre ženy a Sympózium (17. 8.) ako minulé, Organový koncert (15. 8.). Spravodajstvo bez nových článkov (najnovšie stále 14. 8.), Zo zápisníka MsP tiež bez novšieho príspevku (23. 6.) → Z mesta nezmenené. Servis: kategória Odstávky elektriny a vody načítaná čerstvo, žiadny nový oznam, všetky štyri položky stále aktívne (ends >= 18. 8.). Transparentnosť: zoznam zápisníc MsZ aj VZN načítaný čerstvo — najnovšie je stále 25. zasadnutie (26. 6. 2026) a VZN 93/2026 a 92/2026, žiadne nové položky, žiadne VZN v stave 'návrh'.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -22,8 +22,8 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Deväť ulíc dostane nový asfalt, práce začínajú v pondelok",
-        "summary": "Od týždňa od 17. augusta sa v Senici opravuje viac než 16-tisíc m² ciest na deviatich uliciach — začína sa Topoľovou a úsekom pri ZŠ V. Paulínyho-Tótha. Zákazku za 547-tisíc eur robí Strabag, hotovo má byť do konca októbra.",
+        "headline": "Deväť ulíc dostane nový asfalt, práce už začali",
+        "summary": "Od týždňa od 17. augusta sa v Senici opravuje viac než 16-tisíc m² ciest na deviatich uliciach — začalo sa Topoľovou a úsekom pri ZŠ V. Paulínyho-Tótha. Zákazku za 547-tisíc eur robí Strabag, hotovo má byť do konca októbra.",
         "date": "2026-08-14",
         "date_label": "14. 8. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -40,8 +40,8 @@
         "source_url": "https://senica.sk/clanok/potrebne-informacie-k-spojenym-volbam-2026"
       },
       {
-        "headline": "Ohlasovňa pobytov bola v piatok zatvorená, otvorí až v pondelok",
-        "summary": "V piatok 14. augusta ohlasovňa pobytov na mestskom úrade nefungovala. Najbližší stránkový deň je pondelok 17. augusta.",
+        "headline": "Ohlasovňa pobytov bola v piatok zatvorená, funguje od pondelka",
+        "summary": "V piatok 14. augusta ohlasovňa pobytov na mestskom úrade nefungovala. Od pondelka 17. augusta je opäť v bežnom režime.",
         "date": "2026-08-13",
         "date_label": "13. 8. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -49,8 +49,8 @@
         "source_url": "https://senica.sk/clanok/10527-oznam-msu-senica-ohlasovna-pobytov"
       },
       {
-        "headline": "Zimný štadión opäť funguje, verejné korčuľovanie štartuje už tento víkend",
-        "summary": "Ľad je po letnej prestávke hotový od stredy 12. augusta a plochu už využívajú mládežnícke tímy Dukly. Verejné korčuľovanie sa spúšťa 15.–16. augusta od 15:30 do 17:00, vstupné mierne zdraželo o 10–20 centov.",
+        "headline": "Zimný štadión opäť funguje, verejné korčuľovanie beží cez víkendy",
+        "summary": "Ľad je po letnej prestávke hotový od stredy 12. augusta a plochu už využívajú mládežnícke tímy Dukly. Verejné korčuľovanie sa spustilo 15.–16. augusta, vstupné mierne zdraželo o 10–20 centov.",
         "date": "2026-08-12",
         "date_label": "12. 8. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -68,84 +68,84 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Liečivá sila psa — o kanisterapii s Ivetou Holičovou a psíkom Larou",
+        "name": "Liečivá sila psa — o kanisterapii",
         "date": "2026-08-18",
         "day": "18",
         "month": "August",
         "time": "10:00",
-        "venue": "Záhorská knižnica – dvor, Senica",
+        "venue": "Záhorská knižnica, Senica",
         "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/lieciva-sila-psa"
+        "source_url": "https://ticsenica.sk/podujatie/lieciva-sila-psa/"
       },
       {
-        "name": "Relax cvičenie pre ženy (aj 26. 8.)",
-        "date": "2026-08-19",
-        "day": "19",
-        "month": "August",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Šport",
-        "source_url": "https://senica.sk/clanok/relax-cvicenie-pre-zeny"
-      },
-      {
-        "name": "Prázdninový SmartLab pre dospelých — výroba hrnčeka s vlastným motívom",
+        "name": "Prázdninový SmartLab pre dospelých",
         "date": "2026-08-19",
         "day": "19",
         "month": "August",
         "time": "14:00",
-        "venue": "Záhorská knižnica – klubovňa, Senica",
+        "venue": "Záhorská knižnica, Senica",
         "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10504-prazdninovy-smartlab-pre-dospelych"
+        "source_url": "https://ticsenica.sk/podujatie/prazdninovy-smartlab-pre-dospelych-2/"
       },
       {
-        "name": "Hudobné štvrtky v DAV-e: Brian Freeman",
+        "name": "Hudobné štvrtky v DAV-e",
         "date": "2026-08-20",
         "day": "20",
         "month": "August",
         "time": "18:00",
-        "venue": "DAV, Senica",
+        "venue": "Mestský park Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
+        "source_url": "https://ticsenica.sk/podujatie/hudobne-stvrtky-v-dav-e-8/"
       },
       {
         "name": "Hecni sa po desiate",
         "date": "2026-08-22",
         "day": "22",
         "month": "August",
-        "time": null,
+        "time": "09:00",
         "venue": "Kunovská priehrada",
         "category": "Šport",
-        "source_url": "https://senica.sk/clanok/hecni-sa-po-desiate"
+        "source_url": "https://ticsenica.sk/podujatie/hecni-sa-po-desiate/"
       },
       {
-        "name": "Letné soboty na priehrade: Kocúr v čižmách (bábková hra)",
+        "name": "Letné soboty na priehrade",
         "date": "2026-08-22",
         "day": "22",
         "month": "August",
         "time": "16:00",
-        "venue": "Ihrisko pri lodenici, Kunovská priehrada",
+        "venue": "Kunovská priehrada",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10442-letne-soboty-na-priehrade"
+        "source_url": "https://ticsenica.sk/podujatie/letne-soboty-na-priehrade-14/"
       },
       {
-        "name": "Hudobné štvrtky v DAV-e: Dlhé vlny",
-        "date": "2026-08-27",
-        "day": "27",
+        "name": "Dostihový deň v Čáčove",
+        "date": "2026-08-23",
+        "day": "23",
         "month": "August",
-        "time": "18:00",
-        "venue": "DAV, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10443-hudobne-stvrtky-v-dav-e"
+        "time": "13:30",
+        "venue": "Dostihová dráha Čáčov, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/dostihovy-den-v-cacove2026/"
       },
       {
-        "name": "XXI. ročník Behu vďaky — Senica – Prietrž – Pamätník SNP u Rehušov",
+        "name": "Od modelu k soche — výstava sochárskeho sympózia",
+        "date": "2026-08-28",
+        "day": "28",
+        "month": "August",
+        "time": "17:00",
+        "venue": "Múzeum Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/od-modelu-k-soche/"
+      },
+      {
+        "name": "Beh vďaky — XXI. ročník, Senica – Prietrž – Pamätník SNP u Rehušov",
         "date": "2026-08-29",
         "day": "29",
         "month": "August",
-        "time": "10:00",
-        "venue": "Futbalový štadión FK Senica",
+        "time": "08:00",
+        "venue": "Obec Prietrž",
         "category": "Šport",
-        "source_url": "https://senica.sk/clanok/xxi-rocnik-behu-vdaky-o-senica-prietrz-pamaetnik-snp-u-rehusov"
+        "source_url": "https://ticsenica.sk/podujatie/beh-vdaky/"
       },
       {
         "name": "Senické senobranie 2026 — jarmok, koncerty, dožinky a program pre deti",
@@ -174,7 +174,7 @@
         "when": "od 17. 08. 2026 6:00 hod. do 26. 08. 2026 18:00 hod.",
         "starts": "2026-08-17",
         "ends": "2026-08-26",
-        "status": "plánovaná",
+        "status": "prebieha",
         "provider": "Termming, a. s. — Mestská výhrevňa Senica",
         "note": "Ak práce skončia skôr, dodávka teplej vody sa obnoví okamžite.",
         "badge": "Servis",
@@ -187,7 +187,7 @@
         "when": "Začiatok prác v týždni od 17. 8. 2026, ukončenie do konca októbra 2026; úsek na Ulici V. Paulínyho-Tótha má byť hotový do konca augusta 2026",
         "starts": "2026-08-17",
         "ends": "2026-10-31",
-        "status": "plánovaná",
+        "status": "prebieha",
         "provider": "Mesto Senica / Strabag",
         "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Pri ZŠ V. Paulínyho-Tótha sa plánuje zjednosmernenie cesty a nové vyhradené miesta na dočasné parkovanie pre rodičov školákov.",
         "badge": "Servis",

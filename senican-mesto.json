@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-19T20:15:00+02:00",
-    "generated_for_date": "2026-08-19",
+    "generated_at": "2026-08-20T20:15:00+02:00",
+    "generated_for_date": "2026-08-20",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 19. 8. 2026: TIC REST API (ticsenica.sk) ostáva nedostupné cez web_fetch, podujatia načítané cez mestský agregátor https://senica.sk/kalendar-podujati, ktorý zrkadlí TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... Filmové premietania v Kine Mladosť (KAVEJ 2, Bardotky, Bojovník, INSIDIOUS, Tom a Jerry, Labková patrola, Na jednu noc, Tajomstvo krištáľovej planéty…) sú vynechané podľa pravidla. Vynechané sú aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska, Prečítané leto, Relax cvičenie, Leto s Múzeom Senica v DAV-e) — z týždenných sérií ostáva jedna reprezentatívna položka (Hudobné štvrtky 20. 8., Letné soboty 22. 8.). NOVÉ oproti 18. 8.: Hodová výstava o histórii Kunova (23. 8., SD Kunov). VYPADLO: Liečivá sila psa (18. 8. — minulé). Ďalšie kandidátske položky mimo limitu ~9: Komentovaná prehliadka výstavy Milan Rašla (23. 8.), Senická mašírovka (29. 8., Chata SNP Rozbehy), výstava Miloslava Pavúčka v LM Galérii (od 27. 8.). Spravodajstvo bez nových článkov (najnovšie stále 14. 8.), Zo zápisníka MsP tiež (23. 6.) → Z mesta nezmenené. Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetky štyri položky stále aktívne (ends >= 19. 8.). Transparentnosť: zoznam zápisníc MsZ aj VZN načítaný čerstvo — najnovšie je stále 25. zasadnutie (26. 6. 2026) a VZN 93/2026 a 92/2026, žiadne VZN v stave 'návrh'.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 20. 8. 2026: TIC REST API (ticsenica.sk/wp-json) nedostupné cez web_fetch, podujatia načítané cez mestský agregátor https://senica.sk/kalendar-podujati, ktorý zrkadlí TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... Filmové premietania v Kine Mladosť (Na jednu noc, Bojovník, TAJOMSTVO KRIŠTÁĽOVEJ PLANÉTY, Bardotky, Tom a Jerry, INSIDIOUS, Labková patrola…) sú vynechané podľa pravidla. Vynechané sú aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska, Prečítané leto, Relax cvičenie, Leto s Múzeom Senica v DAV-e) — z týždenných sérií ostáva jedna reprezentatívna položka (Hudobné štvrtky 20. 8.). NOVÉ oproti 19. 8.: Senická mašírovka — 46. ročník (29. 8., Chata SNP Rozbehy, celodenné → time null). VYPADLO: Prázdninový SmartLab pre dospelých (19. 8. — minulé). Ďalší kandidát mimo limitu ~9: Komentovaná prehliadka výstavy Milan Rašla (23. 8., Záhorská galéria), výstava Miloslava Pavúčka v LM Galérii (od 27. 8.). Spravodajstvo bez nových článkov (najnovšie stále 14. 8.), Zo zápisníka MsP tiež (najnovší 17. 7.) → Z mesta nezmenené. Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetky štyri položky stále aktívne (ends >= 20. 8.). Transparentnosť: zoznam zápisníc MsZ načítaný čerstvo — najnovšie stále 25. zasadnutie (26. 6. 2026); zoznam VZN dnes vrátil prázdnu odpoveď (web_fetch 2×), položky VZN 93/2026 a 92/2026 ponechané z overeného behu 19. 8.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -67,16 +67,6 @@
     "attribution_url": "https://senica.sk/kalendar-podujati",
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Prázdninový SmartLab pre dospelých",
-        "date": "2026-08-19",
-        "day": "19",
-        "month": "August",
-        "time": "14:00",
-        "venue": "Záhorská knižnica, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/prazdninovy-smartlab-pre-dospelych-2/"
-      },
       {
         "name": "Hudobné štvrtky v DAV-e",
         "date": "2026-08-20",
@@ -146,6 +136,16 @@
         "venue": "Obec Prietrž",
         "category": "Šport",
         "source_url": "https://ticsenica.sk/podujatie/beh-vdaky/"
+      },
+      {
+        "name": "Senická mašírovka — 46. ročník",
+        "date": "2026-08-29",
+        "day": "29",
+        "month": "August",
+        "time": null,
+        "venue": "Chata SNP Rozbehy",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/senicka-masirovka/"
       },
       {
         "name": "Senické senobranie 2026 — jarmok, koncerty, dožinky a program pre deti",

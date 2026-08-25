@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-23T20:15:00+02:00",
-    "generated_for_date": "2026-08-23",
+    "generated_at": "2026-08-24T20:12:37+02:00",
+    "generated_for_date": "2026-08-24",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 23. 8. 2026: TIC REST API (ticsenica.sk/wp-json) opäť nedostupné cez web_fetch, podujatia načítané cez mestský agregátor https://senica.sk/kalendar-podujati, ktorý zrkadlí TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... Filmové premietania v Kine Mladosť (Bardotky, Tom a Jerry, INSIDIOUS, Bojovník, TAJOMSTVO KRIŠTÁĽOVEJ PLANÉTY, Labková patrola, Na jednu noc) vynechané podľa pravidla. Vynechané aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska — Pestré kamienky, Sviečka ako herbár, Vintage pohľadnica, Prečítané leto, Relax cvičenie, Leto s Múzeom Senica v DAV-e, prebiehajúca výstava Jozefíny Bartoňovej). Oproti behu 22. 8. vypadli včerajšie podujatia (Hecni sa po desiate, Letné soboty na priehrade) a pribudli dve nové: Komentovaná prehliadka výstavy Milan Rašla (23. 8., Záhorská galéria) a výstava Miloslava Pavúčka v LM Galérii (27. 8.–25. 9.) — doteraz kandidáti mimo limitu. Z mesta: ŽIADNY nový článok od 21. 8. — top 4 zostávajú (verejný gril 21. 8., dopravné uzávery 21. 8., oprava ciest 14. 8., voľby 14. 8.). Zo zápisníka MsP bez nových článkov (najnovší júl 2026). Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetkých 5 položiek stále aktívnych (ends >= 23. 8.) — teplá voda do 26. 8., uzávery Topoľová/V. P.-Tótha do 26. 8., plošná oprava ciest do 31. 10., elektrina august (25. a 31. 8.) a september. Transparentnosť: zoznamy MsZ aj VZN načítané čerstvo — najnovšie stále 25. zasadnutie MsZ (26. 6. 2026), najnovšie VZN 93/2026 a 92/2026 (obe účinné); bez zmien.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 24. 8. 2026: priamy TIC REST endpoint (ticsenica.sk/wp-json/tribe/events/v1/events) nebol dostupný cez web_fetch (blokovaný mimo povolených zdrojov), podujatia preto načítané cez mestský agregátor https://senica.sk/kalendar-podujati, ktorý zrkadlí TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... Filmové premietania v Kine Mladosť (Bardotky, Tom a Jerry, INSIDIOUS, Bojovník, TAJOMSTVO KRIŠTÁĽOVEJ PLANÉTY, Labková patrola, Na jednu noc) vynechané podľa pravidla. Vynechané aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska — Pestré kamienky, Sviečka ako herbár, Vintage pohľadnica, Relax cvičenie, Prečítané leto, Leto s Múzeom Senica v DAV-e, prebiehajúca výstava Jozefíny Bartoňovej). Oproti behu 23. 8. vypadli včerajšie podujatia (Hodová výstava o histórii Kunova, Dostihový deň v Čáčove, komentovaná prehliadka výstavy Milan Rašla) a pribudli dve nové mestské pozvánky, ktoré v TIC kalendári nie sú: Za čistejšiu Senicu (27. 8., ihrisko na Ulici Cyrila a Metoda) a 82. výročie SNP v Senici (28. 8., Námestie oslobodenia) — miesto aj čas vytiahnuté z tela článkov. Z mesta: ŽIADNY nový článok od 21. 8. — top 4 zostávajú (verejný gril 21. 8., dopravné uzávery 21. 8., oprava ciest 14. 8., voľby 14. 8.). Zo zápisníka MsP bez nových článkov (najnovší júl 2026). Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetkých 5 položiek stále aktívnych (ends >= 24. 8.) — teplá voda do 26. 8., uzávery Topoľová/V. P.-Tótha do 26. 8., plošná oprava ciest do 31. 10., elektrina august (25. a 31. 8.) a september. Transparentnosť: zoznamy MsZ aj VZN načítané čerstvo — najnovšie stále 25. zasadnutie MsZ (26. 6. 2026), najnovšie VZN 93/2026 a 92/2026 (obe účinné); bez zmien.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -68,34 +68,14 @@
     "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
       {
-        "name": "Hodová výstava o histórii Kunova",
-        "date": "2026-08-23",
-        "day": "23",
+        "name": "Za čistejšiu Senicu — spoločné čistenie okolia Ulice Cyrila a Metoda",
+        "date": "2026-08-27",
+        "day": "27",
         "month": "August",
-        "time": "10:00",
-        "venue": "SD Kunov, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/hodova-vystava-o-historii-kunova/"
-      },
-      {
-        "name": "Dostihový deň v Čáčove",
-        "date": "2026-08-23",
-        "day": "23",
-        "month": "August",
-        "time": "13:30",
-        "venue": "Dostihová dráha Čáčov, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/dostihovy-den-v-cacove2026/"
-      },
-      {
-        "name": "Komentovaná prehliadka končiacej výstavy Milan Rašla: Zrkadlo v zrkadle",
-        "date": "2026-08-23",
-        "day": "23",
-        "month": "August",
-        "time": "15:00",
-        "venue": "Záhorská galéria Jána Mudrocha, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-konciacej-vystavy-milan-rasla-zrkadlo-v-zrkadle/"
+        "time": "16:00",
+        "venue": "Detské ihrisko na Ulici Cyrila a Metoda, Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/za-cistejsiu-senicu"
       },
       {
         "name": "Hudobné štvrtky v DAV-e",
@@ -116,6 +96,16 @@
         "venue": "LM Galéria súčasného umenia, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/vystava-miloslava-pavucka-ked-niekto-zavolapolozim-stetec/"
+      },
+      {
+        "name": "82. výročie Slovenského národného povstania v Senici",
+        "date": "2026-08-28",
+        "day": "28",
+        "month": "August",
+        "time": "10:30",
+        "venue": "Námestie oslobodenia, Senica (o 10.00 kladenie vencov k pamätnej tabuli na Štefánikovej ulici)",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/82-vyrocie-snp-v-senici"
       },
       {
         "name": "Od modelu k soche — výstava sochárskeho sympózia",

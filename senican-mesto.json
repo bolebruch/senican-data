@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-24T20:12:37+02:00",
-    "generated_for_date": "2026-08-24",
+    "generated_at": "2026-08-25T20:20:00+02:00",
+    "generated_for_date": "2026-08-25",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 24. 8. 2026: priamy TIC REST endpoint (ticsenica.sk/wp-json/tribe/events/v1/events) nebol dostupný cez web_fetch (blokovaný mimo povolených zdrojov), podujatia preto načítané cez mestský agregátor https://senica.sk/kalendar-podujati, ktorý zrkadlí TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... Filmové premietania v Kine Mladosť (Bardotky, Tom a Jerry, INSIDIOUS, Bojovník, TAJOMSTVO KRIŠTÁĽOVEJ PLANÉTY, Labková patrola, Na jednu noc) vynechané podľa pravidla. Vynechané aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska — Pestré kamienky, Sviečka ako herbár, Vintage pohľadnica, Relax cvičenie, Prečítané leto, Leto s Múzeom Senica v DAV-e, prebiehajúca výstava Jozefíny Bartoňovej). Oproti behu 23. 8. vypadli včerajšie podujatia (Hodová výstava o histórii Kunova, Dostihový deň v Čáčove, komentovaná prehliadka výstavy Milan Rašla) a pribudli dve nové mestské pozvánky, ktoré v TIC kalendári nie sú: Za čistejšiu Senicu (27. 8., ihrisko na Ulici Cyrila a Metoda) a 82. výročie SNP v Senici (28. 8., Námestie oslobodenia) — miesto aj čas vytiahnuté z tela článkov. Z mesta: ŽIADNY nový článok od 21. 8. — top 4 zostávajú (verejný gril 21. 8., dopravné uzávery 21. 8., oprava ciest 14. 8., voľby 14. 8.). Zo zápisníka MsP bez nových článkov (najnovší júl 2026). Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetkých 5 položiek stále aktívnych (ends >= 24. 8.) — teplá voda do 26. 8., uzávery Topoľová/V. P.-Tótha do 26. 8., plošná oprava ciest do 31. 10., elektrina august (25. a 31. 8.) a september. Transparentnosť: zoznamy MsZ aj VZN načítané čerstvo — najnovšie stále 25. zasadnutie MsZ (26. 6. 2026), najnovšie VZN 93/2026 a 92/2026 (obe účinné); bez zmien.",
+    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 25. 8. 2026: priamy TIC REST endpoint (ticsenica.sk/wp-json/tribe/events/v1/events) opäť nebol dostupný cez web_fetch (mimo povolených zdrojov), podujatia preto načítané cez mestský agregátor https://senica.sk/kalendar-podujati (august aj september), ktorý zrkadlí TIC kalendár vrátane odkazov na ticsenica.sk/podujatie/... Filmové premietania v Kine Mladosť vynechané podľa pravidla. Vynechané aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn v lete, denné tvorivé dielničky Záhorského osvetového strediska — Pestré kamienky, Sviečka ako herbár, Vintage pohľadnica, Relax cvičenie, Prečítané leto, Leto s Múzeom Senica v DAV-e, Právna pomoc na MsÚ, tanečné kurzy v Dome kultúry). Oproti behu 24. 8. vypadlo iba dnešné/včerajšie a pribudla nová dlhodobá výstava Deanna Pizzitelli — Archive 24 v Záhorskej galérii (4. 9. – 18. 10.). Mestské pozvánky bez nového prírastku (najnovšia Za čistejšiu Senicu z 24. 8.). Z mesta: ŽIADNY nový článok od 21. 8. — top 4 zostávajú (verejný gril 21. 8., dopravné uzávery 21. 8., oprava ciest 14. 8., voľby 14. 8.). Zo zápisníka MsP bez nových článkov (najnovší 23. 6. 2026). Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetkých 5 položiek stále aktívnych (ends >= 25. 8.) — pri augustovej odstávke elektriny bol už uplynulý termín 25. 8. (Sadová) odstránený, ostáva len 31. 8. (Čáčovská a Športová). Transparentnosť: zoznamy MsZ aj VZN načítané čerstvo — najnovšie stále 25. zasadnutie MsZ (26. 6. 2026), najnovšie VZN 93/2026 a 92/2026 (obe účinné), tentoraz doplnené o dátum účinnosti z detailu článku. Žiadne VZN v stave 'návrh' sa vo výpise nenachádza.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -138,6 +138,16 @@
         "source_url": "https://ticsenica.sk/podujatie/senicka-masirovka/"
       },
       {
+        "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10.)",
+        "date": "2026-09-04",
+        "day": "4",
+        "month": "September",
+        "time": null,
+        "venue": "Záhorská galéria Jána Mudrocha, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/13237/"
+      },
+      {
         "name": "Senické senobranie 2026 — jarmok, koncerty, dožinky a program pre deti",
         "date": "2026-09-05",
         "day": "5",
@@ -159,14 +169,14 @@
     "items": [
       {
         "type": "voda",
-        "what": "Odstávka dodávky teplej vody z dôvodu údržby tepelno-technických zariadení",
+        "what": "Prerušenie dodávky teplej vody — práce na údržbe tepelno-technických zariadení, ktoré nie je možné vykonať za prevádzky",
         "where": "Všetky odovzdávacie stanice tepla (OST) napojené na Mestskú výhrevňu v Senici",
         "when": "od 17. 08. 2026 6:00 hod. do 26. 08. 2026 18:00 hod.",
         "starts": "2026-08-17",
         "ends": "2026-08-26",
         "status": "prebieha",
         "provider": "Termming, a. s. — Mestská výhrevňa Senica",
-        "note": "Ak práce skončia skôr, dodávka teplej vody sa obnoví okamžite.",
+        "note": "V prípade, že práce budú ukončené v skoršom termíne, dodávka teplej vody bude obnovená okamžite.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/odstavka-dodavky-teplej-vody-august-2026"
       },
@@ -198,20 +208,20 @@
       },
       {
         "type": "elektrina",
-        "what": "Prerušenie distribúcie elektriny z dôvodu plánovanej práce na zariadeniach distribučnej sústavy",
-        "where": "25. 8.: Sadová č. 41, 45, 49 · 31. 8.: Čáčovská a Športová",
-        "when": "dňa 25.08.2026 od 08:00:00 hod. do 14:00:00 hod.; dňa 31.08.2026 v čase od 07:30:00 hod. do 15:30:00 hod.",
-        "starts": "2026-08-25",
+        "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
+        "where": "31. 8.: Čáčovská a Športová",
+        "when": "dňa 31.08.2026 v čase od 07:30:00 hod. do 15:30:00 hod.",
+        "starts": "2026-08-31",
         "ends": "2026-08-31",
         "status": "plánovaná",
         "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení.",
+        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení. Termín 25. 8. (Sadová) už uplynul.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-august-2026"
       },
       {
         "type": "elektrina",
-        "what": "Prerušenie distribúcie elektriny z dôvodu plánovanej práce na zariadeniach distribučnej sústavy",
+        "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
         "where": "2. 9., 8. 9., 10. 9. a 15. 9.: Športová (10. a 15. 9. aj Čáčovská) · 4. 9.: lokality Chata poľovnícka, Hlboké lúky, Suroviny dolné a horné · 7. 9.: L. Novomeského a Sadová",
         "when": "02.09.2026 od 07:30 do 15:30; 04.09.2026 od 11:30 do 14:30; 07.09.2026 od 07:30 do 15:00; 08.09.2026 od 07:30 do 15:30; 10.09.2026 od 07:30 do 15:30; 15.09.2026 od 07:30 do 15:30",
         "starts": "2026-09-02",
@@ -246,7 +256,7 @@
         }
       },
       {
-        "title": "24. zasadnutie MsZ — zápisnica a videozáznam",
+        "title": "24. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-04-30",
         "date_label": "30. 4. 2026",
@@ -259,7 +269,7 @@
         }
       },
       {
-        "title": "23. zasadnutie MsZ — zápisnica a videozáznam",
+        "title": "23. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-04-16",
         "date_label": "16. 4. 2026",
@@ -274,18 +284,24 @@
       {
         "title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica",
         "type": "VZN",
-        "date": null,
-        "date_label": null,
+        "date": "2026-07-09",
+        "date_label": "účinné od 9. 7. 2026",
         "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica"
+        "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica",
+        "extra_links": {
+          "vzn_pdf": "https://senica.sk/data/component_file/100/10395/f2749.pdf"
+        }
       },
       {
         "title": "VZN č. 92/2026 — O podmienkach nakladania s nájomnými bytmi v bytovom dome súpisné č. 734 na ul. J. Kráľa v meste Senica",
         "type": "VZN",
-        "date": null,
-        "date_label": null,
+        "date": "2026-02-27",
+        "date_label": "účinné od 27. 2. 2026",
         "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica"
+        "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica",
+        "extra_links": {
+          "vzn_pdf": "https://senica.sk/data/component_file/100/9991/f2689.pdf"
+        }
       }
     ]
   }

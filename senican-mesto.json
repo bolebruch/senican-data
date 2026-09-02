@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-08-30T22:17:52+02:00",
-    "generated_for_date": "2026-08-30",
+    "generated_at": "2026-09-01T20:20:25+02:00",
+    "generated_for_date": "2026-09-01",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovaný mestský servis pre homepage senican.sk. Editoriálne položky (Z mesta) sú prepísané hlasom Seničana a označené atribúciou 'Zdroj: mesto Senica'. Úradné položky (Servis, Transparentnosť) sa preberajú doslovne a nesú badge 'Úradné'. Žiadne fotky prevzaté z mestského webu sa nepoužívajú. Pozn. k behu 30. 8. 2026: priamy TIC REST endpoint (ticsenica.sk/wp-json/tribe/events/v1/events) ani HTML výpis ticsenica.sk/podujatia neboli dostupné cez web_fetch (mimo povolených zdrojov). Podujatia sa preto načítali z mestského agregovaného kalendára senica.sk/kalendar-podujati (august + september 2026), ktorý čerpá z tých istých záznamov TIC (odkazy vedú na ticsenica.sk/podujatie/...), doplneného o mestské pozvánky zo senica.sk/kategoria/pozvanky. Filmové premietania v Kine Mladosť vynechané podľa pravidla. Vynechané aj opakujúce sa prevádzkové položky (Korčuľovanie pre verejnosť, Škodáčkov mlyn, denné dielne a kurzy Záhorského osvetového strediska, kluby Záhorskej knižnice, Právna pomoc na MsÚ, tanečné kurzy v Dome kultúry) a podujatia mimo Senice (Pochod šaštínskymi bormi, Mihalinová útulňa v Hradišti pod Vrátnom, Velkopavlovické vinobraní). Vypadli všetky augustové podujatia z predchádzajúceho behu — Senobranie (5. 9.) je jediná prekrývajúca sa položka; ostatných 8 je nových a celý blok je teraz septembrový. Vynechaná aj výstava Miloslava Pavúčka a výstava Jozefíny Bartoňovej, ktoré sa už začali. Z mesta: Spravodajstvo bez nových článkov od 26. 8., Zo zápisníka MsP tiež bez novinky (najnovší 17. 7. 2026). Prvé tri položky sú nezmenené; štvrtá bola vymenená — namiesto náhradného vývozu odpadu (termín 28. 8. už uplynul) je tam článok o dostihoch v Čáčove z 25. 8. Servis: kategória Odstávky načítaná čerstvo, žiadny nový oznam; všetky 4 položky majú ends >= 30. 8. (augustová odstávka elektriny platí ešte 31. 8.). Z poznámky k dopravnej položke bola odstránená veta o náhradnom vývoze odpadu v piatok 28. 8. Transparentnosť: zoznamy MsZ aj VZN načítané čerstvo, bez zmeny — najnovšie je stále 25. zasadnutie MsZ (26. 6. 2026) a VZN 93/2026; žiadne VZN v stave 'návrh' sa vo výpise nenachádza. Poznámka k zdroju VZN: URL s filtrom ?f_vzn_state=1&f_sort_by=e_number vracia prázdnu odpoveď, použil sa základný výpis.",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 1. 9. 2026: TIC REST endpoint /wp-json/tribe/events/v1/events sa nepodarilo stiahnut (web_fetch povoluje len presne URL z provenancie, dosadeny datum bol odmietnuty). Podujatia sa preto nacitali z HTML vypisu ticsenica.sk/podujatia (zoznam, strany 1-3, obdobie 1.-13. 9. 2026), co je ten isty zdroj dat ako API. Vynechane filmove premietania v Kine Mladost (Psie hviezdy, Dokonaly den, Labkova patrola, Spider-Man, Bardotky, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi - Sastin, Cinematik - Piestany), opakujuce sa prevadzkove polozky (Relax cvicenie, Zvukohry, Zvukova relaxacia, Kurz keramiky, Anglictina pre seniorov, IT kaviaren, TriKacko, Pletko stretko, Spevave basnicky, Tanecne posedenie, Pravna pomoc na MsU) a dlhodobe akcie, ktore sa zacali este pred dnesnym dnom (Patraci v meste Senica, vystava 770 rokov Senice, vystava Miloslava Pavucka). Neskoro-septembrove polozky (swap oblecenia, burza knih, vernisaz Kovacica a SenArt) su prenesene z predchadzajuceho behu, ich terminy su stale v buducnosti. Z mesta: Spravodajstvo prinieslo tri nove clanky (zaciatok skolskeho roka 1. 9., pozvanka na slavnostne zasadnutie MsZ a jednosmerka pri ZS V. Paulinyho-Totha 31. 8.), stary blok o volbach, opravach ciest, Coolni a dostihoch vypadol. Zo zapisnika MsP bez novinky (najnovsi 17. 7. 2026). Servis: augustova odstavka elektriny (ends 31. 8.) vypadla ako expirovana; ostava septembrova odstavka elektriny a dve dopravne polozky k oprave ciest. Transparentnost: zoznam MsZ nacitany cerstvo, bez zmeny - najnovsie je stale 25. zasadnutie MsZ (26. 6. 2026). Polozky VZN (93/2026 a 92/2026) su prenesene z predchadzajuceho behu, zoznam VZN sa v tomto behu nenacitaval.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "O kreslo primátora sa uchádzajú traja, o poslanecké lavice 66 ľudí",
-        "summary": "Kandidátne listiny pre jesenné komunálne voľby v Senici sú uzavreté. Na post primátora sú v hre traja kandidáti, o miesta v mestskom zastupiteľstve zabojuje 66 uchádzačov.",
-        "date": "2026-08-26",
-        "date_label": "26. 8. 2026",
+        "headline": "V senických školách sa začal nový školský rok",
+        "summary": "Prvý septembrový deň patril v Senici otvoreniu nového školského roka.",
+        "date": "2026-09-01",
+        "date_label": "1. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/v-senici-sa-o-post-primatora-uchadzaju-traja-kandidati-o-poslanecke-miesta-zabojuje-66-kandidatov"
+        "source_url": "https://senica.sk/clanok/zaciatok-noveho-skolskeho-roka-v-senici"
       },
       {
-        "headline": "Opravy ciest pokračujú na Novomeského, J. Kráľa, Hollého a Fajnorovej",
-        "summary": "Rekonštrukcia ciest pokračuje ďalšou etapou. Frézovanie ulicou ešte prejazd umožní, no pri kladení asfaltu bude úsek asi na dva dni úplne uzavretý — bez prejazdu a bez parkovania, a to ani na priľahlých parkoviskách.",
-        "date": "2026-08-26",
-        "date_label": "26. 8. 2026",
+        "headline": "Poslanci sa zídu na slávnostnom zasadnutí zastupiteľstva",
+        "summary": "Mesto zverejnilo pozvánku na slávnostné zasadnutie mestského zastupiteľstva v Senici. Podrobnosti sú v pozvánke na webe mesta.",
+        "date": "2026-08-31",
+        "date_label": "31. 8. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/pokracujeme-v-oprave-ciest-v-meste"
+        "source_url": "https://senica.sk/clanok/pozvanka-na-slavnostne-zasadnutie-mestskeho-zastupitelstva-v-senici"
       },
       {
-        "headline": "Bistro Coolňa si udržalo miesto v sprievodcovi Gault&Millau",
-        "summary": "Senická gastronómia má ďalší dôvod na radosť — Bistro Coolňa obhájilo zápis v prestížnom reštauračnom sprievodcovi Gault&Millau.",
-        "date": "2026-08-26",
-        "date_label": "26. 8. 2026",
+        "headline": "Pri ZŠ V. Paulínyho-Tótha už platí jednosmerka",
+        "summary": "Úseku cesty pri základnej škole na Ulici V. Paulínyho-Tótha sa po oprave zmenila organizácia dopravy — jazdí sa tadiaľ už len v jednom smere.",
+        "date": "2026-08-31",
+        "date_label": "31. 8. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/uspech-senickej-gastronomie-bistro-coolna-obhajilo-zapis-v-prestiznom-sprievodcovi-gault-millau"
+        "source_url": "https://senica.sk/clanok/pri-zs-v-paulinyho-totha-sa-jazdi-uz-len-v-jednom-smere"
       },
       {
-        "headline": "Dostihy v Čáčove pritiahli plné tribúny",
-        "summary": "Čáčovská dostihová dráha mala opäť svoj deň — rýchle kone, zaplnené tribúny a atmosféra, pre ktorú sa tam každý rok chodí.",
-        "date": "2026-08-25",
-        "date_label": "25. 8. 2026",
+        "headline": "Múzeum Senica má za sebou leto so štyrmi historickými večermi",
+        "summary": "Letný cyklus Múzea Senica ponúkol štyri večery venované histórii.",
+        "date": "2026-08-28",
+        "date_label": "28. 8. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/cacov-opaet-zil-dostihmi-rychle-kone-plne-tribuny-a-skvela-atmosfera"
+        "source_url": "https://senica.sk/clanok/leto-v-muzeu-senica-prinieslo-styri-vecery-plne-historie"
       }
     ]
   },
@@ -71,34 +71,64 @@
     ],
     "items": [
       {
+        "name": "Hádzaná dievčatá — nábor a tréningy (počas celého septembra)",
+        "date": "2026-09-01",
+        "day": "1",
+        "month": "September",
+        "time": null,
+        "venue": "3. Základná škola, Sadová 620, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/hadzana-dievcata/"
+      },
+      {
         "name": "Zápis do krúžkov v CVČ (počas celého septembra)",
         "date": "2026-09-01",
         "day": "1",
         "month": "September",
         "time": null,
-        "venue": "Centrum voľného času, Senica",
+        "venue": "Centrum voľného času, Sadová 646/8, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/zapis-do-kruzkov-v-cvc/"
       },
       {
-        "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10.)",
+        "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10., vernisáž o 17.00)",
         "date": "2026-09-04",
         "day": "4",
         "month": "September",
         "time": null,
-        "venue": "Záhorská galéria Jána Mudrocha, Senica",
+        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/13237/"
       },
       {
-        "name": "Senické senobranie 2026 — jarmok, koncerty, dožinky a program pre deti",
+        "name": "Kždyž na podzim vlaštovičky — divadlo pre deti",
+        "date": "2026-09-04",
+        "day": "4",
+        "month": "September",
+        "time": "15:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/kzdyz-na-podzim-vlastovicky/"
+      },
+      {
+        "name": "Senické Senobranie — jarmok, dožinky, koncerty a program pre deti",
         "date": "2026-09-05",
         "day": "5",
         "month": "September",
         "time": "10:00",
         "venue": "Futbalový štadión Senica, Sadová ulica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/senicke-senobranie-2026"
+        "source_url": "https://ticsenica.sk/podujatie/senobranie/"
+      },
+      {
+        "name": "Slovensko naše maľované — výstava s besedou",
+        "date": "2026-09-08",
+        "day": "8",
+        "month": "September",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/slovensko-nase-malovane/"
       },
       {
         "name": "Septembrový swap oblečenia",
@@ -106,7 +136,7 @@
         "day": "12",
         "month": "September",
         "time": "09:00",
-        "venue": "Ženské komunitné centrum Senica",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/septembrovy-swap-oblecenia/"
       },
@@ -116,19 +146,9 @@
         "day": "12",
         "month": "September",
         "time": "10:00",
-        "venue": "Centrum voľného času, Senica",
+        "venue": "Centrum voľného času, Sadová 646/8, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/dobrocinna-burza-knih-2/"
-      },
-      {
-        "name": "Superhrdinovia — detská interaktívna výstava (do 23. 10.)",
-        "date": "2026-09-14",
-        "day": "14",
-        "month": "September",
-        "time": null,
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/superhrdinovia-detska-interaktivna-vystava/"
       },
       {
         "name": "Vernisáž Kovačica a SenArt",
@@ -139,26 +159,6 @@
         "venue": "Záhorské osvetové stredisko, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/vernisaz-kovacica-a-senart/"
-      },
-      {
-        "name": "Zlatá sezóna (HC Dukla Senica)",
-        "date": "2026-09-17",
-        "day": "17",
-        "month": "September",
-        "time": "18:00",
-        "venue": "Dom kultúry, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/zlata-sezona-hc-dukla-senica/"
-      },
-      {
-        "name": "Záhorácka deska — Basta fidli Drakulovi",
-        "date": "2026-09-26",
-        "day": "26",
-        "month": "September",
-        "time": "19:00",
-        "venue": "Dom kultúry, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-basta-fidli-drakulovi-2/"
       }
     ]
   },
@@ -169,19 +169,6 @@
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
-      {
-        "type": "elektrina",
-        "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
-        "where": "31. 8.: Čáčovská a Športová",
-        "when": "dňa 31.08.2026 v čase od 07:30:00 hod. do 15:30:00 hod.",
-        "starts": "2026-08-31",
-        "ends": "2026-08-31",
-        "status": "plánovaná",
-        "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení. Termín 25. 8. (Sadová) už uplynul.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-august-2026"
-      },
       {
         "type": "elektrina",
         "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
@@ -212,12 +199,12 @@
         "type": "doprava",
         "what": "Plošná oprava miestnych komunikácií a spevnených plôch — odfrézovanie asfaltu, oprava podkladu, pokládka nového povrchu, úprava šácht, obrubníkov, chodníkov a dopravného značenia",
         "where": "Topoľová, V. Paulínyho-Tótha (úsek pri základnej škole), Hollého, Fajnorova, J. Kráľa, Novomeského, Robotnícka (pri materskej škole), Palárikova, horný koniec v Kunove",
-        "when": "Začiatok prác v týždni od 17. 8. 2026, ukončenie do konca októbra 2026; úsek na Ulici V. Paulínyho-Tótha má byť hotový do konca augusta 2026",
+        "when": "Začiatok prác v týždni od 17. 8. 2026, ukončenie do konca októbra 2026",
         "starts": "2026-08-17",
         "ends": "2026-10-31",
         "status": "prebieha",
         "provider": "Mesto Senica / Strabag",
-        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Pri ZŠ V. Paulínyho-Tótha sa plánuje zjednosmernenie cesty a nové vyhradené miesta na dočasné parkovanie pre rodičov školákov.",
+        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/senicu-caka-v-najblizsich-tyzdnoch-rozsiahla-oprava-ciest"
       }

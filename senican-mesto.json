@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-01T20:20:25+02:00",
-    "generated_for_date": "2026-09-01",
+    "generated_at": "2026-09-03T01:39:10+02:00",
+    "generated_for_date": "2026-09-03",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 1. 9. 2026: TIC REST endpoint /wp-json/tribe/events/v1/events sa nepodarilo stiahnut (web_fetch povoluje len presne URL z provenancie, dosadeny datum bol odmietnuty). Podujatia sa preto nacitali z HTML vypisu ticsenica.sk/podujatia (zoznam, strany 1-3, obdobie 1.-13. 9. 2026), co je ten isty zdroj dat ako API. Vynechane filmove premietania v Kine Mladost (Psie hviezdy, Dokonaly den, Labkova patrola, Spider-Man, Bardotky, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi - Sastin, Cinematik - Piestany), opakujuce sa prevadzkove polozky (Relax cvicenie, Zvukohry, Zvukova relaxacia, Kurz keramiky, Anglictina pre seniorov, IT kaviaren, TriKacko, Pletko stretko, Spevave basnicky, Tanecne posedenie, Pravna pomoc na MsU) a dlhodobe akcie, ktore sa zacali este pred dnesnym dnom (Patraci v meste Senica, vystava 770 rokov Senice, vystava Miloslava Pavucka). Neskoro-septembrove polozky (swap oblecenia, burza knih, vernisaz Kovacica a SenArt) su prenesene z predchadzajuceho behu, ich terminy su stale v buducnosti. Z mesta: Spravodajstvo prinieslo tri nove clanky (zaciatok skolskeho roka 1. 9., pozvanka na slavnostne zasadnutie MsZ a jednosmerka pri ZS V. Paulinyho-Totha 31. 8.), stary blok o volbach, opravach ciest, Coolni a dostihoch vypadol. Zo zapisnika MsP bez novinky (najnovsi 17. 7. 2026). Servis: augustova odstavka elektriny (ends 31. 8.) vypadla ako expirovana; ostava septembrova odstavka elektriny a dve dopravne polozky k oprave ciest. Transparentnost: zoznam MsZ nacitany cerstvo, bez zmeny - najnovsie je stale 25. zasadnutie MsZ (26. 6. 2026). Polozky VZN (93/2026 a 92/2026) su prenesene z predchadzajuceho behu, zoznam VZN sa v tomto behu nenacitaval.",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 2. 9. 2026: TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL s dosadenym datumom - nie je v provenancii). Podujatia nacitane z HTML vypisu ticsenica.sk/podujatia (strany 1-3, obdobie 2.-13. 9. 2026) - rovnaky zdroj dat ako API. Vynechane filmove premietania v Kine Mladost (Dokonaly den, Labkova patrola, Spider-Man, Bardotky, Psie hviezdy, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany), opakujuce sa prevadzkove polozky (Anglictina pre seniorov, Zvukohry, Zvukova relaxacia, IT kaviaren, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Spevave basnicky, Pravna pomoc na MsU) a dlhodobe akcie zacate pred dnesnym dnom (Patraci v meste, vystava 770 rokov Senice, vystava Pavucka, nabor hadzanej, zapis do CVC). Nove oproti 1. 9.: vystava Vysivana historia evanjelickej cirkvi (Muzeum Senica, 11.-20. 9.) a z Pozvanok senica.sk Medzinarodne stretnutie insitnych maliarov (8. 9.) - clanok sa nepodarilo nacitat (prazdna odpoved), cas a miesto ostavaju null. Klub Podporka v septembri (Pozvanky) vynechany - klubovy rozvrh, nie jednorazove podujatie, clanok tiez nenacitany. Vernisaz Kovacica a SenArt (17. 9.) prenesena z predchadzajuceho behu. Z mesta: nova sprava o oprave chodnikov na mostoch pri Lidli (2. 9.), vypadlo Leto v Muzeu. Zo zapisnika MsP bez novinky. Servis: pridana dopravna polozka k oprave chodnikov pri Lidli (SSC, do oktobra); septembrova odstavka elektriny ostava (ends 23. 9.). Transparentnost: zoznam MsZ aj VZN nacitane cerstvo, bez zmeny (25. MsZ 26. 6. 2026; VZN 93/2026 a 92/2026 ucinne).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Chodníky na mostoch pri Lidli idú do opravy, vodičov čaká tridsiatka",
+        "summary": "Slovenská správa ciest začína opravovať chodníky na mostoch nad Teplicou a Rovenským potokom pri Lidli. Práce za približne 117-tisíc eur majú skončiť najneskôr v októbri; chodcov prevedie dočasný priechod pred križovatkou s Kolóniou, vodiči spomalia na 30 km/h.",
+        "date": "2026-09-02",
+        "date_label": "2. 9. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/zacina-sa-oprava-chodnikov-pri-lidli"
+      },
       {
         "headline": "V senických školách sa začal nový školský rok",
         "summary": "Prvý septembrový deň patril v Senici otvoreniu nového školského roka.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/pri-zs-v-paulinyho-totha-sa-jazdi-uz-len-v-jednom-smere"
-      },
-      {
-        "headline": "Múzeum Senica má za sebou leto so štyrmi historickými večermi",
-        "summary": "Letný cyklus Múzea Senica ponúkol štyri večery venované histórii.",
-        "date": "2026-08-28",
-        "date_label": "28. 8. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/leto-v-muzeu-senica-prinieslo-styri-vecery-plne-historie"
       }
     ]
   },
@@ -70,26 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Hádzaná dievčatá — nábor a tréningy (počas celého septembra)",
-        "date": "2026-09-01",
-        "day": "1",
-        "month": "September",
-        "time": null,
-        "venue": "3. Základná škola, Sadová 620, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/hadzana-dievcata/"
-      },
-      {
-        "name": "Zápis do krúžkov v CVČ (počas celého septembra)",
-        "date": "2026-09-01",
-        "day": "1",
-        "month": "September",
-        "time": null,
-        "venue": "Centrum voľného času, Sadová 646/8, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/zapis-do-kruzkov-v-cvc/"
-      },
       {
         "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10., vernisáž o 17.00)",
         "date": "2026-09-04",
@@ -121,7 +101,17 @@
         "source_url": "https://ticsenica.sk/podujatie/senobranie/"
       },
       {
-        "name": "Slovensko naše maľované — výstava s besedou",
+        "name": "Medzinárodné stretnutie insitných maliarov zo Srbska a Slovenska",
+        "date": "2026-09-08",
+        "day": "8",
+        "month": "September",
+        "time": null,
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/medzinarodne-stretnutie-insitnych-maliarov-zo-srbska-a-slovenska"
+      },
+      {
+        "name": "Slovensko naše maľované — výstava s besedou o Slovákoch na Dolnej zemi",
         "date": "2026-09-08",
         "day": "8",
         "month": "September",
@@ -129,6 +119,16 @@
         "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/slovensko-nase-malovane/"
+      },
+      {
+        "name": "Vyšívaná história evanjelickej cirkvi — výstava (do 20. 9.)",
+        "date": "2026-09-11",
+        "day": "11",
+        "month": "September",
+        "time": null,
+        "venue": "Múzeum Senica, Štefánikova 724/20, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/vysivana-historia-evanjelickej-cirkvi-vystava/"
       },
       {
         "name": "Septembrový swap oblečenia",
@@ -181,6 +181,19 @@
         "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-september-2026"
+      },
+      {
+        "type": "doprava",
+        "what": "Oprava chodníkov na mostoch nad riekou Teplica a Rovenským potokom v blízkosti predajne Lidl — ofrézovanie starého povrchu, liaty asfalt, nové kamenné obrubníky a hydroizolácia (v dvoch etapách, najprv ľavá strana v smere od centra, potom pravá)",
+        "where": "Mosty pri Lidli, pred križovatkou s ulicou Kolónia",
+        "when": "Práce sa začínajú v týchto dňoch (oznámené 2. 9. 2026), podľa zmluvy majú byť dokončené najneskôr v októbri 2026",
+        "starts": "2026-09-02",
+        "ends": "2026-10-31",
+        "status": "prebieha",
+        "provider": "Slovenská správa ciest / Littlefinger s.r.o.",
+        "note": "Pre chodcov bude neustále zaistený bezpečný prechod; pred križovatkou s ulicou Kolónia pribudol dočasný priechod pre chodcov. Vodičov čaká len zníženie rýchlosti na 30 km/h. Dátum ends je odvodený z formulácie „najneskôr v októbri“, presný termín v článku nie je.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/zacina-sa-oprava-chodnikov-pri-lidli"
       },
       {
         "type": "doprava",

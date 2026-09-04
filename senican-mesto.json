@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-03T01:39:10+02:00",
+    "generated_at": "2026-09-03T20:10:48+02:00",
     "generated_for_date": "2026-09-03",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 2. 9. 2026: TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL s dosadenym datumom - nie je v provenancii). Podujatia nacitane z HTML vypisu ticsenica.sk/podujatia (strany 1-3, obdobie 2.-13. 9. 2026) - rovnaky zdroj dat ako API. Vynechane filmove premietania v Kine Mladost (Dokonaly den, Labkova patrola, Spider-Man, Bardotky, Psie hviezdy, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany), opakujuce sa prevadzkove polozky (Anglictina pre seniorov, Zvukohry, Zvukova relaxacia, IT kaviaren, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Spevave basnicky, Pravna pomoc na MsU) a dlhodobe akcie zacate pred dnesnym dnom (Patraci v meste, vystava 770 rokov Senice, vystava Pavucka, nabor hadzanej, zapis do CVC). Nove oproti 1. 9.: vystava Vysivana historia evanjelickej cirkvi (Muzeum Senica, 11.-20. 9.) a z Pozvanok senica.sk Medzinarodne stretnutie insitnych maliarov (8. 9.) - clanok sa nepodarilo nacitat (prazdna odpoved), cas a miesto ostavaju null. Klub Podporka v septembri (Pozvanky) vynechany - klubovy rozvrh, nie jednorazove podujatie, clanok tiez nenacitany. Vernisaz Kovacica a SenArt (17. 9.) prenesena z predchadzajuceho behu. Z mesta: nova sprava o oprave chodnikov na mostoch pri Lidli (2. 9.), vypadlo Leto v Muzeu. Zo zapisnika MsP bez novinky. Servis: pridana dopravna polozka k oprave chodnikov pri Lidli (SSC, do oktobra); septembrova odstavka elektriny ostava (ends 23. 9.). Transparentnost: zoznam MsZ aj VZN nacitane cerstvo, bez zmeny (25. MsZ 26. 6. 2026; VZN 93/2026 a 92/2026 ucinne).",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 3. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events ani ticsenica.sk/podujatia opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (september 2026, zoradene vzostupne) - ten preberá rovnaké TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost (Dokonaly den, Labkova patrola, Spider-Man, Bardotky, Psie hviezdy, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, Zvukohry, Zvukova relaxacia, IT kaviaren, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc na MsU, Korculovanie pre verejnost, Klub zacinajucich autorov, Tanecny kurz Latino ladies, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (nabor hadzanej, zapis do CVC, vystava Pavucka). Nove oproti 2. 9.: Zlata sezona HC Dukla Senica (17. 9., Dom kultury) - Sport. Dalsie septembrove polozky za horizontom 9 kariet (Superhrdinovia - detska interaktivna vystava od 14. 9., Zahoracka deska 26. 9., Smejko a Tanculienka 27. 9., Sireny na cestach 28. 9.) sa doplnia v dalsich behoch. Medzinarodne stretnutie insitnych maliarov (8. 9., Pozvanky senica.sk) - clanok sa opat nepodarilo nacitat (prazdna odpoved), cas a miesto ostavaju null; pravdepodobne suvisi s podujatim Slovensko nase malovane v ZOS. Klub Podporka v septembri (Pozvanky) vynechany - klubovy rozvrh. Z mesta: bez novej spravy (posledna 2. 9. - oprava chodnikov pri Lidli), Zo zapisnika MsP bez novinky (posledny 23. 6.). Servis: bez novej odstavky (kategoria naposledy 7. 8.); septembrova odstavka elektriny ostava (ends 23. 9.), tri dopravne polozky k oprave ciest ostavaju. Transparentnost: zoznam MsZ aj VZN nacitane cerstvo, bez zmeny (25. MsZ 26. 6. 2026; VZN 93/2026 a 92/2026 ucinne).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -159,6 +159,16 @@
         "venue": "Záhorské osvetové stredisko, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/vernisaz-kovacica-a-senart/"
+      },
+      {
+        "name": "Zlatá sezóna (HC Dukla Senica)",
+        "date": "2026-09-17",
+        "day": "17",
+        "month": "September",
+        "time": "18:00",
+        "venue": "Dom kultúry, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/zlata-sezona-hc-dukla-senica/"
       }
     ]
   },

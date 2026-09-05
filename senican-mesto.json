@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-03T20:10:48+02:00",
-    "generated_for_date": "2026-09-03",
+    "generated_at": "2026-09-04T20:15:00+02:00",
+    "generated_for_date": "2026-09-04",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 3. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events ani ticsenica.sk/podujatia opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (september 2026, zoradene vzostupne) - ten preberá rovnaké TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost (Dokonaly den, Labkova patrola, Spider-Man, Bardotky, Psie hviezdy, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, Zvukohry, Zvukova relaxacia, IT kaviaren, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc na MsU, Korculovanie pre verejnost, Klub zacinajucich autorov, Tanecny kurz Latino ladies, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (nabor hadzanej, zapis do CVC, vystava Pavucka). Nove oproti 2. 9.: Zlata sezona HC Dukla Senica (17. 9., Dom kultury) - Sport. Dalsie septembrove polozky za horizontom 9 kariet (Superhrdinovia - detska interaktivna vystava od 14. 9., Zahoracka deska 26. 9., Smejko a Tanculienka 27. 9., Sireny na cestach 28. 9.) sa doplnia v dalsich behoch. Medzinarodne stretnutie insitnych maliarov (8. 9., Pozvanky senica.sk) - clanok sa opat nepodarilo nacitat (prazdna odpoved), cas a miesto ostavaju null; pravdepodobne suvisi s podujatim Slovensko nase malovane v ZOS. Klub Podporka v septembri (Pozvanky) vynechany - klubovy rozvrh. Z mesta: bez novej spravy (posledna 2. 9. - oprava chodnikov pri Lidli), Zo zapisnika MsP bez novinky (posledny 23. 6.). Servis: bez novej odstavky (kategoria naposledy 7. 8.); septembrova odstavka elektriny ostava (ends 23. 9.), tri dopravne polozky k oprave ciest ostavaju. Transparentnost: zoznam MsZ aj VZN nacitane cerstvo, bez zmeny (25. MsZ 26. 6. 2026; VZN 93/2026 a 92/2026 ucinne).",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 4. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati?f_sort_order=ASC (september 2026) - ten preberá rovnaké TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost (Labkova patrola, Spider-Man, Bardotky, Psie hviezdy, Dokonaly den, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, IT kaviaren, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc, Korculovanie pre verejnost, Klub zacinajucich autorov, Latino ladies, Naramky priatelstva, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (zapis do CVC, nabor hadzanej). Nove oproti 3. 9.: Virtualna Skalicka osmicka - komunitny beh na Kunov (14. 9., zo senica.sk Spravodajstvo, v TIC nie je) - Sport; vypadla Vernisaz Kovacica a SenArt (17. 9.) kvoli limitu kariet, doplni sa v dalsom behu. Medzinarodne stretnutie insitnych maliarov (8. 9., Pozvanky) - miesto a cas naďalej null (clanok bez textu). Z mesta: 3 nove spravy zo 4. 9. (slavnostne MsZ - ocenenia Jan Peter a Miloslav Chomo; dopravne uzavery pocas Senobrania; delegacia z Pultuska) + Skalicka osmicka (3. 9.). Zo zapisnika MsP bez novinky (posledny 23. 6.). Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.), septembrova odstavka elektriny ostava (ends 23. 9.); doplnene 2 dopravne polozky zo Spravodajstva - uzavery ulic pri asfaltovani 7.-10. 9. (nahradza vseobecnejsiu polozku 'Pokracujeme v oprave ciest' z 27. 8., tie iste ulice) a jednosmerka/uzavera na Sadovej pocas Senobrania 5. 9. Transparentnost: zoznam MsZ aj VZN nacitane cerstvo, bez zmeny (25. MsZ 26. 6. 2026; VZN 93/2026 a 92/2026 ucinne).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Chodníky na mostoch pri Lidli idú do opravy, vodičov čaká tridsiatka",
-        "summary": "Slovenská správa ciest začína opravovať chodníky na mostoch nad Teplicou a Rovenským potokom pri Lidli. Práce za približne 117-tisíc eur majú skončiť najneskôr v októbri; chodcov prevedie dočasný priechod pred križovatkou s Kolóniou, vodiči spomalia na 30 km/h.",
-        "date": "2026-09-02",
-        "date_label": "2. 9. 2026",
+        "headline": "Cena mesta pre historika Jána Petra, čestné občianstvo in memoriam pre Miloslava Choma",
+        "summary": "Na slávnostnom zastupiteľstve v múzeu si poslanci uctili dve osobnosti: regionálneho historika a zberateľa Jána Petra a bývalého riaditeľa Slovenského hodvábu Miloslava Choma, ktorý stál za výstavbou bytov, štadióna či Kunovskej priehrady. Slávnosť sa niesla v duchu 770. výročia prvej písomnej zmienky o Senici, ocenení zasadili v parku múzea lipu.",
+        "date": "2026-09-04",
+        "date_label": "4. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/zacina-sa-oprava-chodnikov-pri-lidli"
+        "source_url": "https://senica.sk/clanok/slavnostne-zastupitelstvo-vzdalo-poctu-janovi-petrovi-a-miloslavovi-chomovi"
       },
       {
-        "headline": "V senických školách sa začal nový školský rok",
-        "summary": "Prvý septembrový deň patril v Senici otvoreniu nového školského roka.",
-        "date": "2026-09-01",
-        "date_label": "1. 9. 2026",
+        "headline": "Senobranie v sobotu zjednosmerní Sadovú, k štadiónu sa ide bránami B a C",
+        "summary": "Počas sobotňajšieho Senobrania bude Sadová od CVČ po križovatku pri Jednote jednosmerná, parkovať sa na nej dá. Úsek od amfiteátra po tenisové kurty bude pre autá úplne zatvorený. Program na futbalovom štadióne štartuje o 10.00.",
+        "date": "2026-09-04",
+        "date_label": "4. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/zaciatok-noveho-skolskeho-roka-v-senici"
+        "source_url": "https://senica.sk/clanok/dopravne-uzavery-pocas-senobrania"
       },
       {
-        "headline": "Poslanci sa zídu na slávnostnom zasadnutí zastupiteľstva",
-        "summary": "Mesto zverejnilo pozvánku na slávnostné zasadnutie mestského zastupiteľstva v Senici. Podrobnosti sú v pozvánke na webe mesta.",
-        "date": "2026-08-31",
-        "date_label": "31. 8. 2026",
+        "headline": "Z poľského Pułtuska prišla delegácia, partnerstvo má po 24 rokoch rásť ďalej",
+        "summary": "Starostka Beata Jóźwiak s kolegyňami navštívila mestský úrad pri príležitosti slávnostného zastupiteľstva a Senobrania. Obe strany hovorili o fungovaní úradov, škôl a polície; Poliaci navrhujú stretnutie mladých z partnerských miest a ďalšiu školskú olympiádu.",
+        "date": "2026-09-04",
+        "date_label": "4. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/pozvanka-na-slavnostne-zasadnutie-mestskeho-zastupitelstva-v-senici"
+        "source_url": "https://senica.sk/clanok/senica-privitala-delegaciu-z-polskeho-pultuska"
       },
       {
-        "headline": "Pri ZŠ V. Paulínyho-Tótha už platí jednosmerka",
-        "summary": "Úseku cesty pri základnej škole na Ulici V. Paulínyho-Tótha sa po oprave zmenila organizácia dopravy — jazdí sa tadiaľ už len v jednom smere.",
-        "date": "2026-08-31",
-        "date_label": "31. 8. 2026",
+        "headline": "Senica si zabehne virtuálnu Skalickú osmičku, štartovné pomôže Andrejkovi z Čáčova",
+        "summary": "Mesto sa pripája k charitatívnemu behu Nadácie AGEL spoločným štartom v pondelok 14. 9. o 16.00 od cyklotrasy pri kúpalisku na Kunov a späť. Tempo nerozhoduje, stačí sa registrovať vo virtuálnej kategórii; výťažok ide trom chlapcom zo Záhoria vrátane malého Seničana.",
+        "date": "2026-09-03",
+        "date_label": "3. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/pri-zs-v-paulinyho-totha-sa-jazdi-uz-len-v-jednom-smere"
+        "source_url": "https://senica.sk/clanok/v-senici-pobezime-virtualnu-skalicku-osmicku-vytazok-pomoze-aj-malemu-andrejkovi-z-cacova"
       }
     ]
   },
@@ -71,7 +71,7 @@
     ],
     "items": [
       {
-        "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10., vernisáž o 17.00)",
+        "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10.)",
         "date": "2026-09-04",
         "day": "4",
         "month": "September",
@@ -151,14 +151,14 @@
         "source_url": "https://ticsenica.sk/podujatie/dobrocinna-burza-knih-2/"
       },
       {
-        "name": "Vernisáž Kovačica a SenArt",
-        "date": "2026-09-17",
-        "day": "17",
+        "name": "Virtuálna Skalická osmička — spoločný charitatívny beh na Kunov",
+        "date": "2026-09-14",
+        "day": "14",
         "month": "September",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/vernisaz-kovacica-a-senart/"
+        "time": "16:00",
+        "venue": "Cyklotrasa pri mestskom kúpalisku, Senica",
+        "category": "Šport",
+        "source_url": "https://senica.sk/clanok/v-senici-pobezime-virtualnu-skalicku-osmicku-vytazok-pomoze-aj-malemu-andrejkovi-z-cacova"
       },
       {
         "name": "Zlatá sezóna (HC Dukla Senica)",
@@ -180,15 +180,41 @@
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
       {
+        "type": "doprava",
+        "what": "Počas Senického Senobrania bude zjednosmernená ulica Sadová v úseku od Centra voľného času po križovatku pri predajni Coop Jednota. Úplne uzavretá pre vozidlá bude cesta od križovatky pri amfiteátri po tenisové kurty.",
+        "where": "Ul. Sadová (od CVČ po križovatku pri Coop Jednota); úsek od križovatky pri amfiteátri po tenisové kurty",
+        "when": "Sobota 5. 9. 2026",
+        "starts": "2026-09-05",
+        "ends": "2026-09-05",
+        "status": "plánovaná",
+        "provider": "Mesto Senica",
+        "note": "Na zjednosmernenej Sadovej bude v sobotu možné parkovať. Vchod pre verejnosť do areálu futbalového štadióna bude cez brány B a C, ostatné brány sú uzavreté, resp. určené len pre organizátorov a účinkujúcich. Program na štadióne začína o 10.00 hod.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/dopravne-uzavery-pocas-senobrania"
+      },
+      {
+        "type": "doprava",
+        "what": "Kvôli ďalšiemu plánovanému asfaltovaniu cestných komunikácií dôjde k uzáverám ulíc. Počas uzávery nie je možné do opravovaného úseku vojsť, ani parkovať, a to ani na priľahlých parkoviskách, keďže výjazd z nich nebude možný.",
+        "where": "7.–9. 9.: Hollého (od križovatky s ul. SNP po križovatku s ul. Fajnorovou), Fajnorova (od križovatky s ul. Hollého po ul. Štefánikova), J. Kráľa (od križovatky s ul. Hollého po ul. Moyzesova) · 8.–10. 9.: L. Novomeského (od križovatky s ul. J. Mudrocha vrátane križovatky po križovatku s úsekom ul. Novomeského pred zimným štadiónom)",
+        "when": "Pondelok 7. 9. – streda 9. 9. 2026 (Hollého, Fajnorova, J. Kráľa); utorok 8. 9. – štvrtok 10. 9. 2026 (L. Novomeského)",
+        "starts": "2026-09-07",
+        "ends": "2026-09-10",
+        "status": "plánovaná",
+        "provider": "Mesto Senica / Strabag",
+        "note": "Obmedzenia sa dotknú aj verejnej dopravy: v uvedených dňoch bude Linka 2 a Linka 4 presmerovaná a vynechajú zastávku Amfiteáter.",
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/dopravne-uzavery-platia-od-pondelka"
+      },
+      {
         "type": "elektrina",
         "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
-        "where": "2. 9., 8. 9., 18. 9. a 21. 9.: Športová · 10. 9. a 23. 9.: Čáčovská a Športová · 4. 9.: lokality Chata poľovnícka, Hlboké lúky, Suroviny dolné a horné · 7. 9.: L. Novomeského a Sadová · 15. 9.: Hollého a J. Kráľa · 18. 9.: aj Hviezdoslavova · 21. 9.: aj Štefánikova",
-        "when": "02.09.2026 od 07:30 do 15:30; 04.09.2026 od 11:30 do 14:30; 07.09.2026 od 07:30 do 15:00; 08.09.2026 od 07:30 do 15:30; 10.09.2026 od 07:30 do 15:30; 15.09.2026 od 07:30 do 15:00; 18.09.2026 od 07:30 do 15:00 a od 07:30 do 15:30; 21.09.2026 od 07:30 do 15:00 a od 07:30 do 15:30; 23.09.2026 od 07:30 do 15:30",
+        "where": "8. 9., 18. 9. a 21. 9.: Športová · 10. 9. a 23. 9.: Čáčovská a Športová · 7. 9.: L. Novomeského a Sadová · 15. 9.: Hollého a J. Kráľa · 18. 9.: aj Hviezdoslavova · 21. 9.: aj Štefánikova",
+        "when": "07.09.2026 od 07:30 do 15:00; 08.09.2026 od 07:30 do 15:30; 10.09.2026 od 07:30 do 15:30; 15.09.2026 od 07:30 do 15:00; 18.09.2026 od 07:30 do 15:00 a od 07:30 do 15:30; 21.09.2026 od 07:30 do 15:00 a od 07:30 do 15:30; 23.09.2026 od 07:30 do 15:30",
         "starts": "2026-09-02",
         "ends": "2026-09-23",
         "status": "plánovaná",
         "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení.",
+        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení. Termíny 2. 9. a 4. 9. už prebehli.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-september-2026"
       },
@@ -196,7 +222,7 @@
         "type": "doprava",
         "what": "Oprava chodníkov na mostoch nad riekou Teplica a Rovenským potokom v blízkosti predajne Lidl — ofrézovanie starého povrchu, liaty asfalt, nové kamenné obrubníky a hydroizolácia (v dvoch etapách, najprv ľavá strana v smere od centra, potom pravá)",
         "where": "Mosty pri Lidli, pred križovatkou s ulicou Kolónia",
-        "when": "Práce sa začínajú v týchto dňoch (oznámené 2. 9. 2026), podľa zmluvy majú byť dokončené najneskôr v októbri 2026",
+        "when": "Práce sa začali 2. 9. 2026, podľa zmluvy majú byť dokončené najneskôr v októbri 2026",
         "starts": "2026-09-02",
         "ends": "2026-10-31",
         "status": "prebieha",
@@ -207,19 +233,6 @@
       },
       {
         "type": "doprava",
-        "what": "Ďalšia etapa rekonštrukcie cestných komunikácií — frézovanie a pokládka asfaltu v dvoch fázach",
-        "where": "Ul. Novomeského — od križovatky s ul. J. Mudrocha (vrátane križovatky) po križovatku s úsekom ul. Novomeského pred zimným štadiónom; Ul. J. Kráľa — od križovatky s ul. Hollého po križovatku s ul. Moyzesova (pri polícii); Ul. J. Hollého — od križovatky s ul. SNP po križovatku s ul. Fajnorova vrátane križovatky; Ul. Fajnorova — od križovatky s ul. Hollého po križovatku s ul. Štefánikova",
-        "when": "Práce sa rozbehli vo štvrtok 27. 8. 2026; počas prvej fázy (frézovanie) je prejazd možný, v druhej fáze (kladenie asfaltu) bude ulica úplne uzatvorená približne na 2 dni",
-        "starts": "2026-08-27",
-        "ends": "2026-10-31",
-        "status": "prebieha",
-        "provider": "Mesto Senica / Strabag",
-        "note": "Počas frézovania mesto prosí nenechávať vozidlá zaparkované na ceste. Počas úplnej uzávery platí v rekonštruovanom úseku aj zákaz parkovania; neodporúča sa parkovať ani na priľahlých parkoviskách, keďže výjazd z nich nebude možný. O presných termínoch úplnej uzávery bude mesto informovať na webe a na sociálnych sieťach. Dátum ends je odvodený od celkového harmonogramu opravy ciest (do konca októbra 2026), v článku nie je uvedený.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/pokracujeme-v-oprave-ciest-v-meste"
-      },
-      {
-        "type": "doprava",
         "what": "Plošná oprava miestnych komunikácií a spevnených plôch — odfrézovanie asfaltu, oprava podkladu, pokládka nového povrchu, úprava šácht, obrubníkov, chodníkov a dopravného značenia",
         "where": "Topoľová, V. Paulínyho-Tótha (úsek pri základnej škole), Hollého, Fajnorova, J. Kráľa, Novomeského, Robotnícka (pri materskej škole), Palárikova, horný koniec v Kunove",
         "when": "Začiatok prác v týždni od 17. 8. 2026, ukončenie do konca októbra 2026",
@@ -227,7 +240,7 @@
         "ends": "2026-10-31",
         "status": "prebieha",
         "provider": "Mesto Senica / Strabag",
-        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená.",
+        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená. Konkrétne termíny uzáver na Hollého, Fajnorovej, J. Kráľa a Novomeského (7.–10. 9.) sú v samostatnej položke.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/senicu-caka-v-najblizsich-tyzdnoch-rozsiahla-oprava-ciest"
       }

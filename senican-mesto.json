@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-04T20:15:00+02:00",
-    "generated_for_date": "2026-09-04",
+    "generated_at": "2026-09-05T20:10:00+02:00",
+    "generated_for_date": "2026-09-05",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 4. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati?f_sort_order=ASC (september 2026) - ten preberá rovnaké TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost (Labkova patrola, Spider-Man, Bardotky, Psie hviezdy, Dokonaly den, Tom a Jerry), podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, IT kaviaren, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc, Korculovanie pre verejnost, Klub zacinajucich autorov, Latino ladies, Naramky priatelstva, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (zapis do CVC, nabor hadzanej). Nove oproti 3. 9.: Virtualna Skalicka osmicka - komunitny beh na Kunov (14. 9., zo senica.sk Spravodajstvo, v TIC nie je) - Sport; vypadla Vernisaz Kovacica a SenArt (17. 9.) kvoli limitu kariet, doplni sa v dalsom behu. Medzinarodne stretnutie insitnych maliarov (8. 9., Pozvanky) - miesto a cas naďalej null (clanok bez textu). Z mesta: 3 nove spravy zo 4. 9. (slavnostne MsZ - ocenenia Jan Peter a Miloslav Chomo; dopravne uzavery pocas Senobrania; delegacia z Pultuska) + Skalicka osmicka (3. 9.). Zo zapisnika MsP bez novinky (posledny 23. 6.). Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.), septembrova odstavka elektriny ostava (ends 23. 9.); doplnene 2 dopravne polozky zo Spravodajstva - uzavery ulic pri asfaltovani 7.-10. 9. (nahradza vseobecnejsiu polozku 'Pokracujeme v oprave ciest' z 27. 8., tie iste ulice) a jednosmerka/uzavera na Sadovej pocas Senobrania 5. 9. Transparentnost: zoznam MsZ aj VZN nacitane cerstvo, bez zmeny (25. MsZ 26. 6. 2026; VZN 93/2026 a 92/2026 ucinne).",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 5. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (september 2026), ktory preberá TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost, podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc, Korculovanie pre verejnost, Klub zacinajucich autorov, Latino ladies, Naramky priatelstva, Citanicko, Tvoriva sobota, Posedenie pri harmonike, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (zapis do CVC, nabor hadzanej, vystava Pizzitelli od 4. 9.). Nove oproti 4. 9.: doplnena Vernisaz Kovacica a SenArt (17. 9.); vypadli vcerajsie polozky (Pizzitelli, Kzdyz na podzim vlastovicky). Kvoli limitu kariet vynechana detska vystava Superhrdinovia (ZOS, 14. 9. - 23. 10.), doplni sa v dalsom behu. Pozvanka 'Klub Podporka v septembri' (8. 9.) - clanok vratil prazdny obsah (bez textu), nezaradena. Medzinarodne stretnutie insitnych maliarov (8. 9.) - miesto a cas nadalej null. Z mesta: bez novej spravy od 4. 9. (Spravodajstvo aj Zo zapisnika MsP bez zmeny), 4 polozky ostavaju. Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.); vsetkych 5 poloziek ma ends >= 5. 9. (uzavera Sadovej pocas Senobrania konci dnes, zajtra vypadne). Transparentnost: zoznam MsZ nacitany cerstvo bez zmeny (25. MsZ 26. 6. 2026); stranka VZN vratila prazdny obsah, polozky VZN 93/2026 a 92/2026 ponechane z predosleho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -70,26 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Deanna Pizzitelli — Archive 24 (výstava do 18. 10.)",
-        "date": "2026-09-04",
-        "day": "4",
-        "month": "September",
-        "time": null,
-        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/13237/"
-      },
-      {
-        "name": "Kždyž na podzim vlaštovičky — divadlo pre deti",
-        "date": "2026-09-04",
-        "day": "4",
-        "month": "September",
-        "time": "15:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/kzdyz-na-podzim-vlastovicky/"
-      },
       {
         "name": "Senické Senobranie — jarmok, dožinky, koncerty a program pre deti",
         "date": "2026-09-05",
@@ -159,6 +139,16 @@
         "venue": "Cyklotrasa pri mestskom kúpalisku, Senica",
         "category": "Šport",
         "source_url": "https://senica.sk/clanok/v-senici-pobezime-virtualnu-skalicku-osmicku-vytazok-pomoze-aj-malemu-andrejkovi-z-cacova"
+      },
+      {
+        "name": "Vernisáž Kovačica a SenArt",
+        "date": "2026-09-17",
+        "day": "17",
+        "month": "September",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/vernisaz-kovacica-a-senart/"
       },
       {
         "name": "Zlatá sezóna (HC Dukla Senica)",

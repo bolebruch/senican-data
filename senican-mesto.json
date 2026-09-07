@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-05T20:10:00+02:00",
-    "generated_for_date": "2026-09-05",
+    "generated_at": "2026-09-06T20:10:12+02:00",
+    "generated_for_date": "2026-09-06",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 5. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (september 2026), ktory preberá TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost, podujatia mimo Senice (Pochod sastinskymi bormi, Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, TriKacko, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc, Korculovanie pre verejnost, Klub zacinajucich autorov, Latino ladies, Naramky priatelstva, Citanicko, Tvoriva sobota, Posedenie pri harmonike, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (zapis do CVC, nabor hadzanej, vystava Pizzitelli od 4. 9.). Nove oproti 4. 9.: doplnena Vernisaz Kovacica a SenArt (17. 9.); vypadli vcerajsie polozky (Pizzitelli, Kzdyz na podzim vlastovicky). Kvoli limitu kariet vynechana detska vystava Superhrdinovia (ZOS, 14. 9. - 23. 10.), doplni sa v dalsom behu. Pozvanka 'Klub Podporka v septembri' (8. 9.) - clanok vratil prazdny obsah (bez textu), nezaradena. Medzinarodne stretnutie insitnych maliarov (8. 9.) - miesto a cas nadalej null. Z mesta: bez novej spravy od 4. 9. (Spravodajstvo aj Zo zapisnika MsP bez zmeny), 4 polozky ostavaju. Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.); vsetkych 5 poloziek ma ends >= 5. 9. (uzavera Sadovej pocas Senobrania konci dnes, zajtra vypadne). Transparentnost: zoznam MsZ nacitany cerstvo bez zmeny (25. MsZ 26. 6. 2026); stranka VZN vratila prazdny obsah, polozky VZN 93/2026 a 92/2026 ponechane z predosleho behu.",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 6. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events ani ticsenica.sk opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (september 2026), ktory preberá TIC data (odkazy vedu na ticsenica.sk/podujatie/). Vynechane filmove premietania v Kine Mladost, podujatia mimo Senice (Cinematik Piestany, Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, Pletko stretko, Tanecne posedenie, Kurz keramiky, Relax cvicenie, Spevave basnicky, Pravna pomoc, Korculovanie pre verejnost, Klub zacinajucich autorov, Latino ladies, Naramky priatelstva, Citanicko, Tvoriva sobota, Posedenie pri harmonike, skolske workshopy ZOS) a dlhodobe akcie zacate pred dnesnym dnom (zapis do CVC, nabor hadzanej, vystava Pizzitelli od 4. 9.). Nove oproti 5. 9.: doplnena mestska pozvanka Klub Podporka (8. 9., Denne centrum, SNP 784, 16:00 - clanok uz ma textovy obsah); vypadlo vcerajsie Senobranie. Kvoli limitu kariet nadalej vynechana detska vystava Superhrdinovia (ZOS, 14. 9. - 23. 10.) a neskorsie septembrove akcie v DK (Zahoracka deska 26. 9., Smejko a Tanculienka 27. 9., Sireny na cestach 28. 9.) - doplnia sa, ked vypadnu skorsie polozky. Medzinarodne stretnutie insitnych maliarov (8. 9.) - miesto a cas nadalej null (len v obrazku). Z mesta: bez novej spravy od 4. 9. (Spravodajstvo aj Zo zapisnika MsP bez zmeny), 4 polozky ostavaju. Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.); vypadla uzavera Sadovej pocas Senobrania (ends 5. 9.), ostavaju 4 polozky s ends >= 6. 9. Transparentnost: zoznam MsZ nacitany cerstvo bez zmeny (25. MsZ 26. 6. 2026); stranka VZN opat vratila prazdny obsah, polozky VZN 93/2026 a 92/2026 ponechane z predosleho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,24 +71,14 @@
     ],
     "items": [
       {
-        "name": "Senické Senobranie — jarmok, dožinky, koncerty a program pre deti",
-        "date": "2026-09-05",
-        "day": "5",
-        "month": "September",
-        "time": "10:00",
-        "venue": "Futbalový štadión Senica, Sadová ulica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/senobranie/"
-      },
-      {
-        "name": "Medzinárodné stretnutie insitných maliarov zo Srbska a Slovenska",
+        "name": "Klub Podporka — podporná skupina duševného zdravia",
         "date": "2026-09-08",
         "day": "8",
         "month": "September",
-        "time": null,
-        "venue": null,
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/medzinarodne-stretnutie-insitnych-maliarov-zo-srbska-a-slovenska"
+        "time": "16:00",
+        "venue": "Denné centrum Senica, SNP 784",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/klub-podporka-v-septembri"
       },
       {
         "name": "Slovensko naše maľované — výstava s besedou o Slovákoch na Dolnej zemi",
@@ -99,6 +89,16 @@
         "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/slovensko-nase-malovane/"
+      },
+      {
+        "name": "Medzinárodné stretnutie insitných maliarov zo Srbska a Slovenska",
+        "date": "2026-09-08",
+        "day": "8",
+        "month": "September",
+        "time": null,
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/medzinarodne-stretnutie-insitnych-maliarov-zo-srbska-a-slovenska"
       },
       {
         "name": "Vyšívaná história evanjelickej cirkvi — výstava (do 20. 9.)",
@@ -169,19 +169,6 @@
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
-      {
-        "type": "doprava",
-        "what": "Počas Senického Senobrania bude zjednosmernená ulica Sadová v úseku od Centra voľného času po križovatku pri predajni Coop Jednota. Úplne uzavretá pre vozidlá bude cesta od križovatky pri amfiteátri po tenisové kurty.",
-        "where": "Ul. Sadová (od CVČ po križovatku pri Coop Jednota); úsek od križovatky pri amfiteátri po tenisové kurty",
-        "when": "Sobota 5. 9. 2026",
-        "starts": "2026-09-05",
-        "ends": "2026-09-05",
-        "status": "plánovaná",
-        "provider": "Mesto Senica",
-        "note": "Na zjednosmernenej Sadovej bude v sobotu možné parkovať. Vchod pre verejnosť do areálu futbalového štadióna bude cez brány B a C, ostatné brány sú uzavreté, resp. určené len pre organizátorov a účinkujúcich. Program na štadióne začína o 10.00 hod.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/dopravne-uzavery-pocas-senobrania"
-      },
       {
         "type": "doprava",
         "what": "Kvôli ďalšiemu plánovanému asfaltovaniu cestných komunikácií dôjde k uzáverám ulíc. Počas uzávery nie je možné do opravovaného úseku vojsť, ani parkovať, a to ani na priľahlých parkoviskách, keďže výjazd z nich nebude možný.",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-16T20:26:33+02:00",
-    "generated_for_date": "2026-09-16",
+    "generated_at": "2026-09-17T20:10:00+02:00",
+    "generated_for_date": "2026-09-17",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 16. 9. 2026 (vecerny beh 20:10): TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (preberá TIC data, odkazy vedu na ticsenica.sk/podujatie/) a z mestskych pozvanok senica.sk/kategoria/pozvanky. Kedze homepage sa nasadzuje az rano 17. 9., polozky zo 16. 9. (Ranajky pre cyklistov 7:00, Latino ladies, Naramky priatelstva, Rozpravky P. Dobsinskeho) su vynechane. Vynechane filmove premietania v Kine Mladost, podujatia mimo Senice (Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, Kurz keramiky, Relax cvicenie, Korculovanie pre verejnost, Klub zacinajucich autorov, Citanicko, Tvoriva sobota, Posedenie pri harmonike, skolske workshopy ZOS, Wellness vikend, Zvukove dobrodruzstvo, Liecive, Medialny kompas, Stopom az na koniec sveta) a dlhodobe akcie zacate skor (zapis do CVC, nabor hadzanej, vystava Pizzitelli, Vysivana historia ev. cirkvi, Superhrdinovia). Zvyhodneny bikesharing 18. 9. (kod ETMSE2026) nie je samostatna polozka - je to promo, nie podujatie; uvedeny je v Z mesta. Do limitu 9 sa vratil Smejko a Tanculienka (27. 9.); Sireny na cestach (28. 9.) stale mimo limitu. XV. medzinarodny festival zboroveho spevu - clanok obsahuje len obrazok bez datumu/miesta v texte, NEZARADENY. Z mesta: 4 NOVE spravy - 15. 9. Pripomienky k cestovnym poriadkom TTSK 2026/27 (do 25. 9. dopravcovi, do 30. 9. TTSK), 15. 9. Senica sa zapaja do Europskeho tyzdna mobility (ranajky 16. 9., bikesharing 18. 9., MHD zdarma 22. 9.), 15. 9. Charitativny beh Skalicka osmicka (cca 40 ucastnikov, 3 deti zo Zahoria), 14. 9. Vytvarnici ZUS Senica a Velke Pavlovice na plenéri na Palave (vystava v novembri v Galerii v podkrovi ZUS). Vypadli: Radikalizacia deti (14. 9.), MsU otvoreny 15. 9., ucebna chemie na Jednotke (11. 9.), plot na cintorine (10. 9.). Kategoria Zo zapisnika MsP bez zmeny (posledna 23. 6.). Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.); vsetky 4 polozky ostavaju; pri odstavke elektriny je najblizsi termin 18. 9. (Hviezdoslavova 43-51, Sportova), dalej 21. a 23. 9. Transparentnost: bez zmeny - 26. MsZ (4. 9. 2026) ma zapisnicu PDF a video, hlasovania PDF na esam stale nie su. Stranka VZN s filtrom f_vzn_state=1 vratila prazdny obsah - polozky VZN 93/2026 a 92/2026 ponechane z predoslych behov.",
+    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 17. 9. 2026 (vecerny beh 20:10): TIC REST endpoint /wp-json/tribe/events/v1/events opat nebolo mozne stiahnut (web_fetch odmieta URL mimo provenancie). Podujatia nacitane z mestskeho kalendara senica.sk/kalendar-podujati (preberá TIC data, odkazy vedu na ticsenica.sk/podujatie/) a z mestskych pozvanok senica.sk/kategoria/pozvanky. Kedze homepage sa nasadzuje az rano 18. 9., polozky zo 17. 9. (Vernisaz Plener Kovacica a SenArt 17:00 - vystava trva do 30. 9., Zlata sezona HC Dukla 18:00, Klub zacinajucich autorov) su vynechane. Vynechane filmove premietania v Kine Mladost, podujatia mimo Senice (Mihalinova utulna, Velkopavlovicke vinobrani), opakujuce sa prevadzkove/klubove polozky (Anglictina pre seniorov, Kurz keramiky, Relax cvicenie, Korculovanie pre verejnost, Citanicko, Tvoriva sobota, Posedenie pri harmonike, skolske workshopy ZOS, Wellness vikend, Zvukove dobrodruzstvo, Liecive, Medialny kompas, Stopom az na koniec sveta, Insitne malovanie na sklo, Rozbehni to!) a dlhodobe akcie zacate skor (zapis do CVC, nabor hadzanej, vystava Pizzitelli, Vysivana historia ev. cirkvi, Superhrdinovia). Zvyhodneny bikesharing 18. 9. (kod ETMSE2026) je promo, nie podujatie - uvedeny je v Z mesta. NOVE v Podujatiach: Biela pastelka 18. 9. (zbierka v uliciach), Oslavy 110. vyrocia umrtia S. H. Vajanskeho 20. 9. 13:00 (kalendar neuvadza miesto - venue null), Cacov: Vystava kralikov, hydiny a holubov 26.-27. 9. Mimo limitu 9 ostali Smejko a Tanculienka (27. 9.), Sireny na cestach (28. 9.), Rebornovane babiky (3. 10., clanok bez miesta/casu v texte) a Hodova slavnost v Cacove (4. 10. 10:00, ev. kostol). XV. medzinarodny festival zboroveho spevu - clanok stale len s obrazkom, NEZARADENY. Z mesta: BEZ ZMENY - kategoria Spravodajstvo nema od 15. 9. novy clanok (najnovsie stale Pripomienky k cestovnym poriadkom, Europsky tyzden mobility, Skalicka osmicka, plener na Palave). Kategoria Zo zapisnika MsP bez zmeny (posledna 23. 6.). Servis: kategoria odstavok bez novej polozky (naposledy 7. 8.); vsetky 4 polozky ostavaju; odstavka elektriny ma najblizsi termin zajtra 18. 9. (Hviezdoslavova 43-51, Sportova), dalej 21. a 23. 9. Transparentnost: bez zmeny - 26. MsZ (4. 9. 2026) ma zapisnicu PDF a video, hlasovania PDF na esam stale nie su. Stranka VZN s filtrom f_vzn_state=1 vratila prazdny obsah - polozky VZN 93/2026 a 92/2026 ponechane z predoslych behov.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -30,8 +30,8 @@
         "source_url": "https://senica.sk/clanok/pripomienky-a-navrhy-zmien-cestovnych-poriadkov-pre-obdobie-2026-2027"
       },
       {
-        "headline": "Týždeň mobility v Senici: raňajky pre cyklistov, lacnejší bikesharing a 22. septembra MHD zadarmo",
-        "summary": "Senica sa opäť zapojila do Európskeho týždňa mobility (16.–22. 9.). V stredu ráno boli v parku pri CVČ raňajky pre tých, čo prišli pešo či na bicykli, v piatok 18. 9. dá kód ETMSE2026 v Senicabajku 10 minút každej jazdy zdarma a v utorok 22. 9. na Deň bez áut jazdia mestské autobusy bezplatne. Bikesharing má za sebou vlani 56 300 jázd, MHD previezla takmer 280-tisíc ľudí.",
+        "headline": "Týždeň mobility v Senici: v piatok lacnejší bikesharing, 22. septembra MHD zadarmo",
+        "summary": "Senica sa opäť zapojila do Európskeho týždňa mobility (16.–22. 9.). Po stredajších raňajkách pre cyklistov a peších v parku pri CVČ dá v piatok 18. 9. kód ETMSE2026 v Senicabajku 10 minút každej jazdy zdarma a v utorok 22. 9. na Deň bez áut jazdia mestské autobusy bezplatne. Bikesharing má za sebou vlani 56 300 jázd, MHD previezla takmer 280-tisíc ľudí.",
         "date": "2026-09-15",
         "date_label": "15. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -71,24 +71,24 @@
     ],
     "items": [
       {
-        "name": "Vernisáž Kovačica a SenArt",
-        "date": "2026-09-17",
-        "day": "17",
+        "name": "Biela pastelka — verejná zbierka pre nevidiacich a slabozrakých",
+        "date": "2026-09-18",
+        "day": "18",
         "month": "September",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/vernisaz-kovacica-a-senart/"
+        "time": "08:00",
+        "venue": "Ulice mesta Senica (dobrovoľníci s pokladničkami)",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/biela-pastelka/"
       },
       {
-        "name": "Zlatá sezóna (HC Dukla Senica)",
-        "date": "2026-09-17",
-        "day": "17",
+        "name": "Oslavy 110. výročia úmrtia Svetozára Hurbana Vajanského",
+        "date": "2026-09-20",
+        "day": "20",
         "month": "September",
-        "time": "18:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/zlata-sezona-hc-dukla-senica/"
+        "time": "13:00",
+        "venue": null,
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/oslava-110-vyrocia-umrtia-svetozara-hurbana-vajanskeho/"
       },
       {
         "name": "Nedeľný ateliér pre rodiny s deťmi (5–12 rokov)",
@@ -141,6 +141,16 @@
         "source_url": "https://ticsenica.sk/podujatie/krajske-kolo-trnavskeho-kraja-nasa-vansovej-lomnicka/"
       },
       {
+        "name": "Čáčov: Výstava králikov, hydiny a holubov (9. ročník, aj 27. 9. od 9:00)",
+        "date": "2026-09-26",
+        "day": "26",
+        "month": "September",
+        "time": "14:00",
+        "venue": "Areál ZO SZCH Čáčov „pri bocianoch“, Senica-Čáčov",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/cacov-vystava-kralikov-hydiny-a-holubov"
+      },
+      {
         "name": "Záhorácka deska — Basta fidli Drakulovi",
         "date": "2026-09-26",
         "day": "26",
@@ -149,16 +159,6 @@
         "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-basta-fidli-drakulovi-2/"
-      },
-      {
-        "name": "Smejko a Tanculienka — Z rozprávky do rozprávky",
-        "date": "2026-09-27",
-        "day": "27",
-        "month": "September",
-        "time": "16:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/smejko-a-tanculienka-z-rozpravky-do-rozpravky/"
       }
     ]
   },

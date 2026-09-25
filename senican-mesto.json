@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-23T20:53:00+02:00",
-    "generated_for_date": "2026-09-23",
+    "generated_at": "2026-09-24T20:18:40+02:00",
+    "generated_for_date": "2026-09-24",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "Automaticky generovany mestsky servis pre homepage senican.sk. Editorialne polozky (Z mesta) su prepisane hlasom Senicana a oznacene atribuciou 'Zdroj: mesto Senica'. Uradne polozky (Servis, Transparentnost) sa preberaju doslovne a nesu badge 'Uradne'. Ziadne fotky prevzate z mestskeho webu sa nepouzivaju. POZN. K BEHU 23. 9. 2026 (vecerny beh): TIC REST endpoint /wp-json/tribe/events/v1/events sa tentoraz podarilo stiahnut priamo (web_fetch uz domenu ticsenica.sk neodmietol), podujatia su preto prvykrat nacitane priamo z TIC API (nie z mestskeho kalendara senica.sk). Kategoria Kino je vynechana. Z 9 vybranych poloziek su 2 nove oproti behu z 21. 9.: futbalovy zapas FK Senica - FK Banik Lehota p. Vt. B (26. 9., novy zdroj z TIC) a dalsi beh Klubu Podporky (29. 9., predtym uvedeny len ako 'aj 29. 9.' pri terminu 22. 9., ktory uz prebehol). Vynechane su filmove premietania v Kine Mladost, opakujuce sa prevadzkove/klubove polozky (Relax cvicenie, Kurz keramiky, Anglictina pre seniorov, Korculovanie pre verejnost, Citanicko pre najmensich, Tvoriva sobota, Hrave pohybove rozpravky, Liecive, Stopom az na koniec sveta), zrusena polozka Zvukove dobrodruzstvo a podujatie mimo Senice (Velkopavlovicke vinobranie, Jablkove hodovanie v Modre). Mimo limitu 9 poloziek ostalo Rebornovane babiky v Muzeu Senica (3.-11. 10.). Z MESTA: 2 nove clanky oproti behu z 21. 9. - 'Hasici odvolali zvysene riziko poziarov' (23. 9., OR HaZZ zrusilo od 21. 9. 15:00 zvysene nebezpecenstvo poziaru v lesoch okresu Senica) a 'V Kunove sa zacala uprava krizovatky i cyklochodnika' (22. 9., novy 166 m cyklochodnik a T-krizovatka, dokoncenie v novembri). Vypadli clanky 'Delegacia z Kovacice' a 'Pripomienky cestovnych poriadkov'. Kategoria Zo zapisnika MsP je stale bez noveho clanku (posledny 2. 9.). SERVIS: septembrova odstavka elektriny (clanok aktualizovany 4. 9.) ma okrem dnesneho terminu (23. 9., Cacovska) este jeden novy nadchadzajuci termin 29. 9. (Sportova) - predchadzajuci beh ho v datach nemal, ends sa preto posunul z 23. 9. na 29. 9. a opravena je aj lokalita (21. 9. bola len Stefanikova, 23. 9. len Cacovska, nie obe ulice naraz ako v minulom zazname). Zakaz vjazdu na Topolovej expiroval 22. 9. a je z Servisu odstraneny. Ostatne dopravne obmedzenia (Palarikova/Robotnicka - nahradne parkovanie na Kasarenskej, mosty pri Lidli, plosna oprava komunikacii) bez zmeny, vsetky bezia do konca oktobra. TRANSPARENTNOST: bez zmeny - pozvanka na 27. zasadnutie MsZ (24. 9.) stale len ako clanok, v esam prehlade zasadnuti este nie je uvedene; 26. MsZ (10. 9.) stale bez PDF hlasovani. VZN: ziadne nove, ziadne v stave 'navrh'; najnovsie stale 93/2026 a 92/2026 (obe ucinne).",
+    "note": "POZN. K BEHU 24. 9. 2026 (vecerny beh, cca 20:18 SELC): Podujatia opat citane priamo z TIC REST API (ticsenica.sk) cez viacero volani pre rozne datumove okna kvoli strankovaniu API (jedno volanie vratilo len cast nadchadzajucich udalosti). Vybranych 9 poloziek je zhodnych s behom z 23. 9. - Krajske kolo Vansovej Lomnicky (24. 9.), Cacovska vystava kralikov/hydiny/holubov (26. 9., aj 27. 9.), FK Senica - FK Banik Lehota p. Vt. B (26. 9.), Zahoracka deska (26. 9.), Smejko a Tanculienka (27. 9.), Sireny na cestach (28. 9.), Klub Podporka (29. 9.), XV. festival zboroveho spevu (3. 10.), Hodova slavnost v Cacove (4. 10.). Jedina zmena je oprava adresy Cacovskej vystavy z 'Bartonova 86' na spravne 'Bartosova 86' podla aktualnych dat z TIC API. Vynechane su rovnake typy poloziek ako minule - filmove premietania v Kine Mladost (kategoria Kino), opakujuce sa prevadzkove/klubove/kurzove polozky (Relax cvicenie, Kurz keramiky, Anglictina pre seniorov, Korculovanie pre verejnost, Citanicko pre najmensich, Tvoriva sobota, Hrave pohybove rozpravky, Liecive, Stopom az na koniec sveta, Akvarelova jesen, Nedelny atelier), zrusena polozka Zvukove dobrodruzstvo (24. 9.) a podujatie mimo Senice (Velkopavlovicke vinobrani, Jablkove hodovanie v Modre). Mimo limitu 9 poloziek ostava Rebornovane babiky v Muzeu Senica (3.-11. 10.), rovnako ako v minulom behu. Skontrolovana aj senica.sk/kategoria/pozvanky - vsetky tamojsie nadchadzajuce pozvanky su uz pokryte cez TIC, ziadna nova cisto mestska pozvanka mimo TIC nebola najdena (Kolonkari - nielen Kolonkarom z 12. 9. uz prebehlo). Z MESTA: bez zmeny oproti behu z 23. 9. - najnovsi clanok v Spravodajstve je stale 'Hasici odvolali zvysene riziko poziarov' (23. 9.), novy clanok nepribudol. Kategoria Zo zapisnika MsP je stale bez noveho clanku (posledny 2. 9.). SERVIS: septembrova odstavka elektriny - terminy 2., 4., 7., 8., 10., 15., 18., 21. a 23. 9. uz prebehli, ostava uz len 29. 9. (Sportova), preto su where/when/starts skratene len na tento posledny nadchadzajuci termin; oktobrova odstavka (1. 10. a 6. 10., Sportova) bez zmeny. Dopravne obmedzenia (Palarikova/Robotnicka - nahradne parkovanie na Kasarenskej, mosty pri Lidli, plosna oprava komunikacii) prevzate bez zmeny z predosleho behu, vsetky stale beza do konca oktobra (zdroj tento beh cielene neaktualizovany, patri mimo kategorie odstavky-elektriny-a-vody). TRANSPARENTNOST: bez zmeny - pozvanka na 27. zasadnutie MsZ (dnes, 24. 9. o 15:00) je stale len clanok-pozvanka, v esam prehlade zasadnuti MsZ este nie je uvedene ako samostatny zaznam so zapisnicou; zapisnica z 26. zasadnutia (10. 9.) je stale bez PDF hlasovani. VZN: ziadne nove, ziadne v stave 'navrh', najnovsie stale 93/2026 a 92/2026 (obe ucinne).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -86,7 +86,7 @@
         "day": "26",
         "month": "September",
         "time": "14:00",
-        "venue": "Čáčov, Bartoňova 86, Senica-Čáčov",
+        "venue": "Čáčov, Bartošova 86, Senica-Čáčov",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/cacov-vystava-kralikov-hydiny-a-holubov/"
       },
@@ -172,13 +172,13 @@
       {
         "type": "elektrina",
         "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
-        "where": "23. 9.: Čáčovská · 29. 9.: Športová",
-        "when": "23.09.2026 od 07:30 do 15:30 (Čáčovská); 29.09.2026 od 07:30 do 15:30 (Športová)",
-        "starts": "2026-09-23",
+        "where": "29. 9.: Športová",
+        "when": "29.09.2026 od 07:30 do 15:30 (Športová)",
+        "starts": "2026-09-29",
         "ends": "2026-09-29",
         "status": "plánovaná",
         "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení. Septembrové termíny 2., 4., 7., 8., 10., 15., 18. a 21. 9. už prebehli.",
+        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení. Septembrové termíny 2., 4., 7., 8., 10., 15., 18., 21. a 23. 9. už prebehli.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-september-2026"
       },

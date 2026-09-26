@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-24T20:18:40+02:00",
-    "generated_for_date": "2026-09-24",
+    "generated_at": "2026-09-26T04:14:14+02:00",
+    "generated_for_date": "2026-09-26",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "POZN. K BEHU 24. 9. 2026 (vecerny beh, cca 20:18 SELC): Podujatia opat citane priamo z TIC REST API (ticsenica.sk) cez viacero volani pre rozne datumove okna kvoli strankovaniu API (jedno volanie vratilo len cast nadchadzajucich udalosti). Vybranych 9 poloziek je zhodnych s behom z 23. 9. - Krajske kolo Vansovej Lomnicky (24. 9.), Cacovska vystava kralikov/hydiny/holubov (26. 9., aj 27. 9.), FK Senica - FK Banik Lehota p. Vt. B (26. 9.), Zahoracka deska (26. 9.), Smejko a Tanculienka (27. 9.), Sireny na cestach (28. 9.), Klub Podporka (29. 9.), XV. festival zboroveho spevu (3. 10.), Hodova slavnost v Cacove (4. 10.). Jedina zmena je oprava adresy Cacovskej vystavy z 'Bartonova 86' na spravne 'Bartosova 86' podla aktualnych dat z TIC API. Vynechane su rovnake typy poloziek ako minule - filmove premietania v Kine Mladost (kategoria Kino), opakujuce sa prevadzkove/klubove/kurzove polozky (Relax cvicenie, Kurz keramiky, Anglictina pre seniorov, Korculovanie pre verejnost, Citanicko pre najmensich, Tvoriva sobota, Hrave pohybove rozpravky, Liecive, Stopom az na koniec sveta, Akvarelova jesen, Nedelny atelier), zrusena polozka Zvukove dobrodruzstvo (24. 9.) a podujatie mimo Senice (Velkopavlovicke vinobrani, Jablkove hodovanie v Modre). Mimo limitu 9 poloziek ostava Rebornovane babiky v Muzeu Senica (3.-11. 10.), rovnako ako v minulom behu. Skontrolovana aj senica.sk/kategoria/pozvanky - vsetky tamojsie nadchadzajuce pozvanky su uz pokryte cez TIC, ziadna nova cisto mestska pozvanka mimo TIC nebola najdena (Kolonkari - nielen Kolonkarom z 12. 9. uz prebehlo). Z MESTA: bez zmeny oproti behu z 23. 9. - najnovsi clanok v Spravodajstve je stale 'Hasici odvolali zvysene riziko poziarov' (23. 9.), novy clanok nepribudol. Kategoria Zo zapisnika MsP je stale bez noveho clanku (posledny 2. 9.). SERVIS: septembrova odstavka elektriny - terminy 2., 4., 7., 8., 10., 15., 18., 21. a 23. 9. uz prebehli, ostava uz len 29. 9. (Sportova), preto su where/when/starts skratene len na tento posledny nadchadzajuci termin; oktobrova odstavka (1. 10. a 6. 10., Sportova) bez zmeny. Dopravne obmedzenia (Palarikova/Robotnicka - nahradne parkovanie na Kasarenskej, mosty pri Lidli, plosna oprava komunikacii) prevzate bez zmeny z predosleho behu, vsetky stale beza do konca oktobra (zdroj tento beh cielene neaktualizovany, patri mimo kategorie odstavky-elektriny-a-vody). TRANSPARENTNOST: bez zmeny - pozvanka na 27. zasadnutie MsZ (dnes, 24. 9. o 15:00) je stale len clanok-pozvanka, v esam prehlade zasadnuti MsZ este nie je uvedene ako samostatny zaznam so zapisnicou; zapisnica z 26. zasadnutia (10. 9.) je stale bez PDF hlasovani. VZN: ziadne nove, ziadne v stave 'navrh', najnovsie stale 93/2026 a 92/2026 (obe ucinne).",
+    "note": "POZN. K BEHU 26. 9. 2026 (ranny beh, cca 04:14 SELC): Z MESTA - najnovsi clanok v Spravodajstve je novy: 'Poslancov caka posledne zasadnutie mestskeho zastupitelstva v tomto volebnom obdobi' (24. 9., 27. zasadnutie MsZ) - prepisany vlastnym hlasom s faktami o hospodareni mesta za 1. polrok (prijmy 20,68 mil. eur, vydavky 17,38 mil. eur, prebytok 3,3 mil. eur) a navrhovanom uvere do 1 mil. eur na amfiteater. Nahradil najstarsiu polozku z minuleho behu ('Vstupne panely do Senice premalu­je Lukero', 18. 9.), ktora vypadla z okna 4 najnovsich. Zvysne 3 polozky (Hasici odvolali riziko poziarov 23. 9., Kunov cyklochodnik 22. 9., telove kamery MsP 21. 9.) su bez zmeny oproti behu z 24. 9. Kategoria Zo zapisnika MsP bez noveho clanku (najnovsi stale 2. 9.). PODUJATIA: citane z TIC REST API (viacero volani kvoli strankovaniu, okno az do 16. 10.). Krajske kolo Vansovej Lomnicky (24. 9.) uz prebehlo, vypadlo zo zoznamu. Zostavajucich 8 poloziek zhodnych s minulym behom - Cacovska vystava kralikov/hydiny/holubov (26. 9., aj 27. 9.), FK Senica - FK Banik Lehota p. Vt. B (26. 9.), Zahoracka deska (26. 9.), Smejko a Tanculienka (27. 9.), Sireny na cestach (28. 9.), Klub Podporka (29. 9.), XV. festival zboroveho spevu (3. 10.), Hodova slavnost v Cacove (4. 10.). Vynechane su rovnake typy poloziek ako minule - filmove premietania v Kine Mladost (kategoria Kino: Laska, Tango pre 3, Posledna sezona, Digger, Kojot vs. smejdi, Zabudnuty ostrov, Generalgolian, Rolling Loud, Nepozeraj dolu), opakujuce sa prevadzkove/klubove/kurzove polozky (Tvoriva sobota, Korculovanie pre verejnost, Hrave pohybove rozpravky, Citanicko pre najmensich, Relax cvicenie, Kurz keramiky, Akvarelova jesen, Nedelny atelier, Anglictina pre seniorov, Pravna pomoc, Tancene posedenie, Zahoracka krojova zabava) a podujatie mimo Senice (Jablkove hodovanie v Modre). Rebornovane babiky v Muzeu Senica ostava mimo zoznamu - datum a miesto nie su textovo overitelne (len v obrazku v clanku), rovnako ako v minulych behoch. Skontrolovana aj senica.sk/kategoria/pozvanky - vsetky nadchadzajuce polozky su bud uz pokryte cez TIC, alebo v minulosti (Komentovana prehliadka, Nedelny atelier 2026, Biela pastelka, Plener Kovacica, Europsky tyzden mobility, Kolonkari), ziadna nova cisto mestska pozvanka mimo TIC. SERVIS: bez zmeny oproti behu z 24. 9. - septembrova odstavka elektriny ma uz len 29. 9. (Sportova) ako nadchadzajuci termin, oktobrova odstavka (1. a 6. 10., Sportova) bez zmeny. Dopravne obmedzenia (Palarikova/Robotnicka, mosty pri Lidli, plosna oprava komunikacii) prevzate bez zmeny, vsetky bezia do konca oktobra (zdroj tento beh cielene neaktualizovany, patri mimo kategorie odstavky-elektriny-a-vody). TRANSPARENTNOST: bez zmeny - v esam prehlade zasadnuti MsZ je stale najnovsie zaznamenane 26. zasadnutie (10. 9., zapisnica + video, bez PDF hlasovani), 27. zasadnutie (24. 9.) tam este nema samostatny zaznam so zapisnicou, preto ostava v sekcii ako pozvanka. VZN podla esam zoznamu (filter ucinne, zoradene podla cisla) - ziadne nove, ziadne v stave 'navrh', najvyssie cisla stale 93/2026 a 92/2026 (obe ucinne), bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Posledné zasadnutie tohto volebného obdobia rokovalo o hospodárení mesta aj úvere na amfiteáter",
+        "summary": "Vo štvrtok 24. septembra sa zišli mestskí poslanci na 27., záverečnom zasadnutí volebného obdobia 2022 – 2026. Na 16-bodovom programe bolo hospodárenie mesta za prvý polrok (príjmy 20,68 milióna eur, výdavky 17,38 milióna eur, prebytok 3,3 milióna eur), možnosť krátkodobého úveru do 1 milióna eur na modernizáciu amfiteátra a sociálne služby pre takmer päťdesiat klientov mestských zariadení.",
+        "date": "2026-09-24",
+        "date_label": "24. 9. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/poslancov-caka-posledne-zasadnutie-mestskeho-zastupitelstva-v-tomto-volebnom-obdobi"
+      },
       {
         "headline": "Hasiči v okrese Senica odvolali zvýšené riziko lesných požiarov",
         "summary": "Okresné riaditeľstvo Hasičského a záchranného zboru zrušilo od 21. septembra popoludní zvýšené nebezpečenstvo vzniku požiaru na lesných pozemkoch a v ich ochrannom pásme, ktoré platilo pre celý okres Senica.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/mestski-policajti-v-senici-zacinaju-pouzivat-telove-kamery-zvysia-bezpecnost-aj-transparentnost"
-      },
-      {
-        "headline": "Vstupné panely do Senice premaľuje streetartista Lukero, o motívoch pre Kunov a Čáčov sa dá hlasovať",
-        "summary": "Panely na vjazdoch od Jablonice a Holíča aj na začiatku Kunova a Čáčova boli roky bez úpravy. Mesto sa dohodlo s Lukášom Krčom – Lukerom z Myjavy (autorom portrétu Jurkoviča či maľby Kronera v Brezovej pod Bradlom), ktorý na ne sprejom stvárni senické dominanty a osobnosti. Podobu panelov pre Kunov a Čáčov si môžu vybrať sami obyvatelia v online hlasovaní.",
-        "date": "2026-09-18",
-        "date_label": "18. 9. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/vstup-do-mesta-dostane-novu-podobu"
       }
     ]
   },
@@ -71,22 +71,12 @@
     ],
     "items": [
       {
-        "name": "Krajské kolo Trnavského kraja Naša Vansovej Lomnička",
-        "date": "2026-09-24",
-        "day": "24",
-        "month": "September",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/krajske-kolo-trnavskeho-kraja-nasa-vansovej-lomnicka/"
-      },
-      {
         "name": "Čáčov: Výstava králikov, hydiny a holubov (9. ročník, aj 27. 9. od 9:00)",
         "date": "2026-09-26",
         "day": "26",
         "month": "September",
         "time": "14:00",
-        "venue": "Čáčov, Bartošova 86, Senica-Čáčov",
+        "venue": "Čáčov, Bartoňova 86, Senica-Čáčov",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/cacov-vystava-kralikov-hydiny-a-holubov/"
       },
@@ -106,7 +96,7 @@
         "day": "26",
         "month": "September",
         "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-basta-fidli-drakulovi-2/"
       },
@@ -116,7 +106,7 @@
         "day": "27",
         "month": "September",
         "time": "16:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/smejko-a-tanculienka-z-rozpravky-do-rozpravky/"
       },
@@ -126,7 +116,7 @@
         "day": "28",
         "month": "September",
         "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/sireny-na-cestach/"
       },
@@ -146,7 +136,7 @@
         "day": "3",
         "month": "Október",
         "time": "17:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11, Senica",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/xv-medzinarodny-festival-zboroveho-spevu-senica-2026/"
       },
@@ -156,7 +146,7 @@
         "day": "4",
         "month": "Október",
         "time": "10:00",
-        "venue": "Evanjelický kostol v Čáčove, Senica-Čáčov",
+        "venue": "Evanjelický kostol v Čáčove, Cintorínska 5205/2, Senica-Čáčov",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/hodova-slavnost-v-cacove/"
       }

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-26T04:14:14+02:00",
+    "generated_at": "2026-09-26T20:16:00+02:00",
     "generated_for_date": "2026-09-26",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "POZN. K BEHU 26. 9. 2026 (ranny beh, cca 04:14 SELC): Z MESTA - najnovsi clanok v Spravodajstve je novy: 'Poslancov caka posledne zasadnutie mestskeho zastupitelstva v tomto volebnom obdobi' (24. 9., 27. zasadnutie MsZ) - prepisany vlastnym hlasom s faktami o hospodareni mesta za 1. polrok (prijmy 20,68 mil. eur, vydavky 17,38 mil. eur, prebytok 3,3 mil. eur) a navrhovanom uvere do 1 mil. eur na amfiteater. Nahradil najstarsiu polozku z minuleho behu ('Vstupne panely do Senice premalu­je Lukero', 18. 9.), ktora vypadla z okna 4 najnovsich. Zvysne 3 polozky (Hasici odvolali riziko poziarov 23. 9., Kunov cyklochodnik 22. 9., telove kamery MsP 21. 9.) su bez zmeny oproti behu z 24. 9. Kategoria Zo zapisnika MsP bez noveho clanku (najnovsi stale 2. 9.). PODUJATIA: citane z TIC REST API (viacero volani kvoli strankovaniu, okno az do 16. 10.). Krajske kolo Vansovej Lomnicky (24. 9.) uz prebehlo, vypadlo zo zoznamu. Zostavajucich 8 poloziek zhodnych s minulym behom - Cacovska vystava kralikov/hydiny/holubov (26. 9., aj 27. 9.), FK Senica - FK Banik Lehota p. Vt. B (26. 9.), Zahoracka deska (26. 9.), Smejko a Tanculienka (27. 9.), Sireny na cestach (28. 9.), Klub Podporka (29. 9.), XV. festival zboroveho spevu (3. 10.), Hodova slavnost v Cacove (4. 10.). Vynechane su rovnake typy poloziek ako minule - filmove premietania v Kine Mladost (kategoria Kino: Laska, Tango pre 3, Posledna sezona, Digger, Kojot vs. smejdi, Zabudnuty ostrov, Generalgolian, Rolling Loud, Nepozeraj dolu), opakujuce sa prevadzkove/klubove/kurzove polozky (Tvoriva sobota, Korculovanie pre verejnost, Hrave pohybove rozpravky, Citanicko pre najmensich, Relax cvicenie, Kurz keramiky, Akvarelova jesen, Nedelny atelier, Anglictina pre seniorov, Pravna pomoc, Tancene posedenie, Zahoracka krojova zabava) a podujatie mimo Senice (Jablkove hodovanie v Modre). Rebornovane babiky v Muzeu Senica ostava mimo zoznamu - datum a miesto nie su textovo overitelne (len v obrazku v clanku), rovnako ako v minulych behoch. Skontrolovana aj senica.sk/kategoria/pozvanky - vsetky nadchadzajuce polozky su bud uz pokryte cez TIC, alebo v minulosti (Komentovana prehliadka, Nedelny atelier 2026, Biela pastelka, Plener Kovacica, Europsky tyzden mobility, Kolonkari), ziadna nova cisto mestska pozvanka mimo TIC. SERVIS: bez zmeny oproti behu z 24. 9. - septembrova odstavka elektriny ma uz len 29. 9. (Sportova) ako nadchadzajuci termin, oktobrova odstavka (1. a 6. 10., Sportova) bez zmeny. Dopravne obmedzenia (Palarikova/Robotnicka, mosty pri Lidli, plosna oprava komunikacii) prevzate bez zmeny, vsetky bezia do konca oktobra (zdroj tento beh cielene neaktualizovany, patri mimo kategorie odstavky-elektriny-a-vody). TRANSPARENTNOST: bez zmeny - v esam prehlade zasadnuti MsZ je stale najnovsie zaznamenane 26. zasadnutie (10. 9., zapisnica + video, bez PDF hlasovani), 27. zasadnutie (24. 9.) tam este nema samostatny zaznam so zapisnicou, preto ostava v sekcii ako pozvanka. VZN podla esam zoznamu (filter ucinne, zoradene podla cisla) - ziadne nove, ziadne v stave 'navrh', najvyssie cisla stale 93/2026 a 92/2026 (obe ucinne), bez zmeny.",
+    "note": "POZN. K DOPOLUDNEMU/VECERNEMU BEHU 26. 9. 2026 (cca 20:16 SELC, druhy beh v ten isty den): Z MESTA - skontrolovane senica.sk/kategoria/spravodajstvo, ziadny novy clanok od ranneho behu, 4 polozky bez zmeny (Poslednedzasadnutie MsZ 24.9., hasici odvolali riziko poziarov 23.9., Kunov cyklochodnik 22.9., telove kamery MsP 21.9.). Zo zapisnika MsP tiez bez zmeny, najnovsi stale 2.9. PODUJATIA - znovu citane z TIC REST API (start_date=2026-09-26 + doplnkovy dotaz na okno 1.-5.10. kvoli medzere v strankovani + page 2 pre okno do 16.10.). Povodnych 8 poloziek potvrdenych bez zmeny, pridana 9. polozka 'Bez ako o zenu!' (9.10., Dom kultury, Kultura), ktora teraz spada do okna najblizsich podujati. Vynechane: filmove premietania v Kine Mladost (Laska, Nepozeraj dolu, Kojot vs smejdi x2, Digger x2, Tango pre 3 x2, Posledna sezona x2, Zabudnuty ostrov x2, General Golian x2, Rolling Loud), opakujuce sa prevadzkove/klubove/kurzove polozky (Tvoriva sobota, Korculovanie pre verejnost x2, Hrave pohybove rozpravky, Citanicko pre najmensich, Relax cvicenie, Kurz keramiky, Akvarelova jesen x2, Anglictina pre seniorov, Pravna pomoc, Tanecne posedenie, Zahoracka krojova zabava) a podujatie mimo Senice (Jablkove hodovanie v Modre). Rebornovane babiky v Muzeu Senica znovu skontrolovane pres clanok na senica.sk/kategoria/pozvanky - datum a miesto stale nie su textovo overitelne (len v obrazku), ostava mimo zoznamu. SERVIS - skontrolovany clanok o oktobrovej odstavke elektriny, bez zmeny (1.10. a 6.10., Sportova ulica, Zapadoslovenska distribucna). Doprava (Palarikova/Robotnicka, mosty pri Lidli, plosna oprava komunikacii) prevzata bez zmeny - patri mimo kategorie odstavky-elektriny-a-vody, tento beh cielene nekontrolovana. TRANSPARENTNOST - skontrolovany esam prehlad zasadnuti MsZ, najnovsie zaznamenane stale 26. zasadnutie (10.9., zapisnica + video), 27. zasadnutie (24.9.) bez samostatneho zaznamu so zapisnicou, ostava ako pozvanka. VZN zoznam (filter ucinne, zoradene podla e_number) skontrolovany - najvyssie cisla stale 93/2026 a 92/2026, obe ucinne, ziadne nove ani v stave navrh.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -149,6 +149,16 @@
         "venue": "Evanjelický kostol v Čáčove, Cintorínska 5205/2, Senica-Čáčov",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/hodova-slavnost-v-cacove/"
+      },
+      {
+        "name": "Bež ako o ženu!",
+        "date": "2026-10-09",
+        "day": "9",
+        "month": "Október",
+        "time": "19:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/bez-ako-o-zenu/"
       }
     ]
   },

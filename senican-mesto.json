@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-26T20:16:00+02:00",
-    "generated_for_date": "2026-09-26",
+    "generated_at": "2026-09-28T20:15:00+02:00",
+    "generated_for_date": "2026-09-28",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "POZN. K DOPOLUDNEMU/VECERNEMU BEHU 26. 9. 2026 (cca 20:16 SELC, druhy beh v ten isty den): Z MESTA - skontrolovane senica.sk/kategoria/spravodajstvo, ziadny novy clanok od ranneho behu, 4 polozky bez zmeny (Poslednedzasadnutie MsZ 24.9., hasici odvolali riziko poziarov 23.9., Kunov cyklochodnik 22.9., telove kamery MsP 21.9.). Zo zapisnika MsP tiez bez zmeny, najnovsi stale 2.9. PODUJATIA - znovu citane z TIC REST API (start_date=2026-09-26 + doplnkovy dotaz na okno 1.-5.10. kvoli medzere v strankovani + page 2 pre okno do 16.10.). Povodnych 8 poloziek potvrdenych bez zmeny, pridana 9. polozka 'Bez ako o zenu!' (9.10., Dom kultury, Kultura), ktora teraz spada do okna najblizsich podujati. Vynechane: filmove premietania v Kine Mladost (Laska, Nepozeraj dolu, Kojot vs smejdi x2, Digger x2, Tango pre 3 x2, Posledna sezona x2, Zabudnuty ostrov x2, General Golian x2, Rolling Loud), opakujuce sa prevadzkove/klubove/kurzove polozky (Tvoriva sobota, Korculovanie pre verejnost x2, Hrave pohybove rozpravky, Citanicko pre najmensich, Relax cvicenie, Kurz keramiky, Akvarelova jesen x2, Anglictina pre seniorov, Pravna pomoc, Tanecne posedenie, Zahoracka krojova zabava) a podujatie mimo Senice (Jablkove hodovanie v Modre). Rebornovane babiky v Muzeu Senica znovu skontrolovane pres clanok na senica.sk/kategoria/pozvanky - datum a miesto stale nie su textovo overitelne (len v obrazku), ostava mimo zoznamu. SERVIS - skontrolovany clanok o oktobrovej odstavke elektriny, bez zmeny (1.10. a 6.10., Sportova ulica, Zapadoslovenska distribucna). Doprava (Palarikova/Robotnicka, mosty pri Lidli, plosna oprava komunikacii) prevzata bez zmeny - patri mimo kategorie odstavky-elektriny-a-vody, tento beh cielene nekontrolovana. TRANSPARENTNOST - skontrolovany esam prehlad zasadnuti MsZ, najnovsie zaznamenane stale 26. zasadnutie (10.9., zapisnica + video), 27. zasadnutie (24.9.) bez samostatneho zaznamu so zapisnicou, ostava ako pozvanka. VZN zoznam (filter ucinne, zoradene podla e_number) skontrolovany - najvyssie cisla stale 93/2026 a 92/2026, obe ucinne, ziadne nove ani v stave navrh.",
+    "note": "BEH 28. 9. 2026 (vecer). Z MESTA - 2 nove clanky (Lukero/FRAGMENTY, Cena TSK), 2 najstarsie vypadli. Zo zapisnika MsP bez zmeny (najnovsi 2.9.). PODUJATIA - 9 poloziek z TIC REST API (8) + senica.sk (1: Lukero FRAGMENTY, DAV 8.10. 16:00, mimo TIC). Oprava: 'Stopom az na koniec sveta' je 30.9. 16:30 (predtym chybne 29.9.). Filmove premietania Kina Mladost a opakovane kurzy/kluby vynechane, Jablkove hodovanie v Modre mimo Senice. SERVIS - bez zmeny, vsetky polozky maju ends >= 2026-09-29. TRANSPARENTNOST - senica.sk/esam VZN vratilo 429, VZN ponechane z predchadzajuceho behu; zoznam zasadnuti MsZ overeny, najnovsi zaznam so zapisnicou stale 26. zasadnutie (10.9.).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,24 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Street artista Lukēro otvorí v DAV-e výstavu Fragmenty",
+        "summary": "Výtvarník Lukáš Krč, známy ako Lukēro, predstaví v senickom DAV-e štúdiové práce, ktoré ukazujú jeho experimentálne techniky mimo ulice. Vernisáž je 8. októbra o 16:00, vstup je voľný a výstava potrvá do 22. októbra.",
+        "date": "2026-09-28",
+        "date_label": "28. 9. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/lukero-v-dav-e-uz-8-oktobra-otvori-vystavu-fragmenty"
+      },
+      {
+        "headline": "Ceny Trnavského kraja putovali aj do Senice a okolia",
+        "summary": "Ocenenia samosprávneho kraja si odniesli Marek Štítny za dobrovoľnícku Senicu 2.0, hokejový klub HC Dukla Senica, Danka Otépková za zachovávanie kultúry v Hlbokom, riaditeľka Monika Knezovičová za sociálne služby a noviny Záhorák.",
+        "date": "2026-09-28",
+        "date_label": "28. 9. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/cenu-trnavskeho-samospravneho-kraja-si-odniesli-aj-osobnosti-a-kolektivy-zo-senickeho-okresu"
+      },
       {
         "headline": "Posledné zasadnutie tohto volebného obdobia rokovalo o hospodárení mesta aj úvere na amfiteáter",
         "summary": "Vo štvrtok 24. septembra sa zišli mestskí poslanci na 27., záverečnom zasadnutí volebného obdobia 2022 – 2026. Na 16-bodovom programe bolo hospodárenie mesta za prvý polrok (príjmy 20,68 milióna eur, výdavky 17,38 milióna eur, prebytok 3,3 milióna eur), možnosť krátkodobého úveru do 1 milióna eur na modernizáciu amfiteátra a sociálne služby pre takmer päťdesiat klientov mestských zariadení.",
@@ -37,24 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/hasici-odvolali-zvysene-riziko-poziarov"
-      },
-      {
-        "headline": "V Kunove sa začala prestavba križovatky a nový cyklochodník",
-        "summary": "V Kunove sa rozbehla rekonštrukcia križovatky spolu s výstavbou nového 166-metrového obojsmerného cyklochodníka, ktorý nahradí doterajší cyklopruh na ceste. Pribudne aj T-križovatka a osvetlený priechod pre chodcov, práce by mali skončiť v novembri.",
-        "date": "2026-09-22",
-        "date_label": "22. 9. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/v-kunove-sa-zacala-uprava-cyklochodnika"
-      },
-      {
-        "headline": "Senickí mestskí policajti majú telové kamery. Na zákrok vás majú vopred upozorniť",
-        "summary": "Mestská polícia zavádza do služby externé telové kamery — záznam má objektívne zachytiť priebeh zákroku a poslúžiť pri sporných situáciách aj priestupkoch. Mesto argumentuje aj útokom z 25. apríla na Námestí oslobodenia, keď muž udrel policajta päsťou do tváre. Podľa náčelníka Borisa Horvátha má kamera aj preventívny účinok; pri zaznamenávanom zákroku musí policajt dotknutú osobu vždy upozorniť.",
-        "date": "2026-09-21",
-        "date_label": "21. 9. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/mestski-policajti-v-senici-zacinaju-pouzivat-telove-kamery-zvysia-bezpecnost-aj-transparentnost"
       }
     ]
   },
@@ -70,46 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Čáčov: Výstava králikov, hydiny a holubov (9. ročník, aj 27. 9. od 9:00)",
-        "date": "2026-09-26",
-        "day": "26",
-        "month": "September",
-        "time": "14:00",
-        "venue": "Čáčov, Bartoňova 86, Senica-Čáčov",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/cacov-vystava-kralikov-hydiny-a-holubov/"
-      },
-      {
-        "name": "FK Senica – FK Baník Lehota p. Vt. \"B\"",
-        "date": "2026-09-26",
-        "day": "26",
-        "month": "September",
-        "time": "17:00",
-        "venue": "Futbalový štadión Senica, Sadová ulica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/fk-senica-fk-banik-lehota-p-vt-b/"
-      },
-      {
-        "name": "Záhorácka deska — Basta fidli Drakulovi",
-        "date": "2026-09-26",
-        "day": "26",
-        "month": "September",
-        "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-basta-fidli-drakulovi-2/"
-      },
-      {
-        "name": "Smejko a Tanculienka — Z rozprávky do rozprávky",
-        "date": "2026-09-27",
-        "day": "27",
-        "month": "September",
-        "time": "16:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/smejko-a-tanculienka-z-rozpravky-do-rozpravky/"
-      },
       {
         "name": "Sirény na cestách",
         "date": "2026-09-28",
@@ -129,6 +89,26 @@
         "venue": "Denné centrum Senica, SNP 784",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/klub-podporka-17/"
+      },
+      {
+        "name": "Stopom až na koniec sveta",
+        "date": "2026-09-30",
+        "day": "30",
+        "month": "September",
+        "time": "16:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/stopom-az-na-koniec-sveta/"
+      },
+      {
+        "name": "Rebornované bábiky v Múzeu Senica",
+        "date": "2026-10-03",
+        "day": "3",
+        "month": "Október",
+        "time": "10:00",
+        "venue": "Múzeum Senica, Štefánikova 724/20, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/rebornovane-babiky-v-muzeu-senica/"
       },
       {
         "name": "XV. Medzinárodný festival zborového spevu Senica 2026",
@@ -151,6 +131,16 @@
         "source_url": "https://ticsenica.sk/podujatie/hodova-slavnost-v-cacove/"
       },
       {
+        "name": "Lukēro: výstava FRAGMENTY (vernisáž)",
+        "date": "2026-10-08",
+        "day": "8",
+        "month": "Október",
+        "time": "16:00",
+        "venue": "DAV, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/lukero-v-dav-e-uz-8-oktobra-otvori-vystavu-fragmenty"
+      },
+      {
         "name": "Bež ako o ženu!",
         "date": "2026-10-09",
         "day": "9",
@@ -159,6 +149,16 @@
         "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/bez-ako-o-zenu/"
+      },
+      {
+        "name": "Záhoracka krojová zábava",
+        "date": "2026-10-10",
+        "day": "10",
+        "month": "Október",
+        "time": "19:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/zahoracka-krojova-zabava/"
       }
     ]
   },

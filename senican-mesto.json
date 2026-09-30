@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-28T20:15:00+02:00",
-    "generated_for_date": "2026-09-28",
+    "generated_at": "2026-09-29T08:00:00+02:00",
+    "generated_for_date": "2026-09-29",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 28. 9. 2026 (vecer). Z MESTA - 2 nove clanky (Lukero/FRAGMENTY, Cena TSK), 2 najstarsie vypadli. Zo zapisnika MsP bez zmeny (najnovsi 2.9.). PODUJATIA - 9 poloziek z TIC REST API (8) + senica.sk (1: Lukero FRAGMENTY, DAV 8.10. 16:00, mimo TIC). Oprava: 'Stopom az na koniec sveta' je 30.9. 16:30 (predtym chybne 29.9.). Filmove premietania Kina Mladost a opakovane kurzy/kluby vynechane, Jablkove hodovanie v Modre mimo Senice. SERVIS - bez zmeny, vsetky polozky maju ends >= 2026-09-29. TRANSPARENTNOST - senica.sk/esam VZN vratilo 429, VZN ponechane z predchadzajuceho behu; zoznam zasadnuti MsZ overeny, najnovsi zaznam so zapisnicou stale 26. zasadnutie (10.9.).",
+    "note": "BEH 29. 9. 2026. Z MESTA - novy clanok o inváznych rastlinách (DAPHNE), najstarsi (Hasici) vypadol. PODUJATIA - 9 poloziek: 4 potvrdene z TIC REST API dnes (Podporka, Stopom, Reborn. babiky, Festival zboroveho spevu), 3 TIC z predchadzajuceho behu (Hodova slavnost, Bez ako o zenu, Krojova zabava), 2 zo senica.sk (Lukero FRAGMENTY, Pletko stretko). Filmove premietania Kina Mladost, opakovane kurzy/kluby a udalost mimo Senice vynechane. SERVIS - bez zmeny, vsetky polozky ends >= 2026-09-29. TRANSPARENTNOST - pribudol zaznam z 27. zasadnutia MsZ (28. 9., hlasovania + video); VZN stranka vratila 429, VZN ponechane z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Mesto s organizáciou DAPHNE začína obmedzovať invázne rastliny",
+        "summary": "Terénny prieskum ukázal invázne rastliny na zhruba 70 % mestských pozemkov. Mesto s Inštitútom DAPHNE preto začína s ich obmedzovaním v rámci programu Interreg Slovensko – Česko, napríklad pri javore jaseňolistom a pajaseni žliazkatom pomocou cielenej injektáže herbicídu namiesto samotného výrubu.",
+        "date": "2026-09-29",
+        "date_label": "29. 9. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/invazne-rastliny-mesto-s-institutom-daphne-zacina-pracovat-na-obmedzeni-ich-sirenia"
+      },
       {
         "headline": "Street artista Lukēro otvorí v DAV-e výstavu Fragmenty",
         "summary": "Výtvarník Lukáš Krč, známy ako Lukēro, predstaví v senickom DAV-e štúdiové práce, ktoré ukazujú jeho experimentálne techniky mimo ulice. Vernisáž je 8. októbra o 16:00, vstup je voľný a výstava potrvá do 22. októbra.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/poslancov-caka-posledne-zasadnutie-mestskeho-zastupitelstva-v-tomto-volebnom-obdobi"
-      },
-      {
-        "headline": "Hasiči v okrese Senica odvolali zvýšené riziko lesných požiarov",
-        "summary": "Okresné riaditeľstvo Hasičského a záchranného zboru zrušilo od 21. septembra popoludní zvýšené nebezpečenstvo vzniku požiaru na lesných pozemkoch a v ich ochrannom pásme, ktoré platilo pre celý okres Senica.",
-        "date": "2026-09-23",
-        "date_label": "23. 9. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/hasici-odvolali-zvysene-riziko-poziarov"
       }
     ]
   },
@@ -70,16 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Sirény na cestách",
-        "date": "2026-09-28",
-        "day": "28",
-        "month": "September",
-        "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/sireny-na-cestach/"
-      },
       {
         "name": "Klub Podporka — podporná skupina duševného zdravia",
         "date": "2026-09-29",
@@ -129,6 +119,16 @@
         "venue": "Evanjelický kostol v Čáčove, Cintorínska 5205/2, Senica-Čáčov",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/hodova-slavnost-v-cacove/"
+      },
+      {
+        "name": "Pletko stretko",
+        "date": "2026-10-07",
+        "day": "7",
+        "month": "Október",
+        "time": "15:00",
+        "venue": "Záhorská knižnica – klubovňa, Vajanského 28, Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10641-pletko-stretko"
       },
       {
         "name": "Lukēro: výstava FRAGMENTY (vernisáž)",
@@ -244,12 +244,16 @@
     "badge": "Úradné",
     "items": [
       {
-        "title": "Pozvánka na 27. zasadnutie MsZ — štvrtok 24. 9. 2026 o 15:00, veľká zasadačka Mestského úradu v Senici",
-        "type": "Pozvánka",
-        "date": "2026-09-24",
-        "date_label": "24. 9. 2026",
+        "title": "27. zasadnutie MsZ — hlasovania a videozáznam",
+        "type": "Záznam MsZ",
+        "date": "2026-09-28",
+        "date_label": "28. 9. 2026",
         "status": null,
-        "source_url": "https://senica.sk/clanok/pozvanka-na-27-zasadnutie-msz"
+        "source_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
+        "extra_links": {
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10638-1.pdf",
+          "video": "https://www.youtube.com/embed/H8jof-eSswI"
+        }
       },
       {
         "title": "26. zasadnutie MsZ — zápisnica a videozáznam",

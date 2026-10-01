@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-09-29T08:00:00+02:00",
-    "generated_for_date": "2026-09-29",
+    "generated_at": "2026-10-01T08:00:00+02:00",
+    "generated_for_date": "2026-10-01",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 29. 9. 2026. Z MESTA - novy clanok o inváznych rastlinách (DAPHNE), najstarsi (Hasici) vypadol. PODUJATIA - 9 poloziek: 4 potvrdene z TIC REST API dnes (Podporka, Stopom, Reborn. babiky, Festival zboroveho spevu), 3 TIC z predchadzajuceho behu (Hodova slavnost, Bez ako o zenu, Krojova zabava), 2 zo senica.sk (Lukero FRAGMENTY, Pletko stretko). Filmove premietania Kina Mladost, opakovane kurzy/kluby a udalost mimo Senice vynechane. SERVIS - bez zmeny, vsetky polozky ends >= 2026-09-29. TRANSPARENTNOST - pribudol zaznam z 27. zasadnutia MsZ (28. 9., hlasovania + video); VZN stranka vratila 429, VZN ponechane z predchadzajuceho behu.",
+    "note": "BEH 1. 10. 2026. Z MESTA - bez zmeny (4 najnovsie clanky rovnake). PODUJATIA - 9 poloziek: TIC REST API dnes (Rebornovane babiky, Festival zboroveho spevu, Hodova slavnost, Farebne rapsodie, Pletko stretko), TIC z predchadzajuceho behu (Bez ako o zenu, Krojova zabava), senica.sk (Lukero FRAGMENTY, Vystava ovocia a zeleniny - cas/miesto neuvedene). Kino Mladost, opakovane kurzy/kluby, detske dielne a udalost mimo Senice (Modra) vynechane; Stopom a Podporka expirovali. SERVIS - vypadla odstavka Sportova 29. 9. (expirovana). TRANSPARENTNOST - zapisnica 27. MsZ doplnena; VZN stranka vratila 429, VZN ponechane z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,26 +71,6 @@
     ],
     "items": [
       {
-        "name": "Klub Podporka — podporná skupina duševného zdravia",
-        "date": "2026-09-29",
-        "day": "29",
-        "month": "September",
-        "time": "16:00",
-        "venue": "Denné centrum Senica, SNP 784",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-17/"
-      },
-      {
-        "name": "Stopom až na koniec sveta",
-        "date": "2026-09-30",
-        "day": "30",
-        "month": "September",
-        "time": "16:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/stopom-az-na-koniec-sveta/"
-      },
-      {
         "name": "Rebornované bábiky v Múzeu Senica",
         "date": "2026-10-03",
         "day": "3",
@@ -121,6 +101,16 @@
         "source_url": "https://ticsenica.sk/podujatie/hodova-slavnost-v-cacove/"
       },
       {
+        "name": "Výstava Katky Vyskočilovej – Farebné rapsódie",
+        "date": "2026-10-07",
+        "day": "7",
+        "month": "Október",
+        "time": null,
+        "venue": "LM GALÉRIA súčasného umenia, Štefánikova 699/9, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/farebne-rapsodie/"
+      },
+      {
         "name": "Pletko stretko",
         "date": "2026-10-07",
         "day": "7",
@@ -128,7 +118,7 @@
         "time": "15:00",
         "venue": "Záhorská knižnica – klubovňa, Vajanského 28, Senica",
         "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10641-pletko-stretko"
+        "source_url": "https://ticsenica.sk/podujatie/pletko-stretko-10/"
       },
       {
         "name": "Lukēro: výstava FRAGMENTY (vernisáž)",
@@ -159,6 +149,16 @@
         "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/zahoracka-krojova-zabava/"
+      },
+      {
+        "name": "Výstava ovocia a zeleniny",
+        "date": "2026-10-11",
+        "day": "11",
+        "month": "Október",
+        "time": null,
+        "venue": null,
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/vystava-ovocia-a-zeleniny"
       }
     ]
   },
@@ -169,19 +169,6 @@
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
-      {
-        "type": "elektrina",
-        "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
-        "where": "29. 9.: Športová",
-        "when": "29.09.2026 od 07:30 do 15:30 (Športová)",
-        "starts": "2026-09-29",
-        "ends": "2026-09-29",
-        "status": "plánovaná",
-        "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Presný zoznam súpisných čísel je v pôvodnom oznámení. Septembrové termíny 2., 4., 7., 8., 10., 15., 18., 21. a 23. 9. už prebehli.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-september-2026"
-      },
       {
         "type": "elektrina",
         "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
@@ -244,13 +231,14 @@
     "badge": "Úradné",
     "items": [
       {
-        "title": "27. zasadnutie MsZ — hlasovania a videozáznam",
+        "title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-09-28",
         "date_label": "28. 9. 2026",
         "status": null,
         "source_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
         "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10638-1.pdf",
           "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10638-1.pdf",
           "video": "https://www.youtube.com/embed/H8jof-eSswI"
         }

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-01T08:00:00+02:00",
+    "generated_at": "2026-10-01T09:00:00+02:00",
     "generated_for_date": "2026-10-01",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 1. 10. 2026. Z MESTA - bez zmeny (4 najnovsie clanky rovnake). PODUJATIA - 9 poloziek: TIC REST API dnes (Rebornovane babiky, Festival zboroveho spevu, Hodova slavnost, Farebne rapsodie, Pletko stretko), TIC z predchadzajuceho behu (Bez ako o zenu, Krojova zabava), senica.sk (Lukero FRAGMENTY, Vystava ovocia a zeleniny - cas/miesto neuvedene). Kino Mladost, opakovane kurzy/kluby, detske dielne a udalost mimo Senice (Modra) vynechane; Stopom a Podporka expirovali. SERVIS - vypadla odstavka Sportova 29. 9. (expirovana). TRANSPARENTNOST - zapisnica 27. MsZ doplnena; VZN stranka vratila 429, VZN ponechane z predchadzajuceho behu.",
+    "note": "BEH 1. 10. 2026 (druhy). Z MESTA - 4 najnovsie clanky (uzavera Robotnickej/Palarikovej, Den socialnych pracovnikov, prednaska o sikanovani, darcovia krvi). PODUJATIA - 9 poloziek z TIC REST API (Rebornovane babiky, Festival zboroveho spevu, Hodova slavnost, Farebne rapsodie, Pletko stretko, Bez ako o zenu, Krojova zabava, Vystava ovocia a zeleniny - teraz s casom a miestom z TIC) + 1 zo senica.sk (Lukero FRAGMENTY). Kino Mladost, opakovane kurzy/kluby/detske dielne vynechane. SERVIS - 4 aktivne polozky; Robotnicka/Palarikova doplnena o asfaltovanie 5.-9. 10. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Mesto s organizáciou DAPHNE začína obmedzovať invázne rastliny",
-        "summary": "Terénny prieskum ukázal invázne rastliny na zhruba 70 % mestských pozemkov. Mesto s Inštitútom DAPHNE preto začína s ich obmedzovaním v rámci programu Interreg Slovensko – Česko, napríklad pri javore jaseňolistom a pajaseni žliazkatom pomocou cielenej injektáže herbicídu namiesto samotného výrubu.",
-        "date": "2026-09-29",
-        "date_label": "29. 9. 2026",
+        "headline": "Uzávera Robotníckej a Palárikovej ulice sa blíži: od 5. októbra sa začne asfaltovať",
+        "summary": "Mesto oznámilo asfaltovanie na Robotníckej a Palárikovej ulici, ktoré sa začne v pondelok 5. októbra a potrvá približne do piatka 9. októbra. Počas frézovania sa dá prejsť, pri asfaltovaní bude úsek uzavretý.",
+        "date": "2026-10-01",
+        "date_label": "1. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/invazne-rastliny-mesto-s-institutom-daphne-zacina-pracovat-na-obmedzeni-ich-sirenia"
+        "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
       },
       {
-        "headline": "Street artista Lukēro otvorí v DAV-e výstavu Fragmenty",
-        "summary": "Výtvarník Lukáš Krč, známy ako Lukēro, predstaví v senickom DAV-e štúdiové práce, ktoré ukazujú jeho experimentálne techniky mimo ulice. Vernisáž je 8. októbra o 16:00, vstup je voľný a výstava potrvá do 22. októbra.",
-        "date": "2026-09-28",
-        "date_label": "28. 9. 2026",
+        "headline": "Sociálni pracovníci mali svoj deň aj na mestskom úrade",
+        "summary": "Mestský úrad v Senici si pripomenul Deň sociálnych pracovníkov, teda profesijný sviatok ľudí, ktorí v meste pomáhajú druhým.",
+        "date": "2026-10-01",
+        "date_label": "1. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/lukero-v-dav-e-uz-8-oktobra-otvori-vystavu-fragmenty"
+        "source_url": "https://senica.sk/clanok/den-socialnych-pracovnikov-na-mestskom-urade-v-senici"
       },
       {
-        "headline": "Ceny Trnavského kraja putovali aj do Senice a okolia",
-        "summary": "Ocenenia samosprávneho kraja si odniesli Marek Štítny za dobrovoľnícku Senicu 2.0, hokejový klub HC Dukla Senica, Danka Otépková za zachovávanie kultúry v Hlbokom, riaditeľka Monika Knezovičová za sociálne služby a noviny Záhorák.",
-        "date": "2026-09-28",
-        "date_label": "28. 9. 2026",
+        "headline": "Na mestskom úrade sa hovorilo o šikane a kyberšikane",
+        "summary": "Na mestskom úrade v Senici sa konala prednáška venovaná šikanovaniu a kyberšikane.",
+        "date": "2026-09-30",
+        "date_label": "30. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/cenu-trnavskeho-samospravneho-kraja-si-odniesli-aj-osobnosti-a-kolektivy-zo-senickeho-okresu"
+        "source_url": "https://senica.sk/clanok/prednaska-o-sikanovani-a-kybersikane-na-mestskom-urade-v-senici"
       },
       {
-        "headline": "Posledné zasadnutie tohto volebného obdobia rokovalo o hospodárení mesta aj úvere na amfiteáter",
-        "summary": "Vo štvrtok 24. septembra sa zišli mestskí poslanci na 27., záverečnom zasadnutí volebného obdobia 2022 – 2026. Na 16-bodovom programe bolo hospodárenie mesta za prvý polrok (príjmy 20,68 milióna eur, výdavky 17,38 milióna eur, prebytok 3,3 milióna eur), možnosť krátkodobého úveru do 1 milióna eur na modernizáciu amfiteátra a sociálne služby pre takmer päťdesiat klientov mestských zariadení.",
-        "date": "2026-09-24",
-        "date_label": "24. 9. 2026",
+        "headline": "Darcov krvi z regiónu ocenili",
+        "summary": "V regióne ocenili darcov krvi, ľudí, ktorí opakovane pomáhajú zachraňovať životy.",
+        "date": "2026-09-30",
+        "date_label": "30. 9. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/poslancov-caka-posledne-zasadnutie-mestskeho-zastupitelstva-v-tomto-volebnom-obdobi"
+        "source_url": "https://senica.sk/clanok/ocenili-darcov-krvi-z-regionu"
       }
     ]
   },
@@ -126,7 +126,7 @@
         "day": "8",
         "month": "Október",
         "time": "16:00",
-        "venue": "DAV, Senica",
+        "venue": "DAV (budova v mestskom parku), Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/lukero-v-dav-e-uz-8-oktobra-otvori-vystavu-fragmenty"
       },
@@ -155,10 +155,10 @@
         "date": "2026-10-11",
         "day": "11",
         "month": "Október",
-        "time": null,
-        "venue": null,
+        "time": "14:00",
+        "venue": "SD Kunov, Kunov 64, Senica",
         "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/vystava-ovocia-a-zeleniny"
+        "source_url": "https://ticsenica.sk/podujatie/vystava-ovocia-a-zeleniny/"
       }
     ]
   },
@@ -186,14 +186,14 @@
         "type": "doprava",
         "what": "Plošná oprava ciest pokračuje na ďalších úsekoch — Palárikova ulica (v úseku od čísla domu 8 a 10 po križovatku s Dlhou ul.) a Robotnícka ulica za Mestským kultúrnym strediskom. Práce prebiehajú v dvoch etapách: počas frézovania (len pár hodín) sú obmedzenia minimálne a komunikáciou sa dá prejsť, parkovanie vo vyznačených úsekoch je zakázané; počas asfaltovania bude komunikácia úplne uzavretá — zákaz vjazdu, možný nebude ani vjazd a výjazd z priľahlých parkovísk.",
         "where": "Palárikova (od č. d. 8 a 10 po križovatku s Dlhou ul.), Robotnícka (za Mestským kultúrnym strediskom)",
-        "when": "Od štvrtka 10. 9. 2026; presné dátumy úplných uzáver mesto Senica zverejní dodatočne",
+        "when": "Od štvrtka 10. 9. 2026; asfaltovanie od pondelka 5. 10. do piatka 9. 10. 2026 (úplná uzávera)",
         "starts": "2026-09-10",
         "ends": "2026-10-31",
         "status": "prebieha",
         "provider": "Mesto Senica",
-        "note": "Majitelia vozidiel môžu počas celej doby rekonštrukcie využiť dočasné náhradné parkovanie na Kasárenskej ulici. Majitelia trvalých parkovacích miest boli kontaktovaní individuálne a boli im ponúknuté náhradné miesta. Dátum ends je odvodený z celkového termínu plošnej opravy ciest (do konca októbra 2026), presný termín v článku nie je.",
+        "note": "Majitelia vozidiel môžu počas celej doby rekonštrukcie využiť dočasné náhradné parkovanie na Kasárenskej ulici. Majitelia trvalých parkovacích miest boli kontaktovaní individuálne a boli im ponúknuté náhradné miesta. Dátum ends je odvodený z celkového termínu plošnej opravy ciest (do konca októbra 2026), presný termín v článku nie je. Podľa oznámenia z 1. 10. 2026 sa asfaltovať začne 5. októbra.",
         "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/nahradne-parkovanie-na-kasarenskej-ulici"
+        "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
       },
       {
         "type": "doprava",
@@ -212,14 +212,14 @@
         "type": "doprava",
         "what": "Plošná oprava miestnych komunikácií a spevnených plôch — odfrézovanie asfaltu, oprava podkladu, pokládka nového povrchu, úprava šácht, obrubníkov, chodníkov a dopravného značenia",
         "where": "V. Paulínyho-Tótha (úsek pri základnej škole), Hollého, Fajnorova, J. Kráľa, Novomeského, Robotnícka (pri materskej škole), Palárikova, horný koniec v Kunove",
-        "when": "Začiatok prác v týždni od 17. 8. 2026, ukončenie do konca októbra 2026",
+        "when": "Od štvrtka 10. 9. 2026; asfaltovanie od pondelka 5. 10. do piatka 9. 10. 2026 (úplná uzávera)",
         "starts": "2026-08-17",
         "ends": "2026-10-31",
         "status": "prebieha",
         "provider": "Mesto Senica / Strabag",
-        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená. Samostatná uzávera Topoľovej ulice (zákaz vjazdu do 22. 9. 2026) už skončila a bola vyradená zo Servisu.",
+        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená. Samostatná uzávera Topoľovej ulice (zákaz vjazdu do 22. 9. 2026) už skončila a bola vyradená zo Servisu. Podľa oznámenia z 1. 10. 2026 sa asfaltovať začne 5. októbra.",
         "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/senicu-caka-v-najblizsich-tyzdnoch-rozsiahla-oprava-ciest"
+        "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
       }
     ]
   },

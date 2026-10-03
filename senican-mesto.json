@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-01T09:00:00+02:00",
-    "generated_for_date": "2026-10-01",
+    "generated_at": "2026-10-02T22:30:00+02:00",
+    "generated_for_date": "2026-10-02",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 1. 10. 2026 (druhy). Z MESTA - 4 najnovsie clanky (uzavera Robotnickej/Palarikovej, Den socialnych pracovnikov, prednaska o sikanovani, darcovia krvi). PODUJATIA - 9 poloziek z TIC REST API (Rebornovane babiky, Festival zboroveho spevu, Hodova slavnost, Farebne rapsodie, Pletko stretko, Bez ako o zenu, Krojova zabava, Vystava ovocia a zeleniny - teraz s casom a miestom z TIC) + 1 zo senica.sk (Lukero FRAGMENTY). Kino Mladost, opakovane kurzy/kluby/detske dielne vynechane. SERVIS - 4 aktivne polozky; Robotnicka/Palarikova doplnena o asfaltovanie 5.-9. 10. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
+    "note": "BEH 2. 10. 2026. Z MESTA - bez zmeny (4 najnovsie clanky). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk Lukero FRAGMENTY); kino, kluby, kurzy a detske dielne vynechane. SERVIS - 4 aktivne polozky (elektrina Sportova do 6. 10., tri dopravne obmedzenia). TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",

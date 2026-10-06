@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-03T08:00:00+02:00",
-    "generated_for_date": "2026-10-03",
+    "generated_at": "2026-10-05T21:55:00+02:00",
+    "generated_for_date": "2026-10-05",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 3. 10. 2026. Z MESTA - bez zmeny (4 najnovsie clanky). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk Lukero FRAGMENTY); kino, kluby, kurzy, detske dielne a podujatia mimo Senice vynechane. SERVIS - 4 aktivne polozky (elektrina Sportova do 6. 10., tri dopravne obmedzenia). TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
+    "note": "BEH 5. 10. 2026 (vecer). Z MESTA - pribudol clanok o Cacovskych hodovych slavnostiach (5. 10.), najstarsi (Darcovia krvi) vypadol. PODUJATIA - 8 poloziek (7 z TIC REST API + 1 senica.sk Lukero FRAGMENTY); kino, kluby, kurzy, detske dielne a podujatia mimo Senice vynechane. SERVIS - 4 aktivne polozky (elektrina Sportova do 6. 10., tri dopravne obmedzenia); ziadne nove odstavky. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Čáčovské hodové slávnosti: slávnostné bohoslužby s biskupom aj sadenie líp",
+        "summary": "V Čáčove sa konali hodové slávnosti so slávnostnými službami Božími, na ktorých sa zúčastnil biskup, a so sadením líp.",
+        "date": "2026-10-05",
+        "date_label": "5. 10. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/cacovske-hodove-slavnosti-slavnostne-sluzby-bozie-s-biskupom-i-sadenie-lip"
+      },
       {
         "headline": "Uzávera Robotníckej a Palárikovej ulice sa blíži: od 5. októbra sa začne asfaltovať",
         "summary": "Mesto oznámilo asfaltovanie na Robotníckej a Palárikovej ulici, ktoré sa začne v pondelok 5. októbra a potrvá približne do piatka 9. októbra. Počas frézovania sa dá prejsť, pri asfaltovaní bude úsek uzavretý.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/prednaska-o-sikanovani-a-kybersikane-na-mestskom-urade-v-senici"
-      },
-      {
-        "headline": "Darcov krvi z regiónu ocenili",
-        "summary": "V regióne ocenili darcov krvi, ľudí, ktorí opakovane pomáhajú zachraňovať životy.",
-        "date": "2026-09-30",
-        "date_label": "30. 9. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/ocenili-darcov-krvi-z-regionu"
       }
     ]
   },
@@ -71,34 +71,14 @@
     ],
     "items": [
       {
-        "name": "Rebornované bábiky v Múzeu Senica",
-        "date": "2026-10-03",
-        "day": "3",
+        "name": "Dračia rozprávka",
+        "date": "2026-10-06",
+        "day": "6",
         "month": "Október",
-        "time": "10:00",
-        "venue": "Múzeum Senica, Štefánikova 724/20, Senica",
+        "time": "08:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/rebornovane-babiky-v-muzeu-senica/"
-      },
-      {
-        "name": "XV. Medzinárodný festival zborového spevu Senica 2026",
-        "date": "2026-10-03",
-        "day": "3",
-        "month": "Október",
-        "time": "17:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/xv-medzinarodny-festival-zboroveho-spevu-senica-2026/"
-      },
-      {
-        "name": "Hodová slávnosť v Čáčove",
-        "date": "2026-10-04",
-        "day": "4",
-        "month": "Október",
-        "time": "10:00",
-        "venue": "Evanjelický kostol v Čáčove, Cintorínska 5205/2, Senica-Čáčov",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/hodova-slavnost-v-cacove/"
+        "source_url": "https://ticsenica.sk/podujatie/dracia-rozpravka/"
       },
       {
         "name": "Výstava Katky Vyskočilovej – Farebné rapsódie",
@@ -139,6 +119,16 @@
         "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/bez-ako-o-zenu/"
+      },
+      {
+        "name": "Októbrový swap oblečenia",
+        "date": "2026-10-10",
+        "day": "10",
+        "month": "Október",
+        "time": "09:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Krála 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/oktobrovy-swap-oblecenia"
       },
       {
         "name": "Záhoracka krojová zábava",

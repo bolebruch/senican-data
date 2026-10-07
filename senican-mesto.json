@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-05T21:55:00+02:00",
-    "generated_for_date": "2026-10-05",
+    "generated_at": "2026-10-07T03:56:00+02:00",
+    "generated_for_date": "2026-10-07",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 5. 10. 2026 (vecer). Z MESTA - pribudol clanok o Cacovskych hodovych slavnostiach (5. 10.), najstarsi (Darcovia krvi) vypadol. PODUJATIA - 8 poloziek (7 z TIC REST API + 1 senica.sk Lukero FRAGMENTY); kino, kluby, kurzy, detske dielne a podujatia mimo Senice vynechane. SERVIS - 4 aktivne polozky (elektrina Sportova do 6. 10., tri dopravne obmedzenia); ziadne nove odstavky. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
+    "note": "BEH 7. 10. 2026. Z MESTA - 2 nove clanky (Den ucty k starsim 6. 10., CSS Rohov 75. vyrocie 6. 10.); najstarsie dva vypadli. PODUJATIA - 9 poloziek (7 z TIC REST API + 2 senica.sk: Lukero FRAGMENTY, KAMELOT Rohov); kino, kluby, kurzy, detske dielne a podujatia mimo Senice vynechane. SERVIS - 3 aktivne dopravne polozky; elektrina Sportova (do 6. 10.) expirovala a vypadla. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,24 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Seniori v Senici mali svoje popoludnie: kvety, hudba aj poďakovanie",
+        "summary": "V októbri, mesiaci úcty k starším, pripravilo mesto 6. októbra spoločné popoludnie pre seniorov s kultúrnym programom a hudbou skupiny VYVA BAND. Zástupcom organizácií, ktoré sa o seniorov starajú, odovzdali kvety.",
+        "date": "2026-10-06",
+        "date_label": "6. 10. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/den-ucty-k-starsim-v-senici-spolocne-popoludnie-pre-seniorov"
+      },
+      {
+        "headline": "Zariadenie v Rohove oslávilo 75 rokov: začínalo ako domov dôchodcov",
+        "summary": "Centrum sociálnych služieb v Rohove si 2. októbra pripomenulo 75. výročie vzniku slávnostnou bohoslužbou a oslavou. Vzniklo v januári 1951 ako domov dôchodcov a postupne sa premenilo na zariadenie so starostlivosťou o ženy.",
+        "date": "2026-10-06",
+        "date_label": "6. 10. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/centrum-socialnych-sluzieb-v-rohove-si-pripomenulo-75-vyrocie-vzniku"
+      },
       {
         "headline": "Čáčovské hodové slávnosti: slávnostné bohoslužby s biskupom aj sadenie líp",
         "summary": "V Čáčove sa konali hodové slávnosti so slávnostnými službami Božími, na ktorých sa zúčastnil biskup, a so sadením líp.",
@@ -37,24 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
-      },
-      {
-        "headline": "Sociálni pracovníci mali svoj deň aj na mestskom úrade",
-        "summary": "Mestský úrad v Senici si pripomenul Deň sociálnych pracovníkov, teda profesijný sviatok ľudí, ktorí v meste pomáhajú druhým.",
-        "date": "2026-10-01",
-        "date_label": "1. 10. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/den-socialnych-pracovnikov-na-mestskom-urade-v-senici"
-      },
-      {
-        "headline": "Na mestskom úrade sa hovorilo o šikane a kyberšikane",
-        "summary": "Na mestskom úrade v Senici sa konala prednáška venovaná šikanovaniu a kyberšikane.",
-        "date": "2026-09-30",
-        "date_label": "30. 9. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/prednaska-o-sikanovani-a-kybersikane-na-mestskom-urade-v-senici"
       }
     ]
   },
@@ -71,17 +71,7 @@
     ],
     "items": [
       {
-        "name": "Dračia rozprávka",
-        "date": "2026-10-06",
-        "day": "6",
-        "month": "Október",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dracia-rozpravka/"
-      },
-      {
-        "name": "Výstava Katky Vyskočilovej – Farebné rapsódie",
+        "name": "Výstava Katky Vysočilovej – Farebné rapsódie",
         "date": "2026-10-07",
         "day": "7",
         "month": "Október",
@@ -89,6 +79,16 @@
         "venue": "LM GALÉRIA súčasného umenia, Štefánikova 699/9, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/farebne-rapsodie/"
+      },
+      {
+        "name": "Relax cvičenie",
+        "date": "2026-10-07",
+        "day": "7",
+        "month": "Október",
+        "time": "10:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-12/"
       },
       {
         "name": "Pletko stretko",
@@ -149,6 +149,16 @@
         "venue": "SD Kunov, Kunov 64, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/vystava-ovocia-a-zeleniny/"
+      },
+      {
+        "name": "KAMELOT – koncert v Rohove",
+        "date": "2026-10-17",
+        "day": "17",
+        "month": "Október",
+        "time": "19:00",
+        "venue": "Kultúrny dom, Rohov, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/kamelot-koncert-v-rohove"
       }
     ]
   },
@@ -159,19 +169,6 @@
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
-      {
-        "type": "elektrina",
-        "what": "Prerušenie distribúcie elektriny z dôvodu vykonávania plánovanej práce na zariadeniach distribučnej sústavy alebo v ich ochrannom pásme",
-        "where": "Športová ulica (č. 2, 5, 7, 10, 15–20, 24–27, 31–44, 52 a ďalšie súpisné čísla podľa oznámenia)",
-        "when": "01.10.2026 od 07:30 do 15:30 a 06.10.2026 od 07:30 do 15:30",
-        "starts": "2026-10-01",
-        "ends": "2026-10-06",
-        "status": "plánovaná",
-        "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Úplný zoznam súpisných čísel na Športovej ulici je v pôvodnom oznámení. Oznámenie bolo zverejnené 4. 9. 2026 a aktualizované 10. 9. 2026.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-oktober-2026"
-      },
       {
         "type": "doprava",
         "what": "Plošná oprava ciest pokračuje na ďalších úsekoch — Palárikova ulica (v úseku od čísla domu 8 a 10 po križovatku s Dlhou ul.) a Robotnícka ulica za Mestským kultúrnym strediskom. Práce prebiehajú v dvoch etapách: počas frézovania (len pár hodín) sú obmedzenia minimálne a komunikáciou sa dá prejsť, parkovanie vo vyznačených úsekoch je zakázané; počas asfaltovania bude komunikácia úplne uzavretá — zákaz vjazdu, možný nebude ani vjazd a výjazd z priľahlých parkovísk.",

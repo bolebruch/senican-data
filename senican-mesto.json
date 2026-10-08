@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-07T03:56:00+02:00",
+    "generated_at": "2026-10-07T20:50:00+02:00",
     "generated_for_date": "2026-10-07",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 7. 10. 2026. Z MESTA - 2 nove clanky (Den ucty k starsim 6. 10., CSS Rohov 75. vyrocie 6. 10.); najstarsie dva vypadli. PODUJATIA - 9 poloziek (7 z TIC REST API + 2 senica.sk: Lukero FRAGMENTY, KAMELOT Rohov); kino, kluby, kurzy, detske dielne a podujatia mimo Senice vynechane. SERVIS - 3 aktivne dopravne polozky; elektrina Sportova (do 6. 10.) expirovala a vypadla. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
+    "note": "BEH 7. 10. 2026 (vecer). Z MESTA - bez zmeny (rovnake 4 najnovsie). PODUJATIA - 8 poloziek (6 z TIC REST API + 2 senica.sk: Lukero FRAGMENTY, KAMELOT Rohov); dnesne skoncene podujatia (Relax cvicenie, Pletko stretko) vypadli, pribudol futbal FK Senica 10. 10.; kino, kluby, kurzy, detske dielne vynechane. SERVIS - 3 aktivne dopravne polozky; elektrina Sportova (1. a 6. 10.) expirovala. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -81,26 +81,6 @@
         "source_url": "https://ticsenica.sk/podujatie/farebne-rapsodie/"
       },
       {
-        "name": "Relax cvičenie",
-        "date": "2026-10-07",
-        "day": "7",
-        "month": "Október",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-12/"
-      },
-      {
-        "name": "Pletko stretko",
-        "date": "2026-10-07",
-        "day": "7",
-        "month": "Október",
-        "time": "15:00",
-        "venue": "Záhorská knižnica – klubovňa, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/pletko-stretko-10/"
-      },
-      {
         "name": "Lukēro: výstava FRAGMENTY (vernisáž)",
         "date": "2026-10-08",
         "day": "8",
@@ -129,6 +109,16 @@
         "venue": "Ženské komunitné centrum Senica, Janka Krála 3, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/oktobrovy-swap-oblecenia"
+      },
+      {
+        "name": "Futbalový klub Senica – TJ Partizán Prečín",
+        "date": "2026-10-10",
+        "day": "10",
+        "month": "Október",
+        "time": "16:00",
+        "venue": "Futbalový štadión Senica, Sadová ulica, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/futbalovy-klub-senica-tj-partizan-precin/"
       },
       {
         "name": "Záhoracka krojová zábava",

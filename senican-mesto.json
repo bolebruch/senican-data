@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-07T20:50:00+02:00",
-    "generated_for_date": "2026-10-07",
+    "generated_at": "2026-10-09T21:50:00+02:00",
+    "generated_for_date": "2026-10-09",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 7. 10. 2026 (vecer). Z MESTA - bez zmeny (rovnake 4 najnovsie). PODUJATIA - 8 poloziek (6 z TIC REST API + 2 senica.sk: Lukero FRAGMENTY, KAMELOT Rohov); dnesne skoncene podujatia (Relax cvicenie, Pletko stretko) vypadli, pribudol futbal FK Senica 10. 10.; kino, kluby, kurzy, detske dielne vynechane. SERVIS - 3 aktivne dopravne polozky; elektrina Sportova (1. a 6. 10.) expirovala. TRANSPARENTNOST - bez zmeny; stranka VZN vratila 429, VZN z predchadzajuceho behu.",
+    "note": "BEH 9. 10. 2026 (vecer). Z MESTA - 4 nove polozky (A+ transparentnost, verejne osvetlenie, dotacie pre kluby, busta Paulinyho-Tótha). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk: KAMELOT Rohov); pribudol Profesionalny rodic (12. 10.); kino, korculovanie, nedelny atelier, Dracia rozpravka, Pravna pomoc vynechane; Martinske svetlonosenie bez datumu podujatia v clanku - nezaradene. SERVIS - 3 aktivne dopravne polozky (bez zmeny); elektrina Sportova (1. a 6. 10.) expirovala. TRANSPARENTNOST - bez zmeny; stranka VZN vratila chybu pri fetchi, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Seniori v Senici mali svoje popoludnie: kvety, hudba aj poďakovanie",
-        "summary": "V októbri, mesiaci úcty k starším, pripravilo mesto 6. októbra spoločné popoludnie pre seniorov s kultúrnym programom a hudbou skupiny VYVA BAND. Zástupcom organizácií, ktoré sa o seniorov starajú, odovzdali kvety.",
-        "date": "2026-10-06",
-        "date_label": "6. 10. 2026",
+        "headline": "Senica dostala za verejné obstarávanie známku A+",
+        "summary": "Portál TRANSPAREX ocenil mesto titulom Zodpovedný obstarávateľ 2025 so známkou A+ za transparentnosť. Z 932 hodnotených verejných obstarávateľov sa Senica zaradila medzi tých s najlepšími výsledkami, v analýze sa posudzovalo 6 715 zmlúv.",
+        "date": "2026-10-09",
+        "date_label": "9. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/den-ucty-k-starsim-v-senici-spolocne-popoludnie-pre-seniorov"
+        "source_url": "https://senica.sk/clanok/vase-peniaze-v-dobrych-rukach-ziskali-sme-znamku-a-za-transparentnost"
       },
       {
-        "headline": "Zariadenie v Rohove oslávilo 75 rokov: začínalo ako domov dôchodcov",
-        "summary": "Centrum sociálnych služieb v Rohove si 2. októbra pripomenulo 75. výročie vzniku slávnostnou bohoslužbou a oslavou. Vzniklo v januári 1951 ako domov dôchodcov a postupne sa premenilo na zariadenie so starostlivosťou o ženy.",
-        "date": "2026-10-06",
-        "date_label": "6. 10. 2026",
+        "headline": "Nové lampy v uliciach: mesto ušetrí na osvetlení približne 230-tisíc eur ročne",
+        "summary": "Od roku 2023 vymenili v meste 1 446 svietidiel a spotreba elektriny klesla na asi 40 % pôvodnej. Mesačný poplatok za energiu je nižší až o 80 %, projekt za takmer 1,6 milióna eur sa financoval úverom z Environmentálneho fondu.",
+        "date": "2026-10-08",
+        "date_label": "8. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/centrum-socialnych-sluzieb-v-rohove-si-pripomenulo-75-vyrocie-vzniku"
+        "source_url": "https://senica.sk/clanok/modernizacia-verejneho-osvetlenia-uspory-vyssia-spolahlivost-a-pripravenost-na-dalsi-rozvoj"
       },
       {
-        "headline": "Čáčovské hodové slávnosti: slávnostné bohoslužby s biskupom aj sadenie líp",
-        "summary": "V Čáčove sa konali hodové slávnosti so slávnostnými službami Božími, na ktorých sa zúčastnil biskup, a so sadením líp.",
-        "date": "2026-10-05",
-        "date_label": "5. 10. 2026",
+        "headline": "Športové kluby sa môžu uchádzať o mestskú dotáciu do konca októbra",
+        "summary": "Kluby a organizácie so sídlom v Senici môžu žiadať o dotáciu z mestského rozpočtu do 31. októbra 2026. Žiadateľ musí byť zaregistrovaný na portáli sport.iedu.sk.",
+        "date": "2026-10-08",
+        "date_label": "8. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/cacovske-hodove-slavnosti-slavnostne-sluzby-bozie-s-biskupom-i-sadenie-lip"
+        "source_url": "https://senica.sk/clanok/sportove-kluby-mozu-opaet-ziadat-o-dotaciu"
       },
       {
-        "headline": "Uzávera Robotníckej a Palárikovej ulice sa blíži: od 5. októbra sa začne asfaltovať",
-        "summary": "Mesto oznámilo asfaltovanie na Robotníckej a Palárikovej ulici, ktoré sa začne v pondelok 5. októbra a potrvá približne do piatka 9. októbra. Počas frézovania sa dá prejsť, pri asfaltovaní bude úsek uzavretý.",
-        "date": "2026-10-01",
-        "date_label": "1. 10. 2026",
+        "headline": "Pred školou odhalili bustu Viliama Paulinyho-Tótha",
+        "summary": "Pri 200. výročí narodenia spisovateľa a národovca stojí pred základnou školou jeho mena nová busta od kamenára Ivana Štefečku. Iniciovalo ju občianske združenie Johanky Hrebendovej Bôrikovej a podporili ju mesto, kraj, školy aj cirkvi.",
+        "date": "2026-10-07",
+        "date_label": "7. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
+        "source_url": "https://senica.sk/clanok/odhalili-bustu-v-paulinyho-totha"
       }
     ]
   },
@@ -71,24 +71,24 @@
     ],
     "items": [
       {
-        "name": "Výstava Katky Vysočilovej – Farebné rapsódie",
-        "date": "2026-10-07",
-        "day": "7",
+        "name": "Waldorfská herníčka",
+        "date": "2026-10-09",
+        "day": "9",
         "month": "Október",
-        "time": null,
-        "venue": "LM GALÉRIA súčasného umenia, Štefánikova 699/9, Senica",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/farebne-rapsodie/"
+        "source_url": "https://ticsenica.sk/podujatie/waldorfska-hernicka-4/"
       },
       {
-        "name": "Lukēro: výstava FRAGMENTY (vernisáž)",
-        "date": "2026-10-08",
-        "day": "8",
+        "name": "Prvá pomoc pre rodičov",
+        "date": "2026-10-09",
+        "day": "9",
         "month": "Október",
-        "time": "16:00",
-        "venue": "DAV (budova v mestskom parku), Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/lukero-v-dav-e-uz-8-oktobra-otvori-vystavu-fragmenty"
+        "time": "17:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/prva-pomoc-pre-rodicov/"
       },
       {
         "name": "Bež ako o ženu!",
@@ -106,9 +106,9 @@
         "day": "10",
         "month": "Október",
         "time": "09:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Krála 3, Senica",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
         "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/oktobrovy-swap-oblecenia"
+        "source_url": "https://ticsenica.sk/podujatie/oktobrovy-swap-oblecenia/"
       },
       {
         "name": "Futbalový klub Senica – TJ Partizán Prečín",
@@ -121,7 +121,7 @@
         "source_url": "https://ticsenica.sk/podujatie/futbalovy-klub-senica-tj-partizan-precin/"
       },
       {
-        "name": "Záhoracka krojová zábava",
+        "name": "Záhorácka krojová zábava",
         "date": "2026-10-10",
         "day": "10",
         "month": "Október",
@@ -139,6 +139,16 @@
         "venue": "SD Kunov, Kunov 64, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/vystava-ovocia-a-zeleniny/"
+      },
+      {
+        "name": "Profesionálny rodič: Dajme deťom domov",
+        "date": "2026-10-12",
+        "day": "12",
+        "month": "Október",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/profesionalny-rodic-dajme-detom-domov/"
       },
       {
         "name": "KAMELOT – koncert v Rohove",

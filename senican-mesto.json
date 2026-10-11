@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-09T21:50:00+02:00",
-    "generated_for_date": "2026-10-09",
+    "generated_at": "2026-10-10T06:00:00+02:00",
+    "generated_for_date": "2026-10-10",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 9. 10. 2026 (vecer). Z MESTA - 4 nove polozky (A+ transparentnost, verejne osvetlenie, dotacie pre kluby, busta Paulinyho-Tótha). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk: KAMELOT Rohov); pribudol Profesionalny rodic (12. 10.); kino, korculovanie, nedelny atelier, Dracia rozpravka, Pravna pomoc vynechane; Martinske svetlonosenie bez datumu podujatia v clanku - nezaradene. SERVIS - 3 aktivne dopravne polozky (bez zmeny); elektrina Sportova (1. a 6. 10.) expirovala. TRANSPARENTNOST - bez zmeny; stranka VZN vratila chybu pri fetchi, VZN z predchadzajuceho behu.",
+    "note": "BEH 10. 10. 2026. Z MESTA - bez zmeny (nove clanky len Zberny dvor 7. 10. a Martinske svetlonosenie; ponechane povodne 4). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk: KAMELOT Rohov); odpadli dnes preskocene/minule (9. 10.) a Profesionalny rodic ostal; pribudli koncerty 17.-18. 10.; kino, korculovanie, nedelny atelier, Dracia rozpravka, Pravna pomoc, Klub 60+ vynechane; Martinske svetlonosenie stale bez datumu v clanku (pozvanky ho radia na 7. 11., neoverene) - nezaradene. SERVIS - 3 aktivne dopravne polozky (bez zmeny); elektrina Sportova expirovala. TRANSPARENTNOST - 27. MsZ odkaz na clanok; stranka VZN vratila chybu pri fetchi, VZN z predchadzajuceho behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,36 +71,6 @@
     ],
     "items": [
       {
-        "name": "Waldorfská herníčka",
-        "date": "2026-10-09",
-        "day": "9",
-        "month": "Október",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/waldorfska-hernicka-4/"
-      },
-      {
-        "name": "Prvá pomoc pre rodičov",
-        "date": "2026-10-09",
-        "day": "9",
-        "month": "Október",
-        "time": "17:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/prva-pomoc-pre-rodicov/"
-      },
-      {
-        "name": "Bež ako o ženu!",
-        "date": "2026-10-09",
-        "day": "9",
-        "month": "Október",
-        "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/bez-ako-o-zenu/"
-      },
-      {
         "name": "Októbrový swap oblečenia",
         "date": "2026-10-10",
         "day": "10",
@@ -151,6 +121,16 @@
         "source_url": "https://ticsenica.sk/podujatie/profesionalny-rodic-dajme-detom-domov/"
       },
       {
+        "name": "Koncert Sonny",
+        "date": "2026-10-17",
+        "day": "17",
+        "month": "Október",
+        "time": "16:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/koncert-sonny-3/"
+      },
+      {
         "name": "KAMELOT – koncert v Rohove",
         "date": "2026-10-17",
         "day": "17",
@@ -159,6 +139,26 @@
         "venue": "Kultúrny dom, Rohov, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/kamelot-koncert-v-rohove"
+      },
+      {
+        "name": "Komentovaná prehliadka a koncert Československého komorného dua",
+        "date": "2026-10-18",
+        "day": "18",
+        "month": "Október",
+        "time": "15:00",
+        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-a-koncert-ceskoslovenskeho-komorneho-dua/"
+      },
+      {
+        "name": "Koncert „Slovenský panteón – Kuzmány, Paulíny-Tóth, Krasko“",
+        "date": "2026-10-18",
+        "day": "18",
+        "month": "Október",
+        "time": "17:00",
+        "venue": "Evanjelický kostol augsburského vyznania, Fajnorova 806/1, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/koncert-slovensky-panteon-kuzmany-pauliny-toth-krasko/"
       }
     ]
   },
@@ -218,14 +218,13 @@
     "badge": "Úradné",
     "items": [
       {
-        "title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
+        "title": "27. zasadnutie MsZ — hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-09-28",
         "date_label": "28. 9. 2026",
         "status": null,
-        "source_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
+        "source_url": "https://senica.sk/clanok/27-zasadnutie-msz",
         "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10638-1.pdf",
           "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10638-1.pdf",
           "video": "https://www.youtube.com/embed/H8jof-eSswI"
         }

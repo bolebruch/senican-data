@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-10T06:00:00+02:00",
-    "generated_for_date": "2026-10-10",
+    "generated_at": "2026-10-11T06:00:00+02:00",
+    "generated_for_date": "2026-10-11",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 10. 10. 2026. Z MESTA - bez zmeny (nove clanky len Zberny dvor 7. 10. a Martinske svetlonosenie; ponechane povodne 4). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk: KAMELOT Rohov); odpadli dnes preskocene/minule (9. 10.) a Profesionalny rodic ostal; pribudli koncerty 17.-18. 10.; kino, korculovanie, nedelny atelier, Dracia rozpravka, Pravna pomoc, Klub 60+ vynechane; Martinske svetlonosenie stale bez datumu v clanku (pozvanky ho radia na 7. 11., neoverene) - nezaradene. SERVIS - 3 aktivne dopravne polozky (bez zmeny); elektrina Sportova expirovala. TRANSPARENTNOST - 27. MsZ odkaz na clanok; stranka VZN vratila chybu pri fetchi, VZN z predchadzajuceho behu.",
+    "note": "BEH 11. 10. 2026. Z MESTA - bez zmeny (ziadne nove clanky v Spravodajstve ani Zo zapisnika MsP; ponechane povodne 4). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Pravna pomoc, Klub 60+, knizne kluby vynechane; Vrbovce mimo Senice vynechane. SERVIS - 3 aktivne dopravne polozky (bez zmeny); elektrina Sportova expirovala. TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie; VZN 93/2026 a 92/2026).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,34 +71,14 @@
     ],
     "items": [
       {
-        "name": "Októbrový swap oblečenia",
-        "date": "2026-10-10",
-        "day": "10",
+        "name": "Nedeľný ateliér",
+        "date": "2026-10-11",
+        "day": "11",
         "month": "Október",
-        "time": "09:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/oktobrovy-swap-oblecenia/"
-      },
-      {
-        "name": "Futbalový klub Senica – TJ Partizán Prečín",
-        "date": "2026-10-10",
-        "day": "10",
-        "month": "Október",
-        "time": "16:00",
-        "venue": "Futbalový štadión Senica, Sadová ulica, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/futbalovy-klub-senica-tj-partizan-precin/"
-      },
-      {
-        "name": "Záhorácka krojová zábava",
-        "date": "2026-10-10",
-        "day": "10",
-        "month": "Október",
-        "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "time": "14:00",
+        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/zahoracka-krojova-zabava/"
+        "source_url": "https://ticsenica.sk/podujatie/nedelny-atelier-11/"
       },
       {
         "name": "Výstava ovocia a zeleniny",
@@ -121,6 +101,16 @@
         "source_url": "https://ticsenica.sk/podujatie/profesionalny-rodic-dajme-detom-domov/"
       },
       {
+        "name": "Tanečné posedenie",
+        "date": "2026-10-14",
+        "day": "14",
+        "month": "Október",
+        "time": "15:00",
+        "venue": "Reštaurácia Jednota, Námestie oslobodenia 12, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/tanecne-posedenie-6/"
+      },
+      {
         "name": "Koncert Sonny",
         "date": "2026-10-17",
         "day": "17",
@@ -136,7 +126,7 @@
         "day": "17",
         "month": "Október",
         "time": "19:00",
-        "venue": "Kultúrny dom, Rohov, Senica",
+        "venue": "Kultúrny dom Rohov, Rohov 75, Rohov",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/kamelot-koncert-v-rohove"
       },

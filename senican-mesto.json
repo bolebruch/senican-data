@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-11T06:00:00+02:00",
-    "generated_for_date": "2026-10-11",
+    "generated_at": "2026-10-12T06:00:00+02:00",
+    "generated_for_date": "2026-10-12",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 11. 10. 2026. Z MESTA - bez zmeny (ziadne nove clanky v Spravodajstve ani Zo zapisnika MsP; ponechane povodne 4). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Pravna pomoc, Klub 60+, knizne kluby vynechane; Vrbovce mimo Senice vynechane. SERVIS - 3 aktivne dopravne polozky (bez zmeny); elektrina Sportova expirovala. TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie; VZN 93/2026 a 92/2026).",
+    "note": "BEH 12. 10. 2026. Z MESTA - bez zmeny (nove clanky nie su; ponechane 4 najnovsie). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Pravna pomoc, Klub 60+ vynechane; udalosti mimo Senice (Vrbovce, Kuchyna) vynechane; VZN fetch zlyhal, ponechane. SERVIS - 3 aktivne dopravne polozky (bez zmeny, ends 31. 10.). TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,26 +71,6 @@
     ],
     "items": [
       {
-        "name": "Nedeľný ateliér",
-        "date": "2026-10-11",
-        "day": "11",
-        "month": "Október",
-        "time": "14:00",
-        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/nedelny-atelier-11/"
-      },
-      {
-        "name": "Výstava ovocia a zeleniny",
-        "date": "2026-10-11",
-        "day": "11",
-        "month": "Október",
-        "time": "14:00",
-        "venue": "SD Kunov, Kunov 64, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/vystava-ovocia-a-zeleniny/"
-      },
-      {
         "name": "Profesionálny rodič: Dajme deťom domov",
         "date": "2026-10-12",
         "day": "12",
@@ -101,6 +81,16 @@
         "source_url": "https://ticsenica.sk/podujatie/profesionalny-rodic-dajme-detom-domov/"
       },
       {
+        "name": "Relax cvičenie",
+        "date": "2026-10-14",
+        "day": "14",
+        "month": "Október",
+        "time": "10:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-13/"
+      },
+      {
         "name": "Tanečné posedenie",
         "date": "2026-10-14",
         "day": "14",
@@ -109,6 +99,26 @@
         "venue": "Reštaurácia Jednota, Námestie oslobodenia 12, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/tanecne-posedenie-6/"
+      },
+      {
+        "name": "Klub začínajúcich autorov",
+        "date": "2026-10-15",
+        "day": "15",
+        "month": "Október",
+        "time": "16:00",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/klub-zacinajucich-autorov-6/"
+      },
+      {
+        "name": "Jesenné mini fotenie rodín",
+        "date": "2026-10-17",
+        "day": "17",
+        "month": "Október",
+        "time": "10:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/jesenne-mini-fotenie-rodin/"
       },
       {
         "name": "Koncert Sonny",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-12T06:00:00+02:00",
-    "generated_for_date": "2026-10-12",
+    "generated_at": "2026-10-13T20:16:44+02:00",
+    "generated_for_date": "2026-10-13",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 12. 10. 2026. Z MESTA - bez zmeny (nove clanky nie su; ponechane 4 najnovsie). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Pravna pomoc, Klub 60+ vynechane; udalosti mimo Senice (Vrbovce, Kuchyna) vynechane; VZN fetch zlyhal, ponechane. SERVIS - 3 aktivne dopravne polozky (bez zmeny, ends 31. 10.). TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie).",
+    "note": "BEH 13. 10. 2026. Z MESTA - bez zmeny (ziadne nove clanky od 9. 10.). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Pravna pomoc, Klub 60+ vynechane; udalosti mimo Senice vynechane; Martinske svetlonosenie (senica.sk) bez datumu v texte - vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny z 1. a 6. 10. expirovane. TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie); VZN fetch zlyhal, ponechane.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,16 +71,6 @@
     ],
     "items": [
       {
-        "name": "Profesionálny rodič: Dajme deťom domov",
-        "date": "2026-10-12",
-        "day": "12",
-        "month": "Október",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/profesionalny-rodic-dajme-detom-domov/"
-      },
-      {
         "name": "Relax cvičenie",
         "date": "2026-10-14",
         "day": "14",
@@ -99,6 +89,16 @@
         "venue": "Reštaurácia Jednota, Námestie oslobodenia 12, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/tanecne-posedenie-6/"
+      },
+      {
+        "name": "Rozprávkové domčeky",
+        "date": "2026-10-14",
+        "day": "14",
+        "month": "Október",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/rozpravkove-domceky-2/"
       },
       {
         "name": "Klub začínajúcich autorov",

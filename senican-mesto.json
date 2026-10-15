@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-13T20:16:44+02:00",
-    "generated_for_date": "2026-10-13",
+    "generated_at": "2026-10-14T20:50:00+02:00",
+    "generated_for_date": "2026-10-14",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 13. 10. 2026. Z MESTA - bez zmeny (ziadne nove clanky od 9. 10.). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Pravna pomoc, Klub 60+ vynechane; udalosti mimo Senice vynechane; Martinske svetlonosenie (senica.sk) bez datumu v texte - vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny z 1. a 6. 10. expirovane. TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie); VZN fetch zlyhal, ponechane.",
+    "note": "BEH 14. 10. 2026. Z MESTA - 4 nove clanky (12.-14. 10.). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, Dracia rozpravka, Klub 60+ a udalosti mimo Senice vynechane; Martinske svetlonosenie (senica.sk) bez datumu v texte - vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.), doplnene poznamky z 12. 10.; odstavky elektriny (1. a 6. 10.) expirovane. TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie; VZN 93/2026 najnovsie).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Senica dostala za verejné obstarávanie známku A+",
-        "summary": "Portál TRANSPAREX ocenil mesto titulom Zodpovedný obstarávateľ 2025 so známkou A+ za transparentnosť. Z 932 hodnotených verejných obstarávateľov sa Senica zaradila medzi tých s najlepšími výsledkami, v analýze sa posudzovalo 6 715 zmlúv.",
-        "date": "2026-10-09",
-        "date_label": "9. 10. 2026",
+        "headline": "Mládež Červeného kríža v Senici hľadá nových dobrovoľníkov",
+        "summary": "Mládež Slovenského Červeného kríža v Senici nabera nové posily vo veku 5 až 30 rokov z okresov Senica, Skalica a Myjava. Prihlásiť sa dá cez online formulár.",
+        "date": "2026-10-14",
+        "date_label": "14. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/vase-peniaze-v-dobrych-rukach-ziskali-sme-znamku-a-za-transparentnost"
+        "source_url": "https://senica.sk/clanok/mladez-sck-senica-hlada-nove-posily"
       },
       {
-        "headline": "Nové lampy v uliciach: mesto ušetrí na osvetlení približne 230-tisíc eur ročne",
-        "summary": "Od roku 2023 vymenili v meste 1 446 svietidiel a spotreba elektriny klesla na asi 40 % pôvodnej. Mesačný poplatok za energiu je nižší až o 80 %, projekt za takmer 1,6 milióna eur sa financoval úverom z Environmentálneho fondu.",
-        "date": "2026-10-08",
-        "date_label": "8. 10. 2026",
+        "headline": "Mesto predstavilo 23 obnovených nájomných bytov pre lekárov, učiteľov či policajtov",
+        "summary": "Na Janka Kráľa 734 pribudlo 23 zrekonštruovaných nájomných bytov, ktoré majú pomôcť udržať v meste potrebné profesie. Rekonštrukcia stála približne 1,88 milióna eur a financoval ju úver zo Štátneho fondu rozvoja bývania; zatiaľ prišlo päť žiadostí.",
+        "date": "2026-10-13",
+        "date_label": "13. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/modernizacia-verejneho-osvetlenia-uspory-vyssia-spolahlivost-a-pripravenost-na-dalsi-rozvoj"
+        "source_url": "https://senica.sk/clanok/obnovene-najomne-byty-pre-potrebne-profesie"
       },
       {
-        "headline": "Športové kluby sa môžu uchádzať o mestskú dotáciu do konca októbra",
-        "summary": "Kluby a organizácie so sídlom v Senici môžu žiadať o dotáciu z mestského rozpočtu do 31. októbra 2026. Žiadateľ musí byť zaregistrovaný na portáli sport.iedu.sk.",
-        "date": "2026-10-08",
-        "date_label": "8. 10. 2026",
+        "headline": "Začal sa posledný tohtoročný zber objemného odpadu",
+        "summary": "Technické služby od 13. októbra rozmiestnili kontajnery na drevený a ostatný objemný odpad, bielu techniku treba odložiť vedľa nich. Stavebný odpad, textil či pneumatiky sa nezbierajú; celoročne ich prevezme zberný dvor.",
+        "date": "2026-10-12",
+        "date_label": "12. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/sportove-kluby-mozu-opaet-ziadat-o-dotaciu"
+        "source_url": "https://senica.sk/clanok/zacina-sa-zber-objemneho-odpadu"
       },
       {
-        "headline": "Pred školou odhalili bustu Viliama Paulinyho-Tótha",
-        "summary": "Pri 200. výročí narodenia spisovateľa a národovca stojí pred základnou školou jeho mena nová busta od kamenára Ivana Štefečku. Iniciovalo ju občianske združenie Johanky Hrebendovej Bôrikovej a podporili ju mesto, kraj, školy aj cirkvi.",
-        "date": "2026-10-07",
-        "date_label": "7. 10. 2026",
+        "headline": "Opravy ciest sa presúvajú do Kunova, na Robotníckej sa asfaltuje",
+        "summary": "Na hornom konci v Kunove sa začali posledné tohtoročné opravy ciest, práce majú trvať do konca týždňa. Robotnícka ulica pri materskej škole bude kvôli asfaltovaniu uzavretá do piatku 16. októbra.",
+        "date": "2026-10-12",
+        "date_label": "12. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/odhalili-bustu-v-paulinyho-totha"
+        "source_url": "https://senica.sk/clanok/opravy-ciest-pokracuju-v-kunove"
       }
     ]
   },
@@ -178,7 +178,7 @@
         "ends": "2026-10-31",
         "status": "prebieha",
         "provider": "Mesto Senica",
-        "note": "Majitelia vozidiel môžu počas celej doby rekonštrukcie využiť dočasné náhradné parkovanie na Kasárenskej ulici. Majitelia trvalých parkovacích miest boli kontaktovaní individuálne a boli im ponúknuté náhradné miesta. Dátum ends je odvodený z celkového termínu plošnej opravy ciest (do konca októbra 2026), presný termín v článku nie je. Podľa oznámenia z 1. 10. 2026 sa asfaltovať začne 5. októbra.",
+        "note": "Majitelia vozidiel môžu počas celej doby rekonštrukcie využiť dočasné náhradné parkovanie na Kasárenskej ulici. Majitelia trvalých parkovacích miest boli kontaktovaní individuálne a boli im ponúknuté náhradné miesta. Dátum ends je odvodený z celkového termínu plošnej opravy ciest (do konca októbra 2026), presný termín v článku nie je. Podľa oznámenia z 1. 10. 2026 sa asfaltovať začne 5. októbra. Podľa oznámenia z 12. 10. 2026 je Robotnícka ulica pri materskej škole úplne uzavretá do piatku 16. 10.; náhradné parkovanie aj na Sládkovičovej ulici.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
       },
@@ -204,7 +204,7 @@
         "ends": "2026-10-31",
         "status": "prebieha",
         "provider": "Mesto Senica / Strabag",
-        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená. Samostatná uzávera Topoľovej ulice (zákaz vjazdu do 22. 9. 2026) už skončila a bola vyradená zo Servisu. Podľa oznámenia z 1. 10. 2026 sa asfaltovať začne 5. októbra.",
+        "note": "Frézovanie zaberie v lokalite len pár hodín, hlavné obmedzenie nastane počas dvoch dní pokládky asfaltu, kedy bude úsek úplne uzavretý — bez prejazdu aj bez parkovania. Úsek pri ZŠ V. Paulínyho-Tótha je už hotový a cesta je tam od 31. 8. 2026 zjednosmernená. Samostatná uzávera Topoľovej ulice (zákaz vjazdu do 22. 9. 2026) už skončila a bola vyradená zo Servisu. Podľa oznámenia z 1. 10. 2026 sa asfaltovať začne 5. októbra. Podľa oznámenia z 12. 10. 2026 je Robotnícka ulica pri materskej škole úplne uzavretá do piatku 16. 10.; náhradné parkovanie aj na Sládkovičovej ulici.",
         "badge": "Servis",
         "source_url": "https://senica.sk/clanok/uzavera-pre-robotnicku-a-palarikovu-ulicu"
       }

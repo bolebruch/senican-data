@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-15T20:15:00+02:00",
-    "generated_for_date": "2026-10-15",
+    "generated_at": "2026-10-16T20:35:00+02:00",
+    "generated_for_date": "2026-10-16",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 15. 10. 2026. Z MESTA - bez zmeny (najnovsie 14. 10.). PODUJATIA - 9 poloziek (8 z TIC REST API + 1 senica.sk/TIC: KAMELOT Rohov); kino, korculovanie, podujatia mimo Senice a dnesne rannajsie (Akvarelova jesen, Anglictina pre seniorov) vynechane; Martinske svetlonosenie bez miesta/casu v texte - vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny expirovane. TRANSPARENTNOST - bez zmeny.",
+    "note": "BEH 16. 10. 2026. Z MESTA - bez zmeny (najnovsie 14. 10.). PODUJATIA - 9 poloziek (vsetky z TIC REST API; senica.sk Pozvanky bez novych); kino, korculovanie, Male Karpaty (Kuchyna), Zabudnuty ostrov a minule podujatia vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny (1. a 6. 10.) expirovane. TRANSPARENTNOST - 27. MsZ doplnena zapisnica; stranka VZN sa nepodarilo nacitat, VZN ponechane z predch. behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,16 +71,6 @@
     ],
     "items": [
       {
-        "name": "Klub začínajúcich autorov",
-        "date": "2026-10-15",
-        "day": "15",
-        "month": "Október",
-        "time": "16:00",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/klub-zacinajucich-autorov-6/"
-      },
-      {
         "name": "Za peknými sľubmi",
         "date": "2026-10-16",
         "day": "16",
@@ -138,7 +128,7 @@
         "time": "19:00",
         "venue": "Kultúrny dom Rohov, Rohov 75, Rohov",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/kamelot-koncert-v-rohove"
+        "source_url": "https://ticsenica.sk/podujatie/kamelot-koncert-v-rohove/"
       },
       {
         "name": "Komentovaná prehliadka a koncert Československého komorného dua",
@@ -159,6 +149,16 @@
         "venue": "Evanjelický kostol augsburského vyznania, Fajnorova 806/1, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/koncert-slovensky-panteon-kuzmany-pauliny-toth-krasko/"
+      },
+      {
+        "name": "Dračia rozprávka",
+        "date": "2026-10-20",
+        "day": "20",
+        "month": "Október",
+        "time": "08:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/dracia-rozpravka-3/"
       }
     ]
   },
@@ -218,13 +218,14 @@
     "badge": "Úradné",
     "items": [
       {
-        "title": "27. zasadnutie MsZ — hlasovania a videozáznam",
+        "title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-09-28",
         "date_label": "28. 9. 2026",
         "status": null,
         "source_url": "https://senica.sk/clanok/27-zasadnutie-msz",
         "extra_links": {
+          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10638-1.pdf",
           "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10638-1.pdf",
           "video": "https://www.youtube.com/embed/H8jof-eSswI"
         }

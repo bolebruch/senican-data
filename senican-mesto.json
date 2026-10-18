@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-16T20:35:00+02:00",
-    "generated_for_date": "2026-10-16",
+    "generated_at": "2026-10-17T06:00:00+02:00",
+    "generated_for_date": "2026-10-17",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 16. 10. 2026. Z MESTA - bez zmeny (najnovsie 14. 10.). PODUJATIA - 9 poloziek (vsetky z TIC REST API; senica.sk Pozvanky bez novych); kino, korculovanie, Male Karpaty (Kuchyna), Zabudnuty ostrov a minule podujatia vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny (1. a 6. 10.) expirovane. TRANSPARENTNOST - 27. MsZ doplnena zapisnica; stranka VZN sa nepodarilo nacitat, VZN ponechane z predch. behu.",
+    "note": "BEH 17. 10. 2026. Z MESTA - 4 nove clanky (15.-16. 10.). PODUJATIA - 9 poloziek (vsetky z TIC REST API; senica.sk Pozvanky bez novych v Senici - Martinske svetlonosenie 7. 11. bez miesta/casu, mimo vyberu); kino, korculovanie, Male Karpaty (Kuchyna) a minule podujatia vynechane. SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny expirovane. TRANSPARENTNOST - bez zmeny; stranka VZN so sort parametrom sa nenacitala, VZN ponechane z predch. behu.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Mládež Červeného kríža v Senici hľadá nových dobrovoľníkov",
-        "summary": "Mládež Slovenského Červeného kríža v Senici nabera nové posily vo veku 5 až 30 rokov z okresov Senica, Skalica a Myjava. Prihlásiť sa dá cez online formulár.",
-        "date": "2026-10-14",
-        "date_label": "14. 10. 2026",
+        "headline": "Senica si pripomína 200 rokov od narodenia Viliama Paulinyho-Tótha",
+        "summary": "Rodák zo Senice a národný buditeľ sa narodil 3. júna 1826. Pri jubileu pribudla nástenná maľba na vstupnom paneli a busta pred základnou školou nesúcou jeho meno.",
+        "date": "2026-10-16",
+        "date_label": "16. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/mladez-sck-senica-hlada-nove-posily"
+        "source_url": "https://senica.sk/clanok/200-rokov-od-narodenia-v-paulinyho-totha"
       },
       {
-        "headline": "Mesto predstavilo 23 obnovených nájomných bytov pre lekárov, učiteľov či policajtov",
-        "summary": "Na Janka Kráľa 734 pribudlo 23 zrekonštruovaných nájomných bytov, ktoré majú pomôcť udržať v meste potrebné profesie. Rekonštrukcia stála približne 1,88 milióna eur a financoval ju úver zo Štátneho fondu rozvoja bývania; zatiaľ prišlo päť žiadostí.",
-        "date": "2026-10-13",
-        "date_label": "13. 10. 2026",
+        "headline": "Cyklotrasa ku Kunovu dostane solárne osvetlenie",
+        "summary": "Na úseku zhruba 0,9 km medzi Sotinou, Kunovom a priehradou pribudne 185 solárnych svietidiel. Projekt vyjde na približne 20-tisíc eur, z toho 15-tisíc pokryje dotácia Trnavského samosprávneho kraja a asi 5-tisíc mesto.",
+        "date": "2026-10-16",
+        "date_label": "16. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/obnovene-najomne-byty-pre-potrebne-profesie"
+        "source_url": "https://senica.sk/clanok/na-cyklotrase-do-kunova-pribudne-osvetlenie"
       },
       {
-        "headline": "Začal sa posledný tohtoročný zber objemného odpadu",
-        "summary": "Technické služby od 13. októbra rozmiestnili kontajnery na drevený a ostatný objemný odpad, bielu techniku treba odložiť vedľa nich. Stavebný odpad, textil či pneumatiky sa nezbierajú; celoročne ich prevezme zberný dvor.",
-        "date": "2026-10-12",
-        "date_label": "12. 10. 2026",
+        "headline": "Na radnici ocenili manželské páry s diamantovým, smaragdovým a zlatým jubileom",
+        "summary": "Mesto privítalo páry, ktoré si tento rok pripomínajú 50, 55 či 60 rokov manželstva. Primátor ocenil ich vzájomnú oporu.",
+        "date": "2026-10-15",
+        "date_label": "15. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/zacina-sa-zber-objemneho-odpadu"
+        "source_url": "https://senica.sk/clanok/spolu-uz-cele-desatrocia-jubilanti-v-senici"
       },
       {
-        "headline": "Opravy ciest sa presúvajú do Kunova, na Robotníckej sa asfaltuje",
-        "summary": "Na hornom konci v Kunove sa začali posledné tohtoročné opravy ciest, práce majú trvať do konca týždňa. Robotnícka ulica pri materskej škole bude kvôli asfaltovaniu uzavretá do piatku 16. októbra.",
-        "date": "2026-10-12",
-        "date_label": "12. 10. 2026",
+        "headline": "Seminár v Senici: ako umelá inteligencia ovplyvňuje tínedžerov",
+        "summary": "Na 28. ročníku seminára o drogovom nebezpečenstve sa pedagógovia a mládežnícki pracovníci dozvedeli, že mladí môžu brať AI ako virtuálneho dôverníka. Lektori z IPčka varovali pred rizikom izolácie a slabšieho kritického myslenia.",
+        "date": "2026-10-15",
+        "date_label": "15. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/opravy-ciest-pokracuju-v-kunove"
+        "source_url": "https://senica.sk/clanok/seminar-v-senici-ked-mladez-komunikuje-s-ai"
       }
     ]
   },
@@ -70,26 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Za peknými sľubmi",
-        "date": "2026-10-16",
-        "day": "16",
-        "month": "Október",
-        "time": "09:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/za-peknymi-slubmi/"
-      },
-      {
-        "name": "Tehotenská príprava",
-        "date": "2026-10-16",
-        "day": "16",
-        "month": "Október",
-        "time": "18:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/tehotenska-priprava-2/"
-      },
       {
         "name": "Jesenné mini fotenie rodín",
         "date": "2026-10-17",
@@ -159,6 +139,26 @@
         "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/dracia-rozpravka-3/"
+      },
+      {
+        "name": "Hravé stretnutie s Montessori",
+        "date": "2026-10-20",
+        "day": "20",
+        "month": "Október",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/hrave-stretnutie-s-montessori-4/"
+      },
+      {
+        "name": "Klub 60+",
+        "date": "2026-10-20",
+        "day": "20",
+        "month": "Október",
+        "time": "13:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/klub-60-35/"
       }
     ]
   },

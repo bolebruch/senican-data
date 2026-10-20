@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-18T20:45:00+02:00",
-    "generated_for_date": "2026-10-18",
+    "generated_at": "2026-10-19T21:20:00+02:00",
+    "generated_for_date": "2026-10-19",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 18. 10. 2026. Z MESTA - bez novych clankov oproti 17. 10. (top 4 nezmenene). PODUJATIA - 9 poloziek (vsetky z TIC REST API; senica.sk Pozvanky bez novych v Senici - Martinske svetlonosenie 7. 11. bez miesta/casu, mimo vyberu); kino, korculovanie a minule podujatia vynechane; TIC odpoved bola orezana na Angličtina pre seniorov (22. 10.). SERVIS - 3 aktivne dopravne polozky (ends 31. 10.); odstavky elektriny (okt. 2026: 1. a 6. 10.) expirovane. TRANSPARENTNOST - bez zmeny; zoznam VZN bez zmeny (93/2026, 92/2026 najnovsie).",
+    "note": "BEH 19. 10. 2026. Z MESTA - bez novych clankov oproti 18. 10. (top 4 nezmenene). PODUJATIA - 9 poloziek, vsetky z TIC REST API; senica.sk Pozvanky bez novych v Senici (Martinske svetlonosenie 7. 11. bez miesta/casu, mimo vyberu); kino a minule podujatia vynechane; TIC odpoved bola orezana na posledne podujatie (Ovecka Shaun - kino). SERVIS - 3 aktivne dopravne polozky (ends 31. 10.), odstavky elektriny expirovane, nove clanky nie su. TRANSPARENTNOST - bez zmeny (zoznam VZN sa nepodarilo nacitat, ponechane predchadzajuce 93/2026 a 92/2026).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -70,26 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Komentovaná prehliadka a koncert Československého komorného dua",
-        "date": "2026-10-18",
-        "day": "18",
-        "month": "Október",
-        "time": "15:00",
-        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/komentovana-prehliadka-a-koncert-ceskoslovenskeho-komorneho-dua/"
-      },
-      {
-        "name": "Koncert „Slovenský panteón – Kuzmány, Paulíny-Tóth, Krasko“",
-        "date": "2026-10-18",
-        "day": "18",
-        "month": "Október",
-        "time": "17:00",
-        "venue": "Evanjelický kostol augsburského vyznania, Fajnorova 806/1, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/koncert-slovensky-panteon-kuzmany-pauliny-toth-krasko/"
-      },
       {
         "name": "Dračia rozprávka",
         "date": "2026-10-20",
@@ -159,6 +139,26 @@
         "venue": "DAV kinosála, Sadová 641/18, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/kdo-tady-koketuje-s-cim-s-kym-a-proc/"
+      },
+      {
+        "name": "Rozprávkové domčeky",
+        "date": "2026-10-21",
+        "day": "21",
+        "month": "Október",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/rozpravkove-domceky-3/"
+      },
+      {
+        "name": "Tvorivá streda",
+        "date": "2026-10-21",
+        "day": "21",
+        "month": "Október",
+        "time": "17:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/tvoriva-streda/"
       }
     ]
   },

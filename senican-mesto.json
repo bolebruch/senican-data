@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-19T21:20:00+02:00",
-    "generated_for_date": "2026-10-19",
+    "generated_at": "2026-10-20T06:00:00+02:00",
+    "generated_for_date": "2026-10-20",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 19. 10. 2026. Z MESTA - bez novych clankov oproti 18. 10. (top 4 nezmenene). PODUJATIA - 9 poloziek, vsetky z TIC REST API; senica.sk Pozvanky bez novych v Senici (Martinske svetlonosenie 7. 11. bez miesta/casu, mimo vyberu); kino a minule podujatia vynechane; TIC odpoved bola orezana na posledne podujatie (Ovecka Shaun - kino). SERVIS - 3 aktivne dopravne polozky (ends 31. 10.), odstavky elektriny expirovane, nove clanky nie su. TRANSPARENTNOST - bez zmeny (zoznam VZN sa nepodarilo nacitat, ponechane predchadzajuce 93/2026 a 92/2026).",
+    "note": "BEH 20. 10. 2026. Z MESTA - 4 nove clanky (Dusicky, prva pomoc, predvolebna diskusia TV SEN, vcelia zahrada). PODUJATIA - 9 poloziek, vsetky z TIC REST API (odpoved orezana na 18 udalosti; kino vynechane); senica.sk Pozvanky bez novych v Senici s miestom/casom (Martinske svetlonosenie 7. 11. bez miesta/casu, mimo vyberu). SERVIS - 3 aktivne dopravne polozky (ends 31. 10.), nove odstavky nie su. TRANSPARENTNOST - zoznam MsZ potvrdeny (27. zasadnutie je najnovsie); zoznam VZN sa nepodarilo nacitat, ponechane 93/2026 a 92/2026.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Senica si pripomína 200 rokov od narodenia Viliama Paulinyho-Tótha",
-        "summary": "Rodák zo Senice a národný buditeľ sa narodil 3. júna 1826. Pri jubileu pribudla nástenná maľba na vstupnom paneli a busta pred základnou školou nesúcou jeho meno.",
-        "date": "2026-10-16",
-        "date_label": "16. 10. 2026",
+        "headline": "Dušičky bez zbytočného odpadu: mesto radí, ako na cintorín ekologickejšie",
+        "summary": "Vence, kahance a sviečky sa po pár dňoch menia na odpad, preto sa odporúčajú trvácnejšie dekorácie a poriadne triedenie. Pietny akt spomienky na zosnulých bude 29. októbra v Dome smútku.",
+        "date": "2026-10-20",
+        "date_label": "20. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/200-rokov-od-narodenia-v-paulinyho-totha"
+        "source_url": "https://senica.sk/clanok/dusicky-s-ohladom-na-zivotne-prostredie"
       },
       {
-        "headline": "Cyklotrasa ku Kunovu dostane solárne osvetlenie",
-        "summary": "Na úseku zhruba 0,9 km medzi Sotinou, Kunovom a priehradou pribudne 185 solárnych svietidiel. Projekt vyjde na približne 20-tisíc eur, z toho 15-tisíc pokryje dotácia Trnavského samosprávneho kraja a asi 5-tisíc mesto.",
-        "date": "2026-10-16",
-        "date_label": "16. 10. 2026",
+        "headline": "Škôlkari a školáci sa učili prvú pomoc",
+        "summary": "Mládež Červeného kríža pri príležitosti Svetového dňa záchrany života ukázala deťom obväzovanie, masáž srdca aj použitie defibrilátora. Projekt Krížko skončil druhý v participatívnom rozpočte pre mladých.",
+        "date": "2026-10-19",
+        "date_label": "19. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/na-cyklotrase-do-kunova-pribudne-osvetlenie"
+        "source_url": "https://senica.sk/clanok/deti-a-mladych-ucia-poskytnut-prvu-pomoc"
       },
       {
-        "headline": "Na radnici ocenili manželské páry s diamantovým, smaragdovým a zlatým jubileom",
-        "summary": "Mesto privítalo páry, ktoré si tento rok pripomínajú 50, 55 či 60 rokov manželstva. Primátor ocenil ich vzájomnú oporu.",
-        "date": "2026-10-15",
-        "date_label": "15. 10. 2026",
+        "headline": "Traja kandidáti na primátora sa stretnú v diskusii TV SEN",
+        "summary": "Ladislav Ďorďovič, Martin Džačovský a Roman Krištofík diskutujú naživo dnes o 18.00 h, záznam zostane na YouTube a repríza je v stredu o 20.00 h.",
+        "date": "2026-10-19",
+        "date_label": "19. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/spolu-uz-cele-desatrocia-jubilanti-v-senici"
+        "source_url": "https://senica.sk/clanok/predvolebna-diskusia-kandidatov-na-tv-sen"
       },
       {
-        "headline": "Seminár v Senici: ako umelá inteligencia ovplyvňuje tínedžerov",
-        "summary": "Na 28. ročníku seminára o drogovom nebezpečenstve sa pedagógovia a mládežnícki pracovníci dozvedeli, že mladí môžu brať AI ako virtuálneho dôverníka. Lektori z IPčka varovali pred rizikom izolácie a slabšieho kritického myslenia.",
-        "date": "2026-10-15",
-        "date_label": "15. 10. 2026",
+        "headline": "Na trávniku pri škole vyrástla kvetinová lúka pre včely",
+        "summary": "Základná škola na Paulínyho-Tótha ulici premenila trávnik na lúku z peňazí participatívneho rozpočtu. Slúži včelám aj ako živá učebňa popri školskej včelnici so štyrmi úľmi.",
+        "date": "2026-10-19",
+        "date_label": "19. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/seminar-v-senici-ked-mladez-komunikuje-s-ai"
+        "source_url": "https://senica.sk/clanok/v-skole-vysiali-zahradu-pre-vcely"
       }
     ]
   },

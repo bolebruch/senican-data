@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-20T06:00:00+02:00",
-    "generated_for_date": "2026-10-20",
+    "generated_at": "2026-10-21T20:07:00+02:00",
+    "generated_for_date": "2026-10-21",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 20. 10. 2026. Z MESTA - 4 nove clanky (Dusicky, prva pomoc, predvolebna diskusia TV SEN, vcelia zahrada). PODUJATIA - 9 poloziek, vsetky z TIC REST API (odpoved orezana na 18 udalosti; kino vynechane); senica.sk Pozvanky bez novych v Senici s miestom/casom (Martinske svetlonosenie 7. 11. bez miesta/casu, mimo vyberu). SERVIS - 3 aktivne dopravne polozky (ends 31. 10.), nove odstavky nie su. TRANSPARENTNOST - zoznam MsZ potvrdeny (27. zasadnutie je najnovsie); zoznam VZN sa nepodarilo nacitat, ponechane 93/2026 a 92/2026.",
+    "note": "BEH 21. 10. 2026. TIC REST API a ticsenica.sk boli pre web_fetch zablokovane (robots) - podujatia len z senica.sk Pozvanky (6 poloziek, s miestom/casom z clankov; Martinske svetlonosenie bez miesta/casu). Dnesne podujatia z predchadzajuceho behu uz prebehli, vynechane. Z MESTA - 4 najnovsie. SERVIS - 3 dopravne polozky (ends 31. 10.), odstavka elektriny okt. 2026 expirovala (1. a 6. 10.). TRANSPARENTNOST - bez zmeny (27. MsZ najnovsie); zoznam VZN s filtrom nedostupny, ponechane 93/2026 a 92/2026 (overene bez filtra).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -39,15 +39,6 @@
         "source_url": "https://senica.sk/clanok/deti-a-mladych-ucia-poskytnut-prvu-pomoc"
       },
       {
-        "headline": "Traja kandidáti na primátora sa stretnú v diskusii TV SEN",
-        "summary": "Ladislav Ďorďovič, Martin Džačovský a Roman Krištofík diskutujú naživo dnes o 18.00 h, záznam zostane na YouTube a repríza je v stredu o 20.00 h.",
-        "date": "2026-10-19",
-        "date_label": "19. 10. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/predvolebna-diskusia-kandidatov-na-tv-sen"
-      },
-      {
         "headline": "Na trávniku pri škole vyrástla kvetinová lúka pre včely",
         "summary": "Základná škola na Paulínyho-Tótha ulici premenila trávnik na lúku z peňazí participatívneho rozpočtu. Slúži včelám aj ako živá učebňa popri školskej včelnici so štyrmi úľmi.",
         "date": "2026-10-19",
@@ -55,14 +46,23 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/v-skole-vysiali-zahradu-pre-vcely"
+      },
+      {
+        "headline": "Obchodná akadémia v Senici získala celoslovenské ocenenie Angažovaná škola 2026",
+        "summary": "Marketingový workshop „Tell me the story“ vyhral strednoškolskú kategóriu a odniesol si Zlatú značku. Výsledky vyhlásili 8. októbra v Banskej Bystrici, súťažilo 55 škôl.",
+        "date": "2026-10-19",
+        "date_label": "19. 10. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/oa-senica-ziskala-najvyssie-celoslovenske-ocenenie-angazovana-skola-2026"
       }
     ]
   },
   "podujatia": {
     "title": "Podujatia v Senici",
     "subtitle": "Nadchádzajúce podujatia zoradené podľa dátumu. Filtruj podľa toho, čo ťa zaujíma.",
-    "attribution": "Zdroj: Kalendár podujatí TIC Senica · mesto Senica",
-    "attribution_url": "https://ticsenica.sk/podujatia/",
+    "attribution": "Zdroj: mesto Senica · Pozvánky (senica.sk)",
+    "attribution_url": "https://senica.sk/kategoria/pozvanky",
     "filters": [
       "Všetko",
       "Kultúra",
@@ -71,94 +71,64 @@
     ],
     "items": [
       {
-        "name": "Dračia rozprávka",
-        "date": "2026-10-20",
-        "day": "20",
+        "name": "Len pre mačacie uši",
+        "date": "2026-10-22",
+        "day": "22",
         "month": "Október",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "time": "14:30",
+        "venue": "Záhorská knižnica, klubovňa, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dracia-rozpravka-3/"
+        "source_url": "https://senica.sk/clanok/len-pre-macacie-usi"
       },
       {
-        "name": "Hravé stretnutie s Montessori",
-        "date": "2026-10-20",
-        "day": "20",
+        "name": "Čítaníčko pre najmenších",
+        "date": "2026-10-27",
+        "day": "27",
         "month": "Október",
         "time": "09:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/hrave-stretnutie-s-montessori-4/"
+        "source_url": "https://senica.sk/clanok/10681-citanicko-pre-najmensich"
       },
       {
-        "name": "Klub 60+",
-        "date": "2026-10-20",
-        "day": "20",
-        "month": "Október",
-        "time": "13:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-60-35/"
-      },
-      {
-        "name": "Jedlé zmyslohranie",
-        "date": "2026-10-20",
-        "day": "20",
-        "month": "Október",
-        "time": "16:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/jedle-zmyslohranie-2/"
-      },
-      {
-        "name": "Relax cvičenie",
-        "date": "2026-10-21",
-        "day": "21",
+        "name": "Dušičkové prázdniny so starými rodičmi",
+        "date": "2026-10-29",
+        "day": "29",
         "month": "Október",
         "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-14/"
-      },
-      {
-        "name": "Posedenie pri harmonike",
-        "date": "2026-10-21",
-        "day": "21",
-        "month": "Október",
-        "time": "13:00",
-        "venue": "Denné centrum Senica, SNP 784, Senica",
+        "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/posedenie-pri-harmonike-7/"
+        "source_url": "https://senica.sk/clanok/dusickove-prazdniny-so-starymi-rodicmi"
       },
       {
-        "name": "Kdo tady koketuje s čím, s kým a proč?",
-        "date": "2026-10-21",
-        "day": "21",
+        "name": "Pietny akt spomienky na zosnulých",
+        "date": "2026-10-29",
+        "day": "29",
         "month": "Október",
-        "time": "16:30",
-        "venue": "DAV kinosála, Sadová 641/18, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/kdo-tady-koketuje-s-cim-s-kym-a-proc/"
-      },
-      {
-        "name": "Rozprávkové domčeky",
-        "date": "2026-10-21",
-        "day": "21",
-        "month": "Október",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/rozpravkove-domceky-3/"
-      },
-      {
-        "name": "Tvorivá streda",
-        "date": "2026-10-21",
-        "day": "21",
-        "month": "Október",
-        "time": "17:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "time": "16:00",
+        "venue": "Dom smútku, Senica",
         "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/tvoriva-streda/"
+        "source_url": "https://senica.sk/clanok/10666-pietny-akt-spomienky-na-zosnulych"
+      },
+      {
+        "name": "Prezentácia knihy Novomeský & Horváth - zo Senice do sveta",
+        "date": "2026-10-30",
+        "day": "30",
+        "month": "Október",
+        "time": "15:00",
+        "venue": "DAV, seminárna hala, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/prezentacia-knihy-novomesky-horvath-zo-senice-do-sveta"
+      },
+      {
+        "name": "Martinské svetlonosenie",
+        "date": "2026-11-07",
+        "day": "07",
+        "month": "November",
+        "time": null,
+        "venue": null,
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10670-martinske-svetlonosenie"
       }
     ]
   },

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-23T06:00:00+02:00",
-    "generated_for_date": "2026-10-23",
+    "generated_at": "2026-10-24T06:00:00+02:00",
+    "generated_for_date": "2026-10-24",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 23. 10. 2026 (ranny). TIC REST API fungoval - podujatia overene, nadchadzajuci vyber bez zmeny. senica.sk (Pozvanky, Spravodajstvo, Zapisnik MsP, Odstavky, esam) je pre web_fetch blokovane robots.txt - sekcie Z MESTA, SERVIS a TRANSPARENTNOST su prenesene z predchadzajuceho behu (nie aktualizovane). Servis: vsetky polozky ends 31. 10. (aktivne). Filmove premietania vynechane.",
+    "note": "BEH 24. 10. 2026. TIC REST API aj senica.sk (Pozvanky, Spravodajstvo, Odstavky, esam) dostupne. Podujatia: 7 z TIC API, 2 z senica.sk Pozvanky (Pietny akt, Prezentacia knihy); filmove premietania (Kino Mladost) vynechane; TIC odpoved bola orezana po 29. 10. Z mesta: nove clanky od posledneho behu nepribudli. Servis: najnovsi clanok o odstavkach elektriny je z 4. 9. (expirovany) - polozky dopravy ends 31. 10. ostavaju aktivne. Transparentnost: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -111,14 +111,14 @@
         "source_url": "https://senica.sk/clanok/10681-citanicko-pre-najmensich"
       },
       {
-        "name": "Relax cvičenie",
+        "name": "Akt kladenia vencov",
         "date": "2026-10-28",
         "day": "28",
         "month": "Október",
         "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-15/"
+        "venue": "Námestie oslobodenia, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/akt-kladenia-vencov/"
       },
       {
         "name": "Rozprávkové domčeky",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-24T06:00:00+02:00",
-    "generated_for_date": "2026-10-24",
+    "generated_at": "2026-10-25T06:00:00+02:00",
+    "generated_for_date": "2026-10-25",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 24. 10. 2026. TIC REST API aj senica.sk (Pozvanky, Spravodajstvo, Odstavky, esam) dostupne. Podujatia: 7 z TIC API, 2 z senica.sk Pozvanky (Pietny akt, Prezentacia knihy); filmove premietania (Kino Mladost) vynechane; TIC odpoved bola orezana po 29. 10. Z mesta: nove clanky od posledneho behu nepribudli. Servis: najnovsi clanok o odstavkach elektriny je z 4. 9. (expirovany) - polozky dopravy ends 31. 10. ostavaju aktivne. Transparentnost: bez zmeny.",
+    "note": "BEH 25. 10. 2026. TIC REST API aj senica.sk dostupne. Podujatia: 6 z TIC API, 2 z senica.sk (Čítaníčko, Prezentácia knihy) + Pietny akt a Dušičkové prázdniny sú v oboch zdrojoch; filmové premietania (Kino Mladosť) vynechané; TIC odpoveď bola opäť orezaná po 29. 10. Z mesta: nové články od posledného behu nepribudli v prvej štvorici. Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je z 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -70,16 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Dobročinná burza kníh",
-        "date": "2026-10-24",
-        "day": "24",
-        "month": "Október",
-        "time": "10:00",
-        "venue": "Centrum voľného času, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dobrocinna-burza-knih-3/"
-      },
       {
         "name": "Korčuľovanie pre verejnosť",
         "date": "2026-10-25",

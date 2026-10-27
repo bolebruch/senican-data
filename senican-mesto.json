@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-25T06:00:00+02:00",
-    "generated_for_date": "2026-10-25",
+    "generated_at": "2026-10-26T22:21:00+02:00",
+    "generated_for_date": "2026-10-26",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 25. 10. 2026. TIC REST API aj senica.sk dostupne. Podujatia: 6 z TIC API, 2 z senica.sk (Čítaníčko, Prezentácia knihy) + Pietny akt a Dušičkové prázdniny sú v oboch zdrojoch; filmové premietania (Kino Mladosť) vynechané; TIC odpoveď bola opäť orezaná po 29. 10. Z mesta: nové články od posledného behu nepribudli v prvej štvorici. Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je z 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
+    "note": "BEH 26. 10. 2026. TIC REST API dostupne (odpoved orezana po 30. 10.), senica.sk Pozvanky dostupne. Podujatia: 8 z TIC API, 1 zo senica.sk (Prezentacia knihy); filmove premietania (Kino Mladost) vynechane. Z mesta: bez novych clankov. Servis: dopravne polozky ends 31. 10. ostavaju aktivne, najnovsi clanok o odstavkach elektriny je zo 4. 9. (expirovany). Transparentnost: zoznam VZN sa nepodarilo nacitat (client_error), ponechane predchadzajuce VZN; MsZ bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,16 +71,6 @@
     ],
     "items": [
       {
-        "name": "Korčuľovanie pre verejnosť",
-        "date": "2026-10-25",
-        "day": "25",
-        "month": "Október",
-        "time": "15:00",
-        "venue": "Zimný štadión Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/korculovanie-pre-verejnost-zimny-stadion-90/"
-      },
-      {
         "name": "Dračia rozprávka",
         "date": "2026-10-27",
         "day": "27",
@@ -98,7 +88,17 @@
         "time": "09:30",
         "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10681-citanicko-pre-najmensich"
+        "source_url": "https://ticsenica.sk/podujatie/citanicko-pre-najmensich-12/"
+      },
+      {
+        "name": "Relax cvičenie",
+        "date": "2026-10-28",
+        "day": "28",
+        "month": "Október",
+        "time": "10:00",
+        "venue": "Záhorské osvetové stredisko, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-15/"
       },
       {
         "name": "Akt kladenia vencov",
@@ -121,6 +121,16 @@
         "source_url": "https://ticsenica.sk/podujatie/rozpravkove-domceky-4/"
       },
       {
+        "name": "Jesenný prázdninový tábor",
+        "date": "2026-10-29",
+        "day": "29",
+        "month": "Október",
+        "time": "08:00",
+        "venue": "Centrum voľného času, Sadová 646/8, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/jesenny-prazdninovy-tabor/"
+      },
+      {
         "name": "Dušičkové prázdniny so starými rodičmi",
         "date": "2026-10-29",
         "day": "29",
@@ -128,7 +138,7 @@
         "time": "10:00",
         "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/dusickove-prazdniny-so-starymi-rodicmi"
+        "source_url": "https://ticsenica.sk/podujatie/dusickove-prazdniny-so-starymi-rodicmi/"
       },
       {
         "name": "Pietny akt spomienky na zosnulých",
@@ -138,7 +148,7 @@
         "time": "16:00",
         "venue": "Dom smútku, Senica",
         "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/10666-pietny-akt-spomienky-na-zosnulych"
+        "source_url": "https://ticsenica.sk/podujatie/pietny-akt-spomienky-na-zosnulych/"
       },
       {
         "name": "Prezentácia knihy Novomeský & Horváth - zo Senice do sveta",

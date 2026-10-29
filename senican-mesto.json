@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-26T22:21:00+02:00",
-    "generated_for_date": "2026-10-26",
+    "generated_at": "2026-10-28T11:30:00+02:00",
+    "generated_for_date": "2026-10-28",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 26. 10. 2026. TIC REST API dostupne (odpoved orezana po 30. 10.), senica.sk Pozvanky dostupne. Podujatia: 8 z TIC API, 1 zo senica.sk (Prezentacia knihy); filmove premietania (Kino Mladost) vynechane. Z mesta: bez novych clankov. Servis: dopravne polozky ends 31. 10. ostavaju aktivne, najnovsi clanok o odstavkach elektriny je zo 4. 9. (expirovany). Transparentnost: zoznam VZN sa nepodarilo nacitat (client_error), ponechane predchadzajuce VZN; MsZ bez zmeny.",
+    "note": "BEH 28. 10. 2026 (druhý beh dňa). Podujatia: 8 z TIC API, 1 zo senica.sk (Prezentácia knihy); filmové premietania (Kino Mladosť) vynechané, opakované korčuľovanie a Angličtina pre seniorov vynechané. Z mesta: 4 najnovšie články z 27.–28. 10. Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je zo 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Voľby 24. októbra: kedy a s čím prísť do volebnej miestnosti",
-        "summary": "V sobotu sa v Senici volí zároveň do zastupiteľstva a na post primátora aj do Trnavského samosprávneho kraja. Volebné miestnosti sú otvorené od 7:00 do 20:00 a treba mať platný občiansky preukaz.",
-        "date": "2026-10-21",
-        "date_label": "21. 10. 2026",
+        "headline": "Mesto sa ohradilo voči článku o financovaní senického futbalu",
+        "summary": "Mesto reaguje na text portálu ttkraj.sk, ktorý vychádza z septembrovej interpelácie poslanca Dušana Podmajerského. Podľa mesta je téma podaná jednostranne a bez všetkých dostupných informácií.",
+        "date": "2026-10-28",
+        "date_label": "28. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/informacie-k-volbam-24-oktobra-2026"
+        "source_url": "https://senica.sk/clanok/financovanie-senickeho-futbalu-je-v-poriadku"
       },
       {
-        "headline": "Deviataci sa dozvedeli, ako sa chrániť pred obchodovaním s ľuďmi",
-        "summary": "Prevenciu pre deviatakov zo senických základných škôl pripravila trnavská informačná kancelária pre pomoc obetiam trestných činov. Zamerala sa na riziká, ktoré mladým hrozia na sociálnych sieťach a online.",
-        "date": "2026-10-21",
-        "date_label": "21. 10. 2026",
+        "headline": "Pri pamätníku prvej republiky si pripomenuli 108 rokov od vzniku ČSR",
+        "summary": "Zástupcovia mesta, kraja, okresného úradu, škôl a Študentského parlamentu sa stretli pri pamätníku v parku pri ZUŠ. Primátor pripomenul aj osobnosti spojené so Senicou, ako Ľudovíta Šimka a Cyrila Kresáka.",
+        "date": "2026-10-28",
+        "date_label": "28. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/prevencia-obchodovania-s-ludmi-pre-senickych-deviatakov"
+        "source_url": "https://senica.sk/clanok/pripomenuli-sme-si-108-vyrocie-vzniku-csr"
       },
       {
-        "headline": "Dušičky bez zbytočného odpadu: mesto radí, ako na cintorín ekologickejšie",
-        "summary": "Vence, kahance a sviečky sa po pár dňoch menia na odpad, preto sa odporúčajú trvácnejšie dekorácie a poriadne triedenie. Pietny akt spomienky na zosnulých bude 29. októbra v Dome smútku.",
-        "date": "2026-10-20",
-        "date_label": "20. 10. 2026",
+        "headline": "Škôlka U veselého šaša má nový náučný záhon",
+        "summary": "Projekt z participatívneho rozpočtu získal v obvode č. 4 najviac hlasov a škôlka dostala 2 000 eur. Pri vstupe pribudli trvalky, aj liečivé, obrubník a tabuľky s názvami rastlín.",
+        "date": "2026-10-27",
+        "date_label": "27. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/dusicky-s-ohladom-na-zivotne-prostredie"
+        "source_url": "https://senica.sk/clanok/u-veseleho-sasa-maju-novy-edukativny-zahon"
       },
       {
-        "headline": "Škôlkari a školáci sa učili prvú pomoc",
-        "summary": "Mládež Červeného kríža pri príležitosti Svetového dňa záchrany života ukázala deťom obväzovanie, masáž srdca aj použitie defibrilátora. Projekt Krížko skončil druhý v participatívnom rozpočte pre mladých.",
-        "date": "2026-10-19",
-        "date_label": "19. 10. 2026",
+        "headline": "Senickí dôchodcovia oslávili jubilantov",
+        "summary": "Mestská organizácia Jednoty dôchodcov Slovenska sa v utorok stretla na slávnostnom posedení pre členov s tohtoročným výročím. Zablahoželali im primátor aj vedúca odboru sociálnych vecí, kultúry a športu.",
+        "date": "2026-10-27",
+        "date_label": "27. 10. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/deti-a-mladych-ucia-poskytnut-prvu-pomoc"
+        "source_url": "https://senica.sk/clanok/jubilanti-z-jds-oslavovali"
       }
     ]
   },
@@ -71,32 +71,12 @@
     ],
     "items": [
       {
-        "name": "Dračia rozprávka",
-        "date": "2026-10-27",
-        "day": "27",
-        "month": "Október",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dracia-rozpravka-4/"
-      },
-      {
-        "name": "Čítaníčko pre najmenších",
-        "date": "2026-10-27",
-        "day": "27",
-        "month": "Október",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/citanicko-pre-najmensich-12/"
-      },
-      {
         "name": "Relax cvičenie",
         "date": "2026-10-28",
         "day": "28",
         "month": "Október",
         "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Šport",
         "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-15/"
       },
@@ -116,19 +96,9 @@
         "day": "28",
         "month": "Október",
         "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Senica",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/rozpravkove-domceky-4/"
-      },
-      {
-        "name": "Jesenný prázdninový tábor",
-        "date": "2026-10-29",
-        "day": "29",
-        "month": "Október",
-        "time": "08:00",
-        "venue": "Centrum voľného času, Sadová 646/8, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/jesenny-prazdninovy-tabor/"
       },
       {
         "name": "Dušičkové prázdniny so starými rodičmi",
@@ -136,7 +106,7 @@
         "day": "29",
         "month": "Október",
         "time": "10:00",
-        "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/dusickove-prazdniny-so-starymi-rodicmi/"
       },
@@ -146,9 +116,19 @@
         "day": "29",
         "month": "Október",
         "time": "16:00",
-        "venue": "Dom smútku, Senica",
+        "venue": "Dom smútku, Brezová 872/2, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/pietny-akt-spomienky-na-zosnulych/"
+      },
+      {
+        "name": "Diela akčných, konceptuálnych a postkonceptuálnych umelcov",
+        "date": "2026-10-30",
+        "day": "30",
+        "month": "Október",
+        "time": "09:00",
+        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/diela-akcnych-konceptualnych-a-postkonceptualnych-umelcov/"
       },
       {
         "name": "Prezentácia knihy Novomeský & Horváth - zo Senice do sveta",
@@ -159,6 +139,26 @@
         "venue": "DAV, seminárna hala, Senica",
         "category": "Kultúra",
         "source_url": "https://senica.sk/clanok/prezentacia-knihy-novomesky-horvath-zo-senice-do-sveta"
+      },
+      {
+        "name": "Tvorivá sobota",
+        "date": "2026-10-31",
+        "day": "31",
+        "month": "Október",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/tvoriva-sobota-2/"
+      },
+      {
+        "name": "Záhorácka doska – Chrobák v hlave",
+        "date": "2026-10-31",
+        "day": "31",
+        "month": "Október",
+        "time": "18:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-chrobak-v-hlave/"
       }
     ]
   },

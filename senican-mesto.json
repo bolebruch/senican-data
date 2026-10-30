@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-28T11:30:00+02:00",
-    "generated_for_date": "2026-10-28",
+    "generated_at": "2026-10-29T21:08:00+02:00",
+    "generated_for_date": "2026-10-29",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 28. 10. 2026 (druhý beh dňa). Podujatia: 8 z TIC API, 1 zo senica.sk (Prezentácia knihy); filmové premietania (Kino Mladosť) vynechané, opakované korčuľovanie a Angličtina pre seniorov vynechané. Z mesta: 4 najnovšie články z 27.–28. 10. Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je zo 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
+    "note": "BEH 29. 10. 2026. Podujatia: 9 z TIC API, 0 zo senica.sk (Pozvánky sú duplicitné s TIC alebo neskoršie); filmové premietania (Kino Mladosť) a opakované korčuľovanie vynechané. Z mesta: bez nových článkov oproti predchádzajúcemu behu. Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je zo 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,34 +71,14 @@
     ],
     "items": [
       {
-        "name": "Relax cvičenie",
-        "date": "2026-10-28",
-        "day": "28",
+        "name": "Jesenný prázdninový tábor",
+        "date": "2026-10-29",
+        "day": "29",
         "month": "Október",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-15/"
-      },
-      {
-        "name": "Akt kladenia vencov",
-        "date": "2026-10-28",
-        "day": "28",
-        "month": "Október",
-        "time": "10:00",
-        "venue": "Námestie oslobodenia, Senica",
+        "time": "08:00",
+        "venue": "Centrum voľného času, Sadová 646/8, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/akt-kladenia-vencov/"
-      },
-      {
-        "name": "Rozprávkové domčeky",
-        "date": "2026-10-28",
-        "day": "28",
-        "month": "Október",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/rozpravkove-domceky-4/"
+        "source_url": "https://ticsenica.sk/podujatie/jesenny-prazdninovy-tabor/"
       },
       {
         "name": "Dušičkové prázdniny so starými rodičmi",
@@ -136,9 +116,9 @@
         "day": "30",
         "month": "Október",
         "time": "15:00",
-        "venue": "DAV, seminárna hala, Senica",
+        "venue": "DAV horná sála, Sadová 641/18, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/prezentacia-knihy-novomesky-horvath-zo-senice-do-sveta"
+        "source_url": "https://ticsenica.sk/podujatie/prezentacia-knihy-novomesky-horvath-zo-senice-do-sveta/"
       },
       {
         "name": "Tvorivá sobota",
@@ -151,14 +131,34 @@
         "source_url": "https://ticsenica.sk/podujatie/tvoriva-sobota-2/"
       },
       {
-        "name": "Záhorácka doska – Chrobák v hlave",
+        "name": "Futbalový klub Senica – TJ Spartak Kvašov",
         "date": "2026-10-31",
         "day": "31",
         "month": "Október",
-        "time": "18:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "time": "14:00",
+        "venue": "Futbalový štadión Senica, Sadová ulica, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/futbalovy-klub-senica-tj-spartak-kvasov/"
+      },
+      {
+        "name": "Timravina studnička",
+        "date": "2026-11-03",
+        "day": "3",
+        "month": "November",
+        "time": "09:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/timravina-studnicka-3/"
+      },
+      {
+        "name": "Anton Srholec a jeho priatelia (výstava do 25. 11.)",
+        "date": "2026-11-05",
+        "day": "5",
+        "month": "November",
+        "time": null,
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-chrobak-v-hlave/"
+        "source_url": "https://ticsenica.sk/podujatie/anton-srholec-a-jeho-priatelia/"
       }
     ]
   },

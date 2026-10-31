@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-29T21:08:00+02:00",
-    "generated_for_date": "2026-10-29",
+    "generated_at": "2026-10-30T06:00:00+02:00",
+    "generated_for_date": "2026-10-30",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 29. 10. 2026. Podujatia: 9 z TIC API, 0 zo senica.sk (Pozvánky sú duplicitné s TIC alebo neskoršie); filmové premietania (Kino Mladosť) a opakované korčuľovanie vynechané. Z mesta: bez nových článkov oproti predchádzajúcemu behu. Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je zo 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
+    "note": "BEH 30. 10. 2026. Podujatia: 8 z TIC API, 0 zo senica.sk (Pozvánky duplicitné s TIC; pozvánka Drony 6. 11. bez uvedeného miesta/času vynechaná); filmové premietania (Kino Mladosť) a opakované korčuľovanie vynechané. Z mesta: nový článok o objemnom odpade (30. 10.). Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je zo 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Za rok sa pri objemnom odpade vyzbieralo takmer 48 ton",
+        "summary": "Tretí a posledný tohtoročný zvoz objemného odpadu priniesol 14,42 tony, za celý rok je to 47,98 tony. Kto zvoz zmeškal, môže odpad zdarma odovzdať v zbernom dvore počas otváracích hodín.",
+        "date": "2026-10-30",
+        "date_label": "30. 10. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/za-rok-odviezli-takmer-50-ton-odpadu"
+      },
       {
         "headline": "Mesto sa ohradilo voči článku o financovaní senického futbalu",
         "summary": "Mesto reaguje na text portálu ttkraj.sk, ktorý vychádza z septembrovej interpelácie poslanca Dušana Podmajerského. Podľa mesta je téma podaná jednostranne a bez všetkých dostupných informácií.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/u-veseleho-sasa-maju-novy-edukativny-zahon"
-      },
-      {
-        "headline": "Senickí dôchodcovia oslávili jubilantov",
-        "summary": "Mestská organizácia Jednoty dôchodcov Slovenska sa v utorok stretla na slávnostnom posedení pre členov s tohtoročným výročím. Zablahoželali im primátor aj vedúca odboru sociálnych vecí, kultúry a športu.",
-        "date": "2026-10-27",
-        "date_label": "27. 10. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/jubilanti-z-jds-oslavovali"
       }
     ]
   },
@@ -70,36 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Jesenný prázdninový tábor",
-        "date": "2026-10-29",
-        "day": "29",
-        "month": "Október",
-        "time": "08:00",
-        "venue": "Centrum voľného času, Sadová 646/8, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/jesenny-prazdninovy-tabor/"
-      },
-      {
-        "name": "Dušičkové prázdniny so starými rodičmi",
-        "date": "2026-10-29",
-        "day": "29",
-        "month": "Október",
-        "time": "10:00",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dusickove-prazdniny-so-starymi-rodicmi/"
-      },
-      {
-        "name": "Pietny akt spomienky na zosnulých",
-        "date": "2026-10-29",
-        "day": "29",
-        "month": "Október",
-        "time": "16:00",
-        "venue": "Dom smútku, Brezová 872/2, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/pietny-akt-spomienky-na-zosnulych/"
-      },
       {
         "name": "Diela akčných, konceptuálnych a postkonceptuálnych umelcov",
         "date": "2026-10-30",
@@ -139,6 +109,26 @@
         "venue": "Futbalový štadión Senica, Sadová ulica, Senica",
         "category": "Šport",
         "source_url": "https://ticsenica.sk/podujatie/futbalovy-klub-senica-tj-spartak-kvasov/"
+      },
+      {
+        "name": "Záhorácka doska – Chrobák v hlave",
+        "date": "2026-10-31",
+        "day": "31",
+        "month": "Október",
+        "time": "18:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-chrobak-v-hlave/"
+      },
+      {
+        "name": "Ženské kruhy s nápárkou",
+        "date": "2026-10-31",
+        "day": "31",
+        "month": "Október",
+        "time": "18:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/zenske-kruhy-s-naparkou/"
       },
       {
         "name": "Timravina studnička",

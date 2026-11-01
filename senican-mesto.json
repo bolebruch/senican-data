@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-10-30T06:00:00+02:00",
-    "generated_for_date": "2026-10-30",
+    "generated_at": "2026-10-31T06:00:00+02:00",
+    "generated_for_date": "2026-10-31",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 30. 10. 2026. Podujatia: 8 z TIC API, 0 zo senica.sk (Pozvánky duplicitné s TIC; pozvánka Drony 6. 11. bez uvedeného miesta/času vynechaná); filmové premietania (Kino Mladosť) a opakované korčuľovanie vynechané. Z mesta: nový článok o objemnom odpade (30. 10.). Servis: dopravné položky ends 31. 10. ostávajú aktívne, najnovší článok o odstávkach elektriny je zo 4. 9. (expirovaný). Transparentnosť: bez zmeny.",
+    "note": "BEH 31. 10. 2026. Podujatia: 7 z TIC API, 2 zo senica.sk Pozvánky (Martinské svetlonosenie 7. 11., Martinské posedenie pri heligónke 8. 11. — miesto a čas v článkoch neuvedené, ostávajú null); filmové premietania (Kino Mladosť) a opakované korčuľovanie vynechané; pozvánka Drony 6. 11. bez miesta/času vynechaná. Z mesta: bez zmeny oproti 30. 10. Servis: dopravné položky ends 31. 10. ostávajú aktívne (posledný deň); najnovší článok o odstávkach elektriny (október 2026) je expirovaný. Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,26 +71,6 @@
     ],
     "items": [
       {
-        "name": "Diela akčných, konceptuálnych a postkonceptuálnych umelcov",
-        "date": "2026-10-30",
-        "day": "30",
-        "month": "Október",
-        "time": "09:00",
-        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/diela-akcnych-konceptualnych-a-postkonceptualnych-umelcov/"
-      },
-      {
-        "name": "Prezentácia knihy Novomeský & Horváth - zo Senice do sveta",
-        "date": "2026-10-30",
-        "day": "30",
-        "month": "Október",
-        "time": "15:00",
-        "venue": "DAV horná sála, Sadová 641/18, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/prezentacia-knihy-novomesky-horvath-zo-senice-do-sveta/"
-      },
-      {
         "name": "Tvorivá sobota",
         "date": "2026-10-31",
         "day": "31",
@@ -121,7 +101,7 @@
         "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-chrobak-v-hlave/"
       },
       {
-        "name": "Ženské kruhy s nápárkou",
+        "name": "Ženské kruhy s náparkou",
         "date": "2026-10-31",
         "day": "31",
         "month": "Október",
@@ -141,6 +121,16 @@
         "source_url": "https://ticsenica.sk/podujatie/timravina-studnicka-3/"
       },
       {
+        "name": "Klub Podporka",
+        "date": "2026-11-03",
+        "day": "3",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Denné centrum Senica, SNP 784, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-18/"
+      },
+      {
         "name": "Anton Srholec a jeho priatelia (výstava do 25. 11.)",
         "date": "2026-11-05",
         "day": "5",
@@ -149,6 +139,26 @@
         "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/anton-srholec-a-jeho-priatelia/"
+      },
+      {
+        "name": "Martinské svetlonosenie",
+        "date": "2026-11-07",
+        "day": "7",
+        "month": "November",
+        "time": null,
+        "venue": null,
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10670-martinske-svetlonosenie"
+      },
+      {
+        "name": "Martinské posedenie pri heligónke",
+        "date": "2026-11-08",
+        "day": "8",
+        "month": "November",
+        "time": null,
+        "venue": null,
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/10747-martinske-posedenie-pri-heligonke"
       }
     ]
   },

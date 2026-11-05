@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-03T06:00:00+02:00",
-    "generated_for_date": "2026-11-03",
+    "generated_at": "2026-11-04T06:00:00+02:00",
+    "generated_for_date": "2026-11-04",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 3. 11. 2026. Podujatia: 9 z TIC API (senica.sk Pozvánky sú všetky v TIC, bez doplnku); filmové premietania (Kino Mladosť) a zrušené predstavenie vynechané. Z mesta: pribudol článok o pocitovej mape dopravy z 3. 11., najstarší (110. výročie ČSR) vypadol. Servis: najnovší článok o odstávkach (október 2026) je expirovaný, items prázdne. Transparentnosť: bez zmeny.",
+    "note": "BEH 4. 11. 2026. Podujatia: 9 z TIC API (senica.sk Pozvánky bez nového doplnku mimo TIC); filmové premietania (Kino Mladosť, vrátane Santovej čarovnej dielne) a zrušené predstavenie vynechané; API odpoveď sa dala prečítať len po 15. záznam (do 7. 11.). Z mesta: kategória spravodajstvo bez novších článkov než v predchádzajúcom behu (zdrojový zoznam mohol byť zastaralý). Servis: žiadna aktívna odstávka (všetky články expirované), items prázdne. Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,36 +71,6 @@
     ],
     "items": [
       {
-        "name": "Timravina studnička",
-        "date": "2026-11-03",
-        "day": "3",
-        "month": "November",
-        "time": "09:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/timravina-studnicka-3/"
-      },
-      {
-        "name": "Klub Podporka",
-        "date": "2026-11-03",
-        "day": "3",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Denné centrum Senica, SNP 784, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-18/"
-      },
-      {
-        "name": "Relax cvičenie",
-        "date": "2026-11-04",
-        "day": "4",
-        "month": "November",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-15/"
-      },
-      {
         "name": "Pletko stretko",
         "date": "2026-11-04",
         "day": "4",
@@ -159,6 +129,36 @@
         "venue": "Galéria v podkroví ZUŠ, Vajanského 27/4, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/plener-velke-pavlovice/"
+      },
+      {
+        "name": "SWAP oblečenia",
+        "date": "2026-11-07",
+        "day": "7",
+        "month": "November",
+        "time": "09:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/swap-oblecenia-2/"
+      },
+      {
+        "name": "TriKáčko – komunitný knižný klub",
+        "date": "2026-11-07",
+        "day": "7",
+        "month": "November",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/trikacko-komunitny-knizny-klub-10/"
+      },
+      {
+        "name": "Martinské svetlonosenie",
+        "date": "2026-11-07",
+        "day": "7",
+        "month": "November",
+        "time": "13:00",
+        "venue": "Námestie oslobodenia, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/martinske-svetlonosenie-3/"
       }
     ]
   },

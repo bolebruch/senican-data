@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-04T06:00:00+02:00",
-    "generated_for_date": "2026-11-04",
+    "generated_at": "2026-11-05T06:00:00+02:00",
+    "generated_for_date": "2026-11-05",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 4. 11. 2026. Podujatia: 9 z TIC API (senica.sk Pozvánky bez nového doplnku mimo TIC); filmové premietania (Kino Mladosť, vrátane Santovej čarovnej dielne) a zrušené predstavenie vynechané; API odpoveď sa dala prečítať len po 15. záznam (do 7. 11.). Z mesta: kategória spravodajstvo bez novších článkov než v predchádzajúcom behu (zdrojový zoznam mohol byť zastaralý). Servis: žiadna aktívna odstávka (všetky články expirované), items prázdne. Transparentnosť: bez zmeny.",
+    "note": "BEH 5. 11. 2026. Podujatia: 9 z TIC API (odpoveď sa dala prečítať len po 15. záznam, do 8. 11.); filmové premietania (Kino Mladosť) a zrušené predstavenie Záhorácka deska vynechané; senica.sk Pozvánky (Deň červených makov 11. 11., vernisáž J. Hajdinovej 11. 11., Halloweenská noc 13. 11.) sa pre limit počtu položiek nezmestili. Z mesta: 4 najnovšie zo Spravodajstva. Servis: 2 plánované odstávky elektriny (25.–26. 11. a 1. 12.), októbrová expirovaná. Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Mesto hľadá nového šéfa finančného oddelenia",
+        "summary": "Radnica vyhlásila výberové konanie na miesto vedúcej alebo vedúceho finančného oddelenia. Prihlášky treba doručiť do 25. novembra do 12:00.",
+        "date": "2026-11-05",
+        "date_label": "5. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/hladame-veducu-veduceho-financneho-oddelenia"
+      },
       {
         "headline": "Seničania označili na pocitovej mape takmer 8 800 dopravných bodov",
         "summary": "Online mapa v rámci cezhraničného projektu o cyklomobilite zozbierala body k ôsmim témam dopravy. Najviac sa ich sústredilo v centre – pri križovatkách pri Lidli a na Hurbanovej, pri prvej základnej škole a pri autobusovej stanici.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/za-rok-odviezli-takmer-50-ton-odpadu"
-      },
-      {
-        "headline": "Mesto sa ohradilo voči článku o financovaní senického futbalu",
-        "summary": "Mesto reaguje na text portálu ttkraj.sk, ktorý vychádza z septembrovej interpelácie poslanca Dušana Podmajerského. Podľa mesta je téma podaná jednostranne a bez všetkých dostupných informácií.",
-        "date": "2026-10-28",
-        "date_label": "28. 10. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/financovanie-senickeho-futbalu-je-v-poriadku"
       }
     ]
   },
@@ -63,103 +63,17 @@
     "subtitle": "Nadchádzajúce podujatia zoradené podľa dátumu. Filtruj podľa toho, čo ťa zaujíma.",
     "attribution": "Zdroj: TIC Senica a mesto Senica · Pozvánky (senica.sk)",
     "attribution_url": "https://senica.sk/kategoria/pozvanky",
-    "filters": [
-      "Všetko",
-      "Kultúra",
-      "Šport",
-      "Komunita"
-    ],
+    "filters": ["Všetko", "Kultúra", "Šport", "Komunita"],
     "items": [
-      {
-        "name": "Pletko stretko",
-        "date": "2026-11-04",
-        "day": "4",
-        "month": "November",
-        "time": "15:00",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/pletko-stretko-11/"
-      },
-      {
-        "name": "Anton Srholec a jeho priatelia (výstava do 25. 11.)",
-        "date": "2026-11-05",
-        "day": "5",
-        "month": "November",
-        "time": "07:30",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/anton-srholec-a-jeho-priatelia/"
-      },
-      {
-        "name": "Novembrový workshop",
-        "date": "2026-11-05",
-        "day": "5",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop/"
-      },
-      {
-        "name": "Spevavé básničky pre malé deťičky",
-        "date": "2026-11-06",
-        "day": "6",
-        "month": "November",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/spevave-basnicky-pre-male-deticky-4/"
-      },
-      {
-        "name": "Prednáška Michala Svítoka: Drony – lietanie, pravidlá a fotografovanie z výšky",
-        "date": "2026-11-06",
-        "day": "6",
-        "month": "November",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/prednaska-mgr-art-michala-svitoka-s-tematikou-drony-lietanie-pravidla-a-fotografovanie-z-vysky/"
-      },
-      {
-        "name": "Plenér Veľké Pavlovice (výstava do 4. 12.)",
-        "date": "2026-11-06",
-        "day": "6",
-        "month": "November",
-        "time": "17:00",
-        "venue": "Galéria v podkroví ZUŠ, Vajanského 27/4, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/plener-velke-pavlovice/"
-      },
-      {
-        "name": "SWAP oblečenia",
-        "date": "2026-11-07",
-        "day": "7",
-        "month": "November",
-        "time": "09:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/swap-oblecenia-2/"
-      },
-      {
-        "name": "TriKáčko – komunitný knižný klub",
-        "date": "2026-11-07",
-        "day": "7",
-        "month": "November",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/trikacko-komunitny-knizny-klub-10/"
-      },
-      {
-        "name": "Martinské svetlonosenie",
-        "date": "2026-11-07",
-        "day": "7",
-        "month": "November",
-        "time": "13:00",
-        "venue": "Námestie oslobodenia, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/martinske-svetlonosenie-3/"
-      }
+      {"name": "Anton Srholec a jeho priatelia (výstava do 25. 11.)", "date": "2026-11-05", "day": "5", "month": "November", "time": "07:30", "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica", "category": "Kultúra", "source_url": "https://ticsenica.sk/podujatie/anton-srholec-a-jeho-priatelia/"},
+      {"name": "Dušičkový lampášik", "date": "2026-11-05", "day": "5", "month": "November", "time": "08:00", "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica", "category": "Komunita", "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik/"},
+      {"name": "Novembrový workshop", "date": "2026-11-05", "day": "5", "month": "November", "time": "16:00", "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica", "category": "Komunita", "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop/"},
+      {"name": "Spevavé básničky pre malé deťičky", "date": "2026-11-06", "day": "6", "month": "November", "time": "09:30", "venue": "Záhorská knižnica, Vajanského 28, Senica", "category": "Kultúra", "source_url": "https://ticsenica.sk/podujatie/spevave-basnicky-pre-male-deticky-4/"},
+      {"name": "Prednáška Michala Svítoka: Drony – lietanie, pravidlá a fotografovanie z výšky", "date": "2026-11-06", "day": "6", "month": "November", "time": "17:00", "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica", "category": "Komunita", "source_url": "https://ticsenica.sk/podujatie/prednaska-mgr-art-michala-svitoka-s-tematikou-drony-lietanie-pravidla-a-fotografovanie-z-vysky/"},
+      {"name": "Plenér Veľké Pavlovice (výstava do 4. 12.)", "date": "2026-11-06", "day": "6", "month": "November", "time": "17:00", "venue": "Galéria v podkroví ZUŠ, Vajanského 27/4, Senica", "category": "Kultúra", "source_url": "https://ticsenica.sk/podujatie/plener-velke-pavlovice/"},
+      {"name": "SWAP oblečenia", "date": "2026-11-07", "day": "7", "month": "November", "time": "09:00", "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica", "category": "Komunita", "source_url": "https://ticsenica.sk/podujatie/swap-oblecenia-2/"},
+      {"name": "TriKáčko – komunitný knižný klub", "date": "2026-11-07", "day": "7", "month": "November", "time": "09:30", "venue": "Záhorská knižnica, Vajanského 28, Senica", "category": "Komunita", "source_url": "https://ticsenica.sk/podujatie/trikacko-komunitny-knizny-klub-10/"},
+      {"name": "Martinské svetlonosenie", "date": "2026-11-07", "day": "7", "month": "November", "time": "13:00", "venue": "Múzeum Senica, Štefánikova 724/20, Senica", "category": "Kultúra", "source_url": "https://ticsenica.sk/podujatie/martinske-svetlonosenie-3/"}
     ]
   },
   "servis": {
@@ -168,7 +82,34 @@
     "attribution": "Zdroj: senica.sk",
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
-    "items": []
+    "items": [
+      {
+        "type": "elektrina",
+        "what": "Odstávka elektrickej energie – plánované práce na distribučnej sústave",
+        "where": "25. 11.: ŠTEFÁNIKOVA č. 54, 75, 75/x, 81, 3781/1, 75/BL; 26. 11.: LOKA IBV MLYN č. 3787/57; SLNEČNÁ č. 17, 3787/58, 3787/80, 3787/81, 3787/370; SOTINSKÁ č. 3787/59",
+        "when": "25. 11. 2026 od 08:00 do 15:00 hod.; 26. 11. 2026 od 07:30 do 15:00 hod.",
+        "starts": "2026-11-25",
+        "ends": "2026-11-26",
+        "status": "plánovaná",
+        "provider": "Západoslovenská distribučná, a. s.",
+        "note": null,
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-november-2026"
+      },
+      {
+        "type": "elektrina",
+        "what": "Odstávka elektrickej energie – plánované práce na distribučnej sústave",
+        "where": "KUNOV č. 139, 140, 162/BL, 250, 348; LOKA ZÁHRADY 1. č. 14/ZA",
+        "when": "1. 12. 2026 od 08:00 do 14:30 hod.",
+        "starts": "2026-12-01",
+        "ends": "2026-12-01",
+        "status": "plánovaná",
+        "provider": "Západoslovenská distribučná, a. s.",
+        "note": null,
+        "badge": "Servis",
+        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-december-2026"
+      }
+    ]
   },
   "transparentnost": {
     "title": "Transparentnosť a zastupiteľstvo",
@@ -177,66 +118,11 @@
     "attribution_url": "https://senica.sk/esam/uznesenia-a-zapisnice-mestkeho-zastupitelstva",
     "badge": "Úradné",
     "items": [
-      {
-        "title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
-        "type": "Záznam MsZ",
-        "date": "2026-09-28",
-        "date_label": "28. 9. 2026",
-        "status": null,
-        "source_url": "https://senica.sk/clanok/27-zasadnutie-msz",
-        "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10638-1.pdf",
-          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10638-1.pdf",
-          "video": "https://www.youtube.com/embed/H8jof-eSswI"
-        }
-      },
-      {
-        "title": "26. zasadnutie MsZ — zápisnica a videozáznam",
-        "type": "Záznam MsZ",
-        "date": "2026-09-10",
-        "date_label": "10. 9. 2026",
-        "status": null,
-        "source_url": "https://senica.sk/clanok/26-zasadnutie-msz",
-        "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10592-1.pdf",
-          "video": "https://www.youtube.com/embed/on-8ZfXcdUw"
-        }
-      },
-      {
-        "title": "25. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
-        "type": "Záznam MsZ",
-        "date": "2026-06-26",
-        "date_label": "26. 6. 2026",
-        "status": null,
-        "source_url": "https://senica.sk/clanok/10396-25-zasadnutie-msz",
-        "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10396-1.pdf",
-          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10396-1.pdf",
-          "video": "https://www.youtube.com/embed/fwG-Ba4RM9E"
-        }
-      },
-      {
-        "title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica",
-        "type": "VZN",
-        "date": "2026-07-09",
-        "date_label": "účinné od 9. 7. 2026",
-        "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica",
-        "extra_links": {
-          "vzn_pdf": "https://senica.sk/data/component_file/100/10395/f2749.pdf"
-        }
-      },
-      {
-        "title": "VZN č. 92/2026 — O podmienkach nakladania s nájomnými bytmi v bytovom dome súpisné č. 734 na ul. J. Kráľa v meste Senica",
-        "type": "VZN",
-        "date": "2026-02-27",
-        "date_label": "účinné od 27. 2. 2026",
-        "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica",
-        "extra_links": {
-          "vzn_pdf": "https://senica.sk/data/component_file/100/9991/f2689.pdf"
-        }
-      }
+      {"title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam", "type": "Záznam MsZ", "date": "2026-09-28", "date_label": "28. 9. 2026", "status": null, "source_url": "https://senica.sk/clanok/27-zasadnutie-msz", "extra_links": {"zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10638-1.pdf", "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10638-1.pdf", "video": "https://www.youtube.com/embed/H8jof-eSswI"}},
+      {"title": "26. zasadnutie MsZ — zápisnica a videozáznam", "type": "Záznam MsZ", "date": "2026-09-10", "date_label": "10. 9. 2026", "status": null, "source_url": "https://senica.sk/clanok/26-zasadnutie-msz", "extra_links": {"zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10592-1.pdf", "video": "https://www.youtube.com/embed/on-8ZfXcdUw"}},
+      {"title": "25. zasadnutie MsZ — zápisnica, hlasovania a videozáznam", "type": "Záznam MsZ", "date": "2026-06-26", "date_label": "26. 6. 2026", "status": null, "source_url": "https://senica.sk/clanok/10396-25-zasadnutie-msz", "extra_links": {"zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10396-1.pdf", "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10396-1.pdf", "video": "https://www.youtube.com/embed/fwG-Ba4RM9E"}},
+      {"title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica", "type": "VZN", "date": "2026-07-09", "date_label": "účinné od 9. 7. 2026", "status": "účinné", "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica", "extra_links": {"vzn_pdf": "https://senica.sk/data/component_file/100/10395/f2749.pdf"}},
+      {"title": "VZN č. 92/2026 — O podmienkach nakladania s nájomnými bytmi v bytovom dome súpisné č. 734 na ul. J. Kráľa v meste Senica", "type": "VZN", "date": "2026-02-27", "date_label": "účinné od 27. 2. 2026", "status": "účinné", "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica", "extra_links": {"vzn_pdf": "https://senica.sk/data/component_file/100/9991/f2689.pdf"}}
     ]
   }
 }

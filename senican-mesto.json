@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-08T08:00:00+02:00",
-    "generated_for_date": "2026-11-08",
+    "generated_at": "2026-11-09T22:12:00+02:00",
+    "generated_for_date": "2026-11-09",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 8. 11. 2026. Podujatia: 7 z TIC API (stránky 1–3 po 6 záznamov, strany 4+ nečítané; kino a Santova čarovná dielňa v Kine Mladosť vynechané), 2 zo senica.sk Pozvánok (vernisáž J. Hajdinovej, Halloweenská noc); Právna pomoc, Odpadáčik, Klub 60+, Klub Podporka, Tanečné posedenie a haiku sa pre limit nezmestili. Z mesta: bez nového článku od 6. 11. Servis: zoznam odstávok na senica.sk sa nepodarilo načítať čerstvo (cache ukázala len expirované okt./sept./aug.), ponechané 2 plánované odstávky z predošlého behu, ends >= dnes. Transparentnosť: bez zmeny.",
+    "note": "BEH 9. 11. 2026. Podujatia: 7 z TIC API (prvých 17 záznamov, zvyšok odpočtu nečitateľný; kino, Právna pomoc, Odpadáčik, Klub 60+, Klub Podporka, Tanečné posedenie, haiku a Angličtina sa pre limit nezmestili), 2 zo senica.sk Pozvánok (vernisáž J. Hajdinovej, Halloweenská noc). Z mesta: 4 najnovšie zo Spravodajstva. Servis: 2 plánované odstávky elektriny, októbrová expirovala; decembrová doplnená o Loka Brestové. Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,6 +21,33 @@
     "badge": "Z mesta",
     "items": [
       {
+        "headline": "Vlastníci lesa v Závrší sa stretnú na zhromaždení 9. decembra",
+        "summary": "Pozemkové spoločenstvo vlastníkov lesa ZÁVRŠIE zvoláva svojich členov na zhromaždenie. Uskutoční sa 9. decembra o 15:00 vo veľkej zasadačke mestského úradu.",
+        "date": "2026-11-09",
+        "date_label": "9. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/10781-zhromazdenie-pozemkoveho-spolocenstva-vlastnikov-lesa-zavrsie"
+      },
+      {
+        "headline": "Senická farnosť má nový erb, zástavu a pečiatky",
+        "summary": "Rímskokatolícka farnosť Navštívenia Panny Márie dostala nové oficiálne symboly. Požehnali ich pri nedeľnej omši 8. novembra, na sviatok patróna mesta.",
+        "date": "2026-11-09",
+        "date_label": "9. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/nove-symboly-senickej-rimskokatolickej-farnosti-erb-zastava-a-peciatky-uz-maju-pozehnanie"
+      },
+      {
+        "headline": "Martinské svetlonosenie opäť zaplnilo námestie",
+        "summary": "Na sobotný sprievod s lampášmi prišli stovky ľudí. Na Námestí oslobodenia nasledoval od 17:00 kultúrny program, ktorý pripravili MsKS a Záhorské múzeum.",
+        "date": "2026-11-09",
+        "date_label": "9. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/svetlonosenie-opaet-prilakalo-navstevnikov"
+      },
+      {
         "headline": "Pri Lidli opravujú aj druhú stranu chodníka na moste",
         "summary": "Slovenská správa ciest začala druhú etapu opráv chodníkov na moste cez Teplicu a Rovenský potok, tento týždeň na pravej strane od centra. Zákazku za 116 822 eur robí Littlefinger s.r.o.; chodci majú bezpečný prechod pri Kolónii a vodiči by tam mali dodržať 30 km/h.",
         "date": "2026-11-06",
@@ -28,33 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/opravuje-sa-druha-strana-chodnika-pri-lidli"
-      },
-      {
-        "headline": "Mesto hľadá nového šéfa finančného oddelenia",
-        "summary": "Radnica vyhlásila výberové konanie na miesto vedúcej alebo vedúceho finančného oddelenia. Prihlášky treba doručiť do 25. novembra do 12:00.",
-        "date": "2026-11-05",
-        "date_label": "5. 11. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/hladame-veducu-veduceho-financneho-oddelenia"
-      },
-      {
-        "headline": "Seničania označili na pocitovej mape takmer 8 800 dopravných bodov",
-        "summary": "Online mapa v rámci cezhraničného projektu o cyklomobilite zozbierala body k ôsmim témam dopravy. Najviac sa ich sústredilo v centre – pri križovatkách pri Lidli a na Hurbanovej, pri prvej základnej škole a pri autobusovej stanici.",
-        "date": "2026-11-03",
-        "date_label": "3. 11. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/ako-vnimaju-senicania-dopravu-vo-svojom-meste-co-ukazala-pocitova-mapa"
-      },
-      {
-        "headline": "Obchodná akadémia mala deň plný podnikavosti: desať tímov, jeden deň na plán",
-        "summary": "Na súťaži Strate9y Game mali tímy jediný deň na biznis plán a obhajovali ich pred porotou. Vyhral tím BOO BOYS, druhí boli FINANČNÍ ŽRALOCI a tretí HELOUVINSKÍ OBDIVOVATELIA.",
-        "date": "2026-11-02",
-        "date_label": "2. 11. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/oa-senica-den-plny-podnikavosti-a-napadov"
       }
     ]
   },
@@ -70,16 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Martinské posedenie pri heligónke",
-        "date": "2026-11-08",
-        "day": "8",
-        "month": "November",
-        "time": "14:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/martinske-posedenie-pri-heligonke/"
-      },
       {
         "name": "Martinská legenda",
         "date": "2026-11-10",
@@ -151,6 +141,16 @@
         "source_url": "https://ticsenica.sk/podujatie/4-tenori/"
       },
       {
+        "name": "Dušičkový lampášik",
+        "date": "2026-11-12",
+        "day": "12",
+        "month": "November",
+        "time": "08:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik-2/"
+      },
+      {
         "name": "Halloweenská noc",
         "date": "2026-11-13",
         "day": "13",
@@ -185,8 +185,8 @@
       {
         "type": "elektrina",
         "what": "Odstávka elektrickej energie – plánované práce na distribučnej sústave",
-        "where": "KUNOV č. 139, 140, 162/BL, 250, 348; LOKA ZÁHRADY 1. č. 14/ZA",
-        "when": "1. 12. 2026 od 08:00 do 14:30 hod.",
+        "where": "KUNOV č. 139, 140, 162/BL, 250, 348; LOKA ZÁHRADY 1. č. 14/ZA; 1. 12.: LOKA BRESTOVÉ č. 1, 2, 3, 4, 6, 10, 12",
+        "when": "1. 12. 2026 od 08:00 do 14:30 hod. (Kunov, Loka Záhrady); od 08:00 do 15:00 hod. (Loka Brestové)",
         "starts": "2026-12-01",
         "ends": "2026-12-01",
         "status": "plánovaná",

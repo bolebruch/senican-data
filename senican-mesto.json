@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-09T22:12:00+02:00",
-    "generated_for_date": "2026-11-09",
+    "generated_at": "2026-11-10T21:12:00+02:00",
+    "generated_for_date": "2026-11-10",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 9. 11. 2026. Podujatia: 7 z TIC API (prvých 17 záznamov, zvyšok odpočtu nečitateľný; kino, Právna pomoc, Odpadáčik, Klub 60+, Klub Podporka, Tanečné posedenie, haiku a Angličtina sa pre limit nezmestili), 2 zo senica.sk Pozvánok (vernisáž J. Hajdinovej, Halloweenská noc). Z mesta: 4 najnovšie zo Spravodajstva. Servis: 2 plánované odstávky elektriny, októbrová expirovala; decembrová doplnená o Loka Brestové. Transparentnosť: bez zmeny.",
+    "note": "BEH 10. 11. 2026 (večer). Podujatia: 9 z TIC API od 11. 11. (dnešné podujatia už prebehli; kino vynechané), čas vernisáže J. Hajdinovej doplnený zo senica.sk Pozvánok (TIC uvádza 09:00); ďalšie pozvánky zo senica.sk (Listohranie, Gdansk 18. 11., Len pre mačacie uši 19. 11., Malý knižný festival 21. 11.) sú za limitom. Z mesta: nové Mikuláš a rozsvietenie stromčeka (6. 12.), vypadla oprava chodníka pri Lidli. Servis: 2 plánované odstávky elektriny bez zmeny. Transparentnosť: bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Mikuláš rozsvieti stromček na námestí 6. decembra",
+        "summary": "Na Námestí oslobodenia sa v nedeľu 6. decembra od 16:00 začne divadelnou rozprávkou Trubadúrov. Po nej príde Mikuláš s čertom a anjelom a spolu s deťmi rozsvietia vianočný stromček.",
+        "date": "2026-11-10",
+        "date_label": "10. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/mikulas-spolu-s-detmi-rozsvieti-vianocny-stromcek"
+      },
       {
         "headline": "Vlastníci lesa v Závrší sa stretnú na zhromaždení 9. decembra",
         "summary": "Pozemkové spoločenstvo vlastníkov lesa ZÁVRŠIE zvoláva svojich členov na zhromaždenie. Uskutoční sa 9. decembra o 15:00 vo veľkej zasadačke mestského úradu.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/svetlonosenie-opaet-prilakalo-navstevnikov"
-      },
-      {
-        "headline": "Pri Lidli opravujú aj druhú stranu chodníka na moste",
-        "summary": "Slovenská správa ciest začala druhú etapu opráv chodníkov na moste cez Teplicu a Rovenský potok, tento týždeň na pravej strane od centra. Zákazku za 116 822 eur robí Littlefinger s.r.o.; chodci majú bezpečný prechod pri Kolónii a vodiči by tam mali dodržať 30 km/h.",
-        "date": "2026-11-06",
-        "date_label": "6. 11. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/opravuje-sa-druha-strana-chodnika-pri-lidli"
       }
     ]
   },
@@ -71,26 +71,6 @@
     ],
     "items": [
       {
-        "name": "Martinská legenda",
-        "date": "2026-11-10",
-        "day": "10",
-        "month": "November",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/martinska-legenda/"
-      },
-      {
-        "name": "Senior Európan",
-        "date": "2026-11-10",
-        "day": "10",
-        "month": "November",
-        "time": "13:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/senior-europan-2/"
-      },
-      {
         "name": "Relax cvičenie",
         "date": "2026-11-11",
         "day": "11",
@@ -106,7 +86,7 @@
         "day": "11",
         "month": "November",
         "time": "11:00",
-        "venue": "Pamätník padlým v 1. svetovej vojne, Námestie oslobodenia, Senica",
+        "venue": "Námestie oslobodenia, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/den-cervenych-makov/"
       },
@@ -128,10 +108,10 @@
         "time": "18:00",
         "venue": "LM Galéria súčasného umenia, Štefánikova 699/9, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/jana-hajdinova-myslienky-a-sny-v-obrazoch"
+        "source_url": "https://ticsenica.sk/podujatie/myslienky-a-sny-v-obrazoch/"
       },
       {
-        "name": "4 Tenori",
+        "name": "4 Tenoři",
         "date": "2026-11-11",
         "day": "11",
         "month": "November",
@@ -151,14 +131,34 @@
         "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik-2/"
       },
       {
-        "name": "Halloweenská noc",
+        "name": "Pavilón B – Radošinské naivné divadlo",
+        "date": "2026-11-13",
+        "day": "13",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/pavilon-b-radosinske-naivne-divadlo/"
+      },
+      {
+        "name": "Halloweenska noc",
         "date": "2026-11-13",
         "day": "13",
         "month": "November",
         "time": "17:00",
-        "venue": "Spoločenský dom Kunov",
-        "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/halloweenska-noc"
+        "venue": "SD Kunov, Kunov 64, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/halloweenska-noc/"
+      },
+      {
+        "name": "Výzva pre odvážnych",
+        "date": "2026-11-13",
+        "day": "13",
+        "month": "November",
+        "time": "18:00",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/vyzva-pre-odvaznych/"
       }
     ]
   },

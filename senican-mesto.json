@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-10T21:12:00+02:00",
-    "generated_for_date": "2026-11-10",
+    "generated_at": "2026-11-12T13:16:00+02:00",
+    "generated_for_date": "2026-11-12",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 10. 11. 2026 (večer). Podujatia: 9 z TIC API od 11. 11. (dnešné podujatia už prebehli; kino vynechané), čas vernisáže J. Hajdinovej doplnený zo senica.sk Pozvánok (TIC uvádza 09:00); ďalšie pozvánky zo senica.sk (Listohranie, Gdansk 18. 11., Len pre mačacie uši 19. 11., Malý knižný festival 21. 11.) sú za limitom. Z mesta: nové Mikuláš a rozsvietenie stromčeka (6. 12.), vypadla oprava chodníka pri Lidli. Servis: 2 plánované odstávky elektriny bez zmeny. Transparentnosť: bez zmeny.",
+    "note": "BEH 12. 11. 2026. Podujatia: 9 z TIC API (dnešné ranné podujatia už prebehli; kino vynechané; Pavilón B má 2 predstavenia 16:00 a 19:00, uvedené raz). Pozvánky zo senica.sk (Listohranie a Gdansk 18. 11., Len pre mačacie uši 19. 11., Jsem dúkaz 21. 11., Malý knižný festival 21. 11.) sú za limitom; ostatné sú duplicitné s TIC. Z mesta: 4 nové články (Čaj o tretej, TTSK, veteráni, 108. výročie konca 1. sv. vojny); dva posledné sa nepodarilo otvoriť, zhrnutie len z titulku. Servis a Transparentnosť bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Mikuláš rozsvieti stromček na námestí 6. decembra",
-        "summary": "Na Námestí oslobodenia sa v nedeľu 6. decembra od 16:00 začne divadelnou rozprávkou Trubadúrov. Po nej príde Mikuláš s čertom a anjelom a spolu s deťmi rozsvietia vianočný stromček.",
-        "date": "2026-11-10",
-        "date_label": "10. 11. 2026",
+        "headline": "Seniori sa stretli pri čaji o tretej, ďalšie stretnutie bude 2. decembra",
+        "summary": "Farská charita Senica spustila s dobrovoľníkmi nové stretnutia seniorov v pastoračnom centre pri kostole sv. Cyrila a Metoda. Cieľom je zmierniť osamelosť starších ľudí; najbližšie sa stretnú 2. decembra o 15:00.",
+        "date": "2026-11-12",
+        "date_label": "12. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/mikulas-spolu-s-detmi-rozsvieti-vianocny-stromcek"
+        "source_url": "https://senica.sk/clanok/charita-organizuje-pre-seniorov-caj-o-tretej"
       },
       {
-        "headline": "Vlastníci lesa v Závrší sa stretnú na zhromaždení 9. decembra",
-        "summary": "Pozemkové spoločenstvo vlastníkov lesa ZÁVRŠIE zvoláva svojich členov na zhromaždenie. Uskutoční sa 9. decembra o 15:00 vo veľkej zasadačke mestského úradu.",
-        "date": "2026-11-09",
-        "date_label": "9. 11. 2026",
+        "headline": "Krajské zastupiteľstvo zložilo sľub, županom zostáva Viskupič",
+        "summary": "Trnavský samosprávny kraj otvoril volebné obdobie 2026 – 2030 ustanovujúcim zasadnutím v Trnave. Noví poslanci zložili sľub, županom je opäť Jozef Viskupič a zastupiteľstvo sa rozrástlo zo 40 na 42 členov.",
+        "date": "2026-11-11",
+        "date_label": "11. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/10781-zhromazdenie-pozemkoveho-spolocenstva-vlastnikov-lesa-zavrsie"
+        "source_url": "https://senica.sk/clanok/ustanovujuce-zastupitelstvo-ttsk-pozname-novych-poslancov-kraja"
       },
       {
-        "headline": "Senická farnosť má nový erb, zástavu a pečiatky",
-        "summary": "Rímskokatolícka farnosť Navštívenia Panny Márie dostala nové oficiálne symboly. Požehnali ich pri nedeľnej omši 8. novembra, na sviatok patróna mesta.",
-        "date": "2026-11-09",
-        "date_label": "9. 11. 2026",
+        "headline": "Študenti priblížili príbehy vojnových veteránov",
+        "summary": "Spomienky na vojnových veteránov ožili v podaní študentov. Podrobnosti prináša článok mesta.",
+        "date": "2026-11-11",
+        "date_label": "11. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/nove-symboly-senickej-rimskokatolickej-farnosti-erb-zastava-a-peciatky-uz-maju-pozehnanie"
+        "source_url": "https://senica.sk/clanok/vojnovi-veterani-ozili-v-spomienkach-studentov"
       },
       {
-        "headline": "Martinské svetlonosenie opäť zaplnilo námestie",
-        "summary": "Na sobotný sprievod s lampášmi prišli stovky ľudí. Na Námestí oslobodenia nasledoval od 17:00 kultúrny program, ktorý pripravili MsKS a Záhorské múzeum.",
-        "date": "2026-11-09",
-        "date_label": "9. 11. 2026",
+        "headline": "Senica si pripomenula 108 rokov od konca prvej svetovej vojny",
+        "summary": "Mesto si pripomenulo 108. výročie ukončenia prvej svetovej vojny. Viac v pôvodnom článku.",
+        "date": "2026-11-11",
+        "date_label": "11. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/svetlonosenie-opaet-prilakalo-navstevnikov"
+        "source_url": "https://senica.sk/clanok/senica-si-pripomenula-108-vyrocie-ukoncenia-prvej-svetovej-vojny"
       }
     ]
   },
@@ -71,67 +71,47 @@
     ],
     "items": [
       {
-        "name": "Relax cvičenie",
-        "date": "2026-11-11",
-        "day": "11",
-        "month": "November",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-16/"
-      },
-      {
-        "name": "Deň červených makov",
-        "date": "2026-11-11",
-        "day": "11",
-        "month": "November",
-        "time": "11:00",
-        "venue": "Námestie oslobodenia, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/den-cervenych-makov/"
-      },
-      {
-        "name": "Čaj o tretej pre seniorov",
-        "date": "2026-11-11",
-        "day": "11",
-        "month": "November",
-        "time": "15:00",
-        "venue": "Pastoračné centrum v kostole sv. Cyrila a Metoda v Sotinej, Sotinská 1589/21, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/caj-o-tretej-pre-seniorov/"
-      },
-      {
-        "name": "Jana Hajdinová: Myšlienky a sny v obrazoch (vernisáž)",
-        "date": "2026-11-11",
-        "day": "11",
-        "month": "November",
-        "time": "18:00",
-        "venue": "LM Galéria súčasného umenia, Štefánikova 699/9, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/myslienky-a-sny-v-obrazoch/"
-      },
-      {
-        "name": "4 Tenoři",
-        "date": "2026-11-11",
-        "day": "11",
-        "month": "November",
-        "time": "19:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/4-tenori/"
-      },
-      {
-        "name": "Dušičkový lampášik",
+        "name": "Novembrový workshop",
         "date": "2026-11-12",
         "day": "12",
         "month": "November",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik-2/"
+        "time": "16:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop-2/"
       },
       {
-        "name": "Pavilón B – Radošinské naivné divadlo",
+        "name": "Zvukohry",
+        "date": "2026-11-12",
+        "day": "12",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/zvukohry-4/"
+      },
+      {
+        "name": "Klub začínajúcich autorov",
+        "date": "2026-11-12",
+        "day": "12",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/klub-zacinajucich-autorov-7/"
+      },
+      {
+        "name": "Zvuková relaxácia",
+        "date": "2026-11-12",
+        "day": "12",
+        "month": "November",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/zvukova-relaxacia-4/"
+      },
+      {
+        "name": "Pavilón B – Radošínske naivné divadlo",
         "date": "2026-11-13",
         "day": "13",
         "month": "November",
@@ -141,7 +121,7 @@
         "source_url": "https://ticsenica.sk/podujatie/pavilon-b-radosinske-naivne-divadlo/"
       },
       {
-        "name": "Halloweenska noc",
+        "name": "Halloweenská noc",
         "date": "2026-11-13",
         "day": "13",
         "month": "November",
@@ -149,6 +129,16 @@
         "venue": "SD Kunov, Kunov 64, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/halloweenska-noc/"
+      },
+      {
+        "name": "Kruh zpěvu srdce",
+        "date": "2026-11-13",
+        "day": "13",
+        "month": "November",
+        "time": "18:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/kruh-zpevu-srdce/"
       },
       {
         "name": "Výzva pre odvážnych",
@@ -159,6 +149,16 @@
         "venue": "Záhorská knižnica, Vajanského 28, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/vyzva-pre-odvaznych/"
+      },
+      {
+        "name": "Jesenná derniéra: FK Senica – TJ Partizán Domaniža",
+        "date": "2026-11-14",
+        "day": "14",
+        "month": "November",
+        "time": "14:00",
+        "venue": "Futbalový štadión Senica, Sadová ulica, Senica",
+        "category": "Šport",
+        "source_url": "https://ticsenica.sk/podujatie/jesenna-derniera-fk-senica-tj-partizan-domaniza/"
       }
     ]
   },

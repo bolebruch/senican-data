@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-14T04:45:00+02:00",
+    "generated_at": "2026-11-14T22:27:00+02:00",
     "generated_for_date": "2026-11-14",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 14. 11. 2026. Podujatia: 9 z TIC API (kino vynechané; Svatomartinské sklepy a pochod v Podbranči mimo Senice vynechané). Pozvánky zo senica.sk (Listohranie a Gdansk 18. 11., Len pre mačacie uši 19. 11., Jsem dúkaz 21. 11.) sú za limitom; ostatné duplicitné s TIC. Z mesta: 2 nové články z 13. 11. Servis: obe odstávky (25.–26. 11., 1. 12.) overené v článkoch. Transparentnosť bez zmeny.",
+    "note": "BEH 14. 11. 2026 (večer). Podujatia: 9 z TIC API (kino vynechané; Svatomartinské sklepy a pochod v Podbranči mimo Senice vynechané; odohraný zápas FK Senica zo 14. 11. 14:00 vypadol, pribudlo Listohranie 18. 11. – čas a miesto overené v pozvánke na senica.sk, keďže odpoveď TIC API bola pri 17. zázname orezaná). Pozvánky zo senica.sk (Gdansk 18. 11., Len pre mačacie uši 19. 11., Jsem dúkaz 21. 11.) sú za limitom; Malý knižný festival má údaje len v obrázku. Z mesta: bez zmeny oproti rannému behu. Servis: obe odstávky (25.–26. 11., 1. 12.) overené v článkoch. Transparentnosť bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -70,16 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Jesenná derniéra: FK Senica – TJ Partizán Domaniža",
-        "date": "2026-11-14",
-        "day": "14",
-        "month": "November",
-        "time": "14:00",
-        "venue": "Futbalový štadión Senica, Sadová ulica, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/jesenna-derniera-fk-senica-tj-partizan-domaniza/"
-      },
       {
         "name": "Nedeľný ateliér",
         "date": "2026-11-15",
@@ -159,6 +149,16 @@
         "venue": "Denné centrum Senica, SNP 784, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/posedenie-pri-harmonike-8/"
+      },
+      {
+        "name": "Listohranie",
+        "date": "2026-11-18",
+        "day": "18",
+        "month": "November",
+        "time": "15:00",
+        "venue": "Záhorská knižnica – odd. pre deti a mládež, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/listohranie/"
       }
     ]
   },

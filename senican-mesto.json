@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-14T22:27:00+02:00",
-    "generated_for_date": "2026-11-14",
+    "generated_at": "2026-11-15T22:45:56+02:00",
+    "generated_for_date": "2026-11-15",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 14. 11. 2026 (večer). Podujatia: 9 z TIC API (kino vynechané; Svatomartinské sklepy a pochod v Podbranči mimo Senice vynechané; odohraný zápas FK Senica zo 14. 11. 14:00 vypadol, pribudlo Listohranie 18. 11. – čas a miesto overené v pozvánke na senica.sk, keďže odpoveď TIC API bola pri 17. zázname orezaná). Pozvánky zo senica.sk (Gdansk 18. 11., Len pre mačacie uši 19. 11., Jsem dúkaz 21. 11.) sú za limitom; Malý knižný festival má údaje len v obrázku. Z mesta: bez zmeny oproti rannému behu. Servis: obe odstávky (25.–26. 11., 1. 12.) overené v článkoch. Transparentnosť bez zmeny.",
+    "note": "BEH 15. 11. 2026 (večer). Podujatia: 9 z TIC API (30 najbližších záznamov z 70, kino vynechané); Nedeľný ateliér z 15. 11. 14:00 už prebehol a vypadol, pribudol Novembrový workshop 18. 11. Pozvánky zo senica.sk (Len pre mačacie uši 19. 11., Malý knižný festival a Jsem dúkaz 21. 11.) sú aj v TIC, ale za limitom 9 položiek. POZOR: senica.sk pri tomto behu vracal chyby servera – zoznam Spravodajstvo ani články o odstávkach (november, december) sa nepodarilo načítať. Z mesta a Servis sú preto PREVZATÉ z behu 14. 11. bez nového overenia (zoznam odstávok sa načítal a jeho dva najnovšie články sú tie isté; termíny 25.–26. 11. a 1. 12. sú stále v budúcnosti). Zo zápisníka MsP: najnovší záznam je z 2. 9. 2026, nič nové. Transparentnosť: zoznam MsZ overený, bez zmeny (posledné 27. zasadnutie 28. 9. 2026); filtrovaný zoznam VZN zlyhal, nefiltrovaný potvrdil VZN 93/2026 a 92/2026 ako najnovšie, žiadny návrh.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -70,16 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Nedeľný ateliér",
-        "date": "2026-11-15",
-        "day": "15",
-        "month": "November",
-        "time": "14:00",
-        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/nedelny-atelier-12/"
-      },
       {
         "name": "Martinská legenda",
         "date": "2026-11-17",
@@ -159,6 +149,16 @@
         "venue": "Záhorská knižnica – odd. pre deti a mládež, Vajanského 28, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/listohranie/"
+      },
+      {
+        "name": "Novembrový workshop",
+        "date": "2026-11-18",
+        "day": "18",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop-3/"
       }
     ]
   },

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-15T22:45:56+02:00",
-    "generated_for_date": "2026-11-15",
+    "generated_at": "2026-11-17T21:10:00+02:00",
+    "generated_for_date": "2026-11-17",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 15. 11. 2026 (večer). Podujatia: 9 z TIC API (30 najbližších záznamov z 70, kino vynechané); Nedeľný ateliér z 15. 11. 14:00 už prebehol a vypadol, pribudol Novembrový workshop 18. 11. Pozvánky zo senica.sk (Len pre mačacie uši 19. 11., Malý knižný festival a Jsem dúkaz 21. 11.) sú aj v TIC, ale za limitom 9 položiek. POZOR: senica.sk pri tomto behu vracal chyby servera – zoznam Spravodajstvo ani články o odstávkach (november, december) sa nepodarilo načítať. Z mesta a Servis sú preto PREVZATÉ z behu 14. 11. bez nového overenia (zoznam odstávok sa načítal a jeho dva najnovšie články sú tie isté; termíny 25.–26. 11. a 1. 12. sú stále v budúcnosti). Zo zápisníka MsP: najnovší záznam je z 2. 9. 2026, nič nové. Transparentnosť: zoznam MsZ overený, bez zmeny (posledné 27. zasadnutie 28. 9. 2026); filtrovaný zoznam VZN zlyhal, nefiltrovaný potvrdil VZN 93/2026 a 92/2026 ako najnovšie, žiadny návrh.",
+    "note": "BEH 17. 11. 2026 (večer, 20:10 SEČ). Podujatia: 8 z TIC API (načítaných 17 úplných záznamov z 30 – odpoveď API bola skrátená; kino Divočina, Ako vykradnúť banku a Drevorubač vynechané; všetky podujatia zo 17. 11. už prebehli, vynechané) + 1 zo senica.sk Pozvánky (Koncert: Slovenský panteón 18. 11., v TIC nie je; článok uvádza 'nedeľa 18.11.2026', 18. 11. je však streda). Z mesta: nový Oznam MsÚ (17. 11.), vypadol článok o Cene slobody. Zo zápisníka MsP: najnovší záznam stále 2. 9. 2026. Servis: overené priamo v článkoch, bez zmeny (25.–26. 11. a 1. 12.); články nie sú na 1. strane výpisu kategórie. Transparentnosť: bez zmeny (posledné 27. zasadnutie 28. 9. 2026; VZN 93/2026 a 92/2026, žiadny návrh).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Cyklochodník v Kunove je pred dokončením",
-        "summary": "Na novom cyklochodníku v Kunove zostávajú už len posledné úpravy. Podrobnosti uvádza pôvodný článok mesta.",
-        "date": "2026-11-13",
-        "date_label": "13. 11. 2026",
+        "headline": "17. november: deň, keď sa začala cesta k slobode",
+        "summary": "Mesto si pripomína Deň boja za slobodu a demokraciu, ktorý je zároveň Medzinárodným dňom študentov. Oba spája odvaha mladých ľudí postaviť sa neslobode.",
+        "date": "2026-11-17",
+        "date_label": "17. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/cyklochodnik-v-kunove-cakaju-posledne-upravy"
+        "source_url": "https://senica.sk/clanok/17-november-den-ktory-priniesol-slobodu"
       },
       {
-        "headline": "Slávka Mihálová je nominovaná na ocenenie Srdce na dlani",
-        "summary": "Medzi nominovanými na ocenenie Srdce na dlani je aj Slávka Mihálová. Viac o nominácii v článku mesta.",
-        "date": "2026-11-13",
-        "date_label": "13. 11. 2026",
+        "headline": "Mestský úrad bol 17. novembra popoludní zatvorený",
+        "summary": "Úrad v utorok 17. novembra zatvoril od 13:00 z technických príčin. Najbližší stránkový deň je streda 18. novembra.",
+        "date": "2026-11-17",
+        "date_label": "17. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/srdce-na-dlani-nominovana-slavka-mihalova"
+        "source_url": "https://senica.sk/clanok/10815-oznam-mestskeho-uradu-senica"
       },
       {
-        "headline": "Seniori sa stretli pri čaji o tretej, ďalšie stretnutie bude 2. decembra",
-        "summary": "Farská charita Senica spustila s dobrovoľníkmi nové stretnutia seniorov v pastoračnom centre pri kostole sv. Cyrila a Metoda. Cieľom je zmierniť osamelosť starších ľudí; najbližšie sa stretnú 2. decembra o 15:00.",
-        "date": "2026-11-12",
-        "date_label": "12. 11. 2026",
+        "headline": "Dobrovoľní hasiči zhodnotili svoj rok",
+        "summary": "Senický dobrovoľný hasičský zbor mal v sobotu 14. novembra výročnú členskú schôdzu s voľbou funkcionárov, správami o činnosti a oceneniami pre dlhoročných členov.",
+        "date": "2026-11-16",
+        "date_label": "16. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/charita-organizuje-pre-seniorov-caj-o-tretej"
+        "source_url": "https://senica.sk/clanok/senicki-dobrovolni-hasici-bilancovali"
       },
       {
-        "headline": "Krajské zastupiteľstvo zložilo sľub, županom zostáva Viskupič",
-        "summary": "Trnavský samosprávny kraj otvoril volebné obdobie 2026 – 2030 ustanovujúcim zasadnutím v Trnave. Noví poslanci zložili sľub, županom je opäť Jozef Viskupič a zastupiteľstvo sa rozrástlo zo 40 na 42 členov.",
-        "date": "2026-11-11",
-        "date_label": "11. 11. 2026",
+        "headline": "Neziskovky sa môžu pripraviť na e-faktúru na bezplatnom workshope",
+        "summary": "Elektronická fakturácia sa od nového roka týka aj občianskych združení a ďalších neziskoviek. Workshop pre 30 účastníkov bude v utorok 24. novembra o 16:00 v klubovni KiviK na SNP 784/2.",
+        "date": "2026-11-16",
+        "date_label": "16. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/ustanovujuce-zastupitelstvo-ttsk-pozname-novych-poslancov-kraja"
+        "source_url": "https://senica.sk/clanok/e-faktura-sa-tyka-aj-neziskoviek-pozyvame-na-bezplatny-workshop-v-kiviku"
       }
     ]
   },
@@ -70,46 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Martinská legenda",
-        "date": "2026-11-17",
-        "day": "17",
-        "month": "November",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/martinska-legenda-2/"
-      },
-      {
-        "name": "Klub 60+",
-        "date": "2026-11-17",
-        "day": "17",
-        "month": "November",
-        "time": "13:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-60-39/"
-      },
-      {
-        "name": "Klub Podporka",
-        "date": "2026-11-17",
-        "day": "17",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Denné centrum Senica, SNP 784, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-20/"
-      },
-      {
-        "name": "Tehotenská príprava s dulou",
-        "date": "2026-11-17",
-        "day": "17",
-        "month": "November",
-        "time": "18:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/tehotenska-priprava-s-dulou/"
-      },
       {
         "name": "Homeopatia a deti",
         "date": "2026-11-18",
@@ -146,7 +106,7 @@
         "day": "18",
         "month": "November",
         "time": "15:00",
-        "venue": "Záhorská knižnica – odd. pre deti a mládež, Vajanského 28, Senica",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/listohranie/"
       },
@@ -159,6 +119,46 @@
         "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop-3/"
+      },
+      {
+        "name": "Mesto s vôňou mora",
+        "date": "2026-11-18",
+        "day": "18",
+        "month": "November",
+        "time": "17:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/mesto-s-vonou-mora/"
+      },
+      {
+        "name": "Koncert: Slovenský panteón",
+        "date": "2026-11-18",
+        "day": "18",
+        "month": "November",
+        "time": "17:00",
+        "venue": "Evanjelický kostol, Fajnorova ulica, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/koncert-slovensky-panteon"
+      },
+      {
+        "name": "Dušičkový lampášik",
+        "date": "2026-11-19",
+        "day": "19",
+        "month": "November",
+        "time": "08:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik-3/"
+      },
+      {
+        "name": "Angličtina pre seniorov",
+        "date": "2026-11-19",
+        "day": "19",
+        "month": "November",
+        "time": "10:00",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/anglictina-pre-seniorov-47/"
       }
     ]
   },

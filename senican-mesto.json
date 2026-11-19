@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-17T21:10:00+02:00",
-    "generated_for_date": "2026-11-17",
+    "generated_at": "2026-11-18T21:36:00+02:00",
+    "generated_for_date": "2026-11-18",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 17. 11. 2026 (večer, 20:10 SEČ). Podujatia: 8 z TIC API (načítaných 17 úplných záznamov z 30 – odpoveď API bola skrátená; kino Divočina, Ako vykradnúť banku a Drevorubač vynechané; všetky podujatia zo 17. 11. už prebehli, vynechané) + 1 zo senica.sk Pozvánky (Koncert: Slovenský panteón 18. 11., v TIC nie je; článok uvádza 'nedeľa 18.11.2026', 18. 11. je však streda). Z mesta: nový Oznam MsÚ (17. 11.), vypadol článok o Cene slobody. Zo zápisníka MsP: najnovší záznam stále 2. 9. 2026. Servis: overené priamo v článkoch, bez zmeny (25.–26. 11. a 1. 12.); články nie sú na 1. strane výpisu kategórie. Transparentnosť: bez zmeny (posledné 27. zasadnutie 28. 9. 2026; VZN 93/2026 a 92/2026, žiadny návrh).",
+    "note": "BEH 18. 11. 2026 (večer). Podujatia: 9 z TIC API (načítaných 30 z 72; kino Ako vykradnúť banku, Drevorubač, Príručka pre superhrdinov, Viktoriánske psycho vynechané; podujatia z 18. 11. už prebehli, vynechané) + 0 zo senica.sk Pozvánky (pozvánky v okne 19.–21. 11. sú všetky v TIC; Literárna Senica a Dáma v Zlatom nemajú v texte dátum). Z mesta: nový článok o ocenení študentov (17. 11., článok sa nepodarilo otvoriť – zhrnutie len z titulku), vypadol workshop e-faktúry. Zo zápisníka MsP: najnovší stále 2. 9. 2026. Servis: bez zmeny (25.–26. 11. a 1. 12.); články nov/dec dnes vracali chybu servera, údaje z overenia 17. 11. Transparentnosť: zoznam uznesení pre obdobie 2026–2030 je prázdny, ponechané 27. a 26. zasadnutie; pridaný Dodatok č. 1/2026 k VZN 82/2023 (účinný 13. 7. 2026), vypadlo 25. zasadnutie. Žiadny návrh VZN.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -20,6 +20,15 @@
     "attribution_url": "https://www.senica.sk/kategoria/spravodajstvo",
     "badge": "Z mesta",
     "items": [
+      {
+        "headline": "Senica ocenila svojich výnimočných študentov",
+        "summary": "Mesto pri príležitosti Medzinárodného dňa študentstva ocenilo študentov, ktorí vynikli. Mená ocenených nájdeš v pôvodnom článku.",
+        "date": "2026-11-17",
+        "date_label": "17. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/mesto-ocenilo-vynimocnych-studentov"
+      },
       {
         "headline": "17. november: deň, keď sa začala cesta k slobode",
         "summary": "Mesto si pripomína Deň boja za slobodu a demokraciu, ktorý je zároveň Medzinárodným dňom študentov. Oba spája odvaha mladých ľudí postaviť sa neslobode.",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/senicki-dobrovolni-hasici-bilancovali"
-      },
-      {
-        "headline": "Neziskovky sa môžu pripraviť na e-faktúru na bezplatnom workshope",
-        "summary": "Elektronická fakturácia sa od nového roka týka aj občianskych združení a ďalších neziskoviek. Workshop pre 30 účastníkov bude v utorok 24. novembra o 16:00 v klubovni KiviK na SNP 784/2.",
-        "date": "2026-11-16",
-        "date_label": "16. 11. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/e-faktura-sa-tyka-aj-neziskoviek-pozyvame-na-bezplatny-workshop-v-kiviku"
       }
     ]
   },
@@ -71,76 +71,6 @@
     ],
     "items": [
       {
-        "name": "Homeopatia a deti",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "10:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/homeopatia-a-deti/"
-      },
-      {
-        "name": "Relax cvičenie",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "10:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Šport",
-        "source_url": "https://ticsenica.sk/podujatie/relax-cvicenie-17/"
-      },
-      {
-        "name": "Posedenie pri harmonike",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "13:00",
-        "venue": "Denné centrum Senica, SNP 784, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/posedenie-pri-harmonike-8/"
-      },
-      {
-        "name": "Listohranie",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "15:00",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/listohranie/"
-      },
-      {
-        "name": "Novembrový workshop",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop-3/"
-      },
-      {
-        "name": "Mesto s vôňou mora",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "17:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/mesto-s-vonou-mora/"
-      },
-      {
-        "name": "Koncert: Slovenský panteón",
-        "date": "2026-11-18",
-        "day": "18",
-        "month": "November",
-        "time": "17:00",
-        "venue": "Evanjelický kostol, Fajnorova ulica, Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/koncert-slovensky-panteon"
-      },
-      {
         "name": "Dušičkový lampášik",
         "date": "2026-11-19",
         "day": "19",
@@ -151,6 +81,16 @@
         "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik-3/"
       },
       {
+        "name": "Burza informácií",
+        "date": "2026-11-19",
+        "day": "19",
+        "month": "November",
+        "time": "09:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/burza-informacii-2/"
+      },
+      {
         "name": "Angličtina pre seniorov",
         "date": "2026-11-19",
         "day": "19",
@@ -159,6 +99,66 @@
         "venue": "Záhorská knižnica, Vajanského 28, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/anglictina-pre-seniorov-47/"
+      },
+      {
+        "name": "Len pre mačacie uši",
+        "date": "2026-11-19",
+        "day": "19",
+        "month": "November",
+        "time": "14:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/len-pre-macacie-usi-2/"
+      },
+      {
+        "name": "Hravé stretnutie s Montessori",
+        "date": "2026-11-20",
+        "day": "20",
+        "month": "November",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/hrave-stretnutie-s-montessori-5/"
+      },
+      {
+        "name": "Žiariace vrstvy spomienok",
+        "date": "2026-11-20",
+        "day": "20",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Záhorská galéria Jána Mudrocha, Sadová 619/3, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/ziariace-vrstvy-spomienok/"
+      },
+      {
+        "name": "Malý knižný festival",
+        "date": "2026-11-21",
+        "day": "21",
+        "month": "November",
+        "time": "10:00",
+        "venue": "DAV kinosála, Sadová 641/18, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/maly-knizny-festival-2/"
+      },
+      {
+        "name": "Jsem dúkaz, že to bude lepší",
+        "date": "2026-11-21",
+        "day": "21",
+        "month": "November",
+        "time": "14:30",
+        "venue": "DAV – kinosála, Sadová 641/18, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/jsem-dukaz-ze-to-bude-lepsi/"
+      },
+      {
+        "name": "Ženské kruhy s bylinkovou náparkou",
+        "date": "2026-11-21",
+        "day": "21",
+        "month": "November",
+        "time": "18:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/zenske-kruhy-s-bylinkovou-naparkou/"
       }
     ]
   },
@@ -230,17 +230,12 @@
         }
       },
       {
-        "title": "25. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
-        "type": "Záznam MsZ",
-        "date": "2026-06-26",
-        "date_label": "26. 6. 2026",
-        "status": null,
-        "source_url": "https://senica.sk/clanok/10396-25-zasadnutie-msz",
-        "extra_links": {
-          "zapisnica_pdf": "https://senica.sk/data/esam/memorandum/f10396-1.pdf",
-          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10396-1.pdf",
-          "video": "https://www.youtube.com/embed/fwG-Ba4RM9E"
-        }
+        "title": "VZN č. 82/2023 — VZN, ktorým sa určujú a menia názvy ulíc a iných verejných priestranstiev a číslovanie budov v Senici (Dodatok č. 1/2026)",
+        "type": "VZN",
+        "date": "2026-07-13",
+        "date_label": "účinné od 13. 7. 2026",
+        "status": "účinné",
+        "source_url": "https://senica.sk/clanok/vzn-ktorym-sa-urcuju-a-menia-nazvy-ulic-a-inych-verejnych-priestranstiev-a-cislovanie-budov-v-senici"
       },
       {
         "title": "VZN č. 93/2026 — O verejných školských obvodoch pre základné školy a materské školy v zriaďovateľskej pôsobnosti mesta Senica",

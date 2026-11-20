@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-18T21:36:00+02:00",
-    "generated_for_date": "2026-11-18",
+    "generated_at": "2026-11-19T21:09:19+02:00",
+    "generated_for_date": "2026-11-19",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 18. 11. 2026 (večer). Podujatia: 9 z TIC API (načítaných 30 z 72; kino Ako vykradnúť banku, Drevorubač, Príručka pre superhrdinov, Viktoriánske psycho vynechané; podujatia z 18. 11. už prebehli, vynechané) + 0 zo senica.sk Pozvánky (pozvánky v okne 19.–21. 11. sú všetky v TIC; Literárna Senica a Dáma v Zlatom nemajú v texte dátum). Z mesta: nový článok o ocenení študentov (17. 11., článok sa nepodarilo otvoriť – zhrnutie len z titulku), vypadol workshop e-faktúry. Zo zápisníka MsP: najnovší stále 2. 9. 2026. Servis: bez zmeny (25.–26. 11. a 1. 12.); články nov/dec dnes vracali chybu servera, údaje z overenia 17. 11. Transparentnosť: zoznam uznesení pre obdobie 2026–2030 je prázdny, ponechané 27. a 26. zasadnutie; pridaný Dodatok č. 1/2026 k VZN 82/2023 (účinný 13. 7. 2026), vypadlo 25. zasadnutie. Žiadny návrh VZN.",
+    "note": "BEH 19. 11. 2026 (večer). Podujatia: 7 z TIC API (odpoveď bola orezaná, viditeľných 17 podujatí do 22. 11.; kino Drevorubač, Príručka pre superhrdinov, Viktoriánske psycho vynechané; podujatia z 19. 11. už prebehli, vynechané) + 1 zo senica.sk Pozvánky (Čítaníčko pre najmenších 24. 11.; Literárna Senica a Dáma v Zlatom nemajú v texte dátum/čas – len plagát). Z mesta: nová pozvánka na ustanovujúce zasadnutie MsZ (23. 11.), doplnené zhrnutie o ocenení študentov z článku; vypadli hasiči. Zo zápisníka MsP: najnovší stále 2. 9. 2026. Servis: bez zmeny (25.–26. 11. a 1. 12.), overené z článkov. Transparentnosť: pridaná pozvánka na ustanovujúce zasadnutie MsZ 23. 11. 2026; zoznam uznesení pre obdobie 2026–2030 je prázdny; vypadlo VZN 92/2026. Žiadny návrh VZN.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,8 +21,17 @@
     "badge": "Z mesta",
     "items": [
       {
+        "headline": "Nové zastupiteľstvo sa prvýkrát zíde 23. novembra",
+        "summary": "Primátor zvolal ustanovujúce zasadnutie mestského zastupiteľstva na pondelok 23. novembra o 17:00 na mestskom úrade. Novozvolení poslanci a primátor zložia sľub, zastupiteľstvo potom zriadi komisie a schváli plán zasadnutí na rok 2027.",
+        "date": "2026-11-19",
+        "date_label": "19. 11. 2026",
+        "source_label": "Zdroj: mesto Senica",
+        "source_category": "Spravodajstvo",
+        "source_url": "https://senica.sk/clanok/10818-pozvanka-na-ustanovujuce-zasadnutie-mestskeho-zastupitelstva-v-senici"
+      },
+      {
         "headline": "Senica ocenila svojich výnimočných študentov",
-        "summary": "Mesto pri príležitosti Medzinárodného dňa študentstva ocenilo študentov, ktorí vynikli. Mená ocenených nájdeš v pôvodnom článku.",
+        "summary": "Pri príležitosti 17. novembra mesto v stredu 18. novembra na radnici ocenilo 17 stredoškolákov. Dostali pamätné plakety a zápis do Pamätnej knihy mesta.",
         "date": "2026-11-17",
         "date_label": "17. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
@@ -46,15 +55,6 @@
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
         "source_url": "https://senica.sk/clanok/10815-oznam-mestskeho-uradu-senica"
-      },
-      {
-        "headline": "Dobrovoľní hasiči zhodnotili svoj rok",
-        "summary": "Senický dobrovoľný hasičský zbor mal v sobotu 14. novembra výročnú členskú schôdzu s voľbou funkcionárov, správami o činnosti a oceneniami pre dlhoročných členov.",
-        "date": "2026-11-16",
-        "date_label": "16. 11. 2026",
-        "source_label": "Zdroj: mesto Senica",
-        "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/senicki-dobrovolni-hasici-bilancovali"
       }
     ]
   },
@@ -70,46 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "Dušičkový lampášik",
-        "date": "2026-11-19",
-        "day": "19",
-        "month": "November",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dusickovy-lampasik-3/"
-      },
-      {
-        "name": "Burza informácií",
-        "date": "2026-11-19",
-        "day": "19",
-        "month": "November",
-        "time": "09:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/burza-informacii-2/"
-      },
-      {
-        "name": "Angličtina pre seniorov",
-        "date": "2026-11-19",
-        "day": "19",
-        "month": "November",
-        "time": "10:00",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/anglictina-pre-seniorov-47/"
-      },
-      {
-        "name": "Len pre mačacie uši",
-        "date": "2026-11-19",
-        "day": "19",
-        "month": "November",
-        "time": "14:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/len-pre-macacie-usi-2/"
-      },
       {
         "name": "Hravé stretnutie s Montessori",
         "date": "2026-11-20",
@@ -141,12 +101,12 @@
         "source_url": "https://ticsenica.sk/podujatie/maly-knizny-festival-2/"
       },
       {
-        "name": "Jsem dúkaz, že to bude lepší",
+        "name": "Jsem důkaz, že to bude lepší",
         "date": "2026-11-21",
         "day": "21",
         "month": "November",
         "time": "14:30",
-        "venue": "DAV – kinosála, Sadová 641/18, Senica",
+        "venue": "Glow park House (DAV), Sadová 641/18, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/jsem-dukaz-ze-to-bude-lepsi/"
       },
@@ -159,6 +119,36 @@
         "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/zenske-kruhy-s-bylinkovou-naparkou/"
+      },
+      {
+        "name": "Záhorácka doska – Slávik na večeru",
+        "date": "2026-11-22",
+        "day": "22",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-slavik-na-veceru/"
+      },
+      {
+        "name": "Fifo a Vierka – Na prázdninách",
+        "date": "2026-11-22",
+        "day": "22",
+        "month": "November",
+        "time": "16:30",
+        "venue": "Esko, Hollého 750, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/fifo-a-vierka-na-prazdninach/"
+      },
+      {
+        "name": "Čítaníčko pre najmenších",
+        "date": "2026-11-24",
+        "day": "24",
+        "month": "November",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, oddelenie pre deti a mládež, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10791-citanicko-pre-najmensich"
       }
     ]
   },
@@ -205,6 +195,14 @@
     "badge": "Úradné",
     "items": [
       {
+        "title": "Pozvánka na Ustanovujúce zasadnutie Mestského zastupiteľstva v Senici",
+        "type": "Pozvánka",
+        "date": "2026-11-23",
+        "date_label": "23. 11. 2026 o 17:00",
+        "status": null,
+        "source_url": "https://senica.sk/clanok/10818-pozvanka-na-ustanovujuce-zasadnutie-mestskeho-zastupitelstva-v-senici"
+      },
+      {
         "title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",
         "type": "Záznam MsZ",
         "date": "2026-09-28",
@@ -246,17 +244,6 @@
         "source_url": "https://senica.sk/clanok/o-verejnych-skolskych-obvodoch-pre-zakladne-skoly-a-materske-skoly-v-zriadovatelskej-posobnosti-mesta-senica",
         "extra_links": {
           "vzn_pdf": "https://senica.sk/data/component_file/100/10395/f2749.pdf"
-        }
-      },
-      {
-        "title": "VZN č. 92/2026 — O podmienkach nakladania s nájomnými bytmi v bytovom dome súpisné č. 734 na ul. J. Kráľa v meste Senica",
-        "type": "VZN",
-        "date": "2026-02-27",
-        "date_label": "účinné od 27. 2. 2026",
-        "status": "účinné",
-        "source_url": "https://senica.sk/clanok/o-podmienkach-nakladania-s-najomnymi-bytmi-v-bytovom-dome-supisne-c-734-na-ul-j-krala-v-meste-senica",
-        "extra_links": {
-          "vzn_pdf": "https://senica.sk/data/component_file/100/9991/f2689.pdf"
         }
       }
     ]

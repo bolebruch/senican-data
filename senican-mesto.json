@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-20T21:06:00+02:00",
-    "generated_for_date": "2026-11-20",
+    "generated_at": "2026-11-21T21:06:00+02:00",
+    "generated_for_date": "2026-11-21",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 20. 11. 2026 (večer). Podujatia: 9 z TIC API + 1 zo senica.sk Pozvánky (Vianočný koncert 27. 11.); dnešné podujatia už prebehli, vynechané; kino (Drevorubač, Viktoriánske psycho, Príručka pre superhrdinov, Dve deci tuš) vynechané. Čítaníčko 24. 11. teraz z TIC (dedupe so senica.sk). Z mesta: nové Jesenné výsadby stromov (20. 11.), vypadol oznam MsÚ. Servis: odstávka 26. 11. (Loka IBV Mlyn, Slnečná, Sotinská) bola ZRUŠENÁ – odstránená; ostáva 25. 11. Štefánikova a 1. 12. Kunov/Loka. Transparentnosť: bez zmeny, spresnené miesto ustanovujúceho MsZ.",
+    "note": "BEH 21. 11. 2026 (večer). Podujatia: 9 z TIC API + 1 zo senica.sk Pozvánky (Vianočný koncert 27. 11., prenesené z predch. behu); dnešné podujatia už prebehli, vynechané; kino (Viktoriánske psycho, Drevorubač, Dve deci tuš, Všetci fotri sú lotri ai.) vynechané. Nové z TIC: Klub 60+, Homeopatia a deti, NOC VONKU. senica.sk dnes nespoľahlivé: Spravodajstvo vrátilo chybu servera (2×), Pozvánky a Odstávky vrátili zastaranú (cache) verziu zo októbra – Z mesta a Servis ponechané z behu 20. 11. (servis stále platný: 25. 11. a 1. 12.). Transparentnosť overená na esam (MsZ, VZN) – bez zmeny.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,37 +71,7 @@
     ],
     "items": [
       {
-        "name": "Malý knižný festival",
-        "date": "2026-11-21",
-        "day": "21",
-        "month": "November",
-        "time": "10:00",
-        "venue": "DAV kinosála, Sadová 641/18, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/maly-knizny-festival-2/"
-      },
-      {
-        "name": "Jsem důkaz, že to bude lepší",
-        "date": "2026-11-21",
-        "day": "21",
-        "month": "November",
-        "time": "14:30",
-        "venue": "Glow park House (DAV), Sadová 641/18, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/jsem-dukaz-ze-to-bude-lepsi/"
-      },
-      {
-        "name": "Ženské kruhy s bylinkovou náparkou",
-        "date": "2026-11-21",
-        "day": "21",
-        "month": "November",
-        "time": "18:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/zenske-kruhy-s-bylinkovou-naparkou/"
-      },
-      {
-        "name": "Záhorácka doska – Slávik na večeru",
+        "name": "Záhorácka deska – Slávik na večeru",
         "date": "2026-11-22",
         "day": "22",
         "month": "November",
@@ -141,6 +111,16 @@
         "source_url": "https://ticsenica.sk/podujatie/citanicko-pre-najmensich-13/"
       },
       {
+        "name": "Klub 60+",
+        "date": "2026-11-24",
+        "day": "24",
+        "month": "November",
+        "time": "13:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/klub-60-40/"
+      },
+      {
         "name": "Tóny múzea – Koncert ECHOSlovak String Quartet v Múzeu Senica",
         "date": "2026-11-24",
         "day": "24",
@@ -159,6 +139,26 @@
         "venue": "Glow park House (DAV), Sadová 641/18, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/xxxx-rocnik-literarnej-senice-ladislava-novomeskeho-2026/"
+      },
+      {
+        "name": "Homeopatia a deti",
+        "date": "2026-11-25",
+        "day": "25",
+        "month": "November",
+        "time": "16:30",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/homeopatia-a-deti-2/"
+      },
+      {
+        "name": "NOC VONKU",
+        "date": "2026-11-26",
+        "day": "26",
+        "month": "November",
+        "time": null,
+        "venue": "KiviK, SNP 784/2, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/noc-vonku/"
       },
       {
         "name": "Vianočný koncert Viera Šusteková a hostia",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-21T21:06:00+02:00",
-    "generated_for_date": "2026-11-21",
+    "generated_at": "2026-11-23T20:52:00+02:00",
+    "generated_for_date": "2026-11-23",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 21. 11. 2026 (večer). Podujatia: 9 z TIC API + 1 zo senica.sk Pozvánky (Vianočný koncert 27. 11., prenesené z predch. behu); dnešné podujatia už prebehli, vynechané; kino (Viktoriánske psycho, Drevorubač, Dve deci tuš, Všetci fotri sú lotri ai.) vynechané. Nové z TIC: Klub 60+, Homeopatia a deti, NOC VONKU. senica.sk dnes nespoľahlivé: Spravodajstvo vrátilo chybu servera (2×), Pozvánky a Odstávky vrátili zastaranú (cache) verziu zo októbra – Z mesta a Servis ponechané z behu 20. 11. (servis stále platný: 25. 11. a 1. 12.). Transparentnosť overená na esam (MsZ, VZN) – bez zmeny.",
+    "note": "BEH 23. 11. 2026 (večer). Podujatia: 9 z TIC API (od 24. 11.; odpoveď API orezaná, overené položky do 25. 11. + Dáma v zlatom z ranného behu), 0 zo senica.sk Pozvánky (Vianočný koncert 27. 11. vypadol pre limit 9 položiek); kino (Dve deci tušu, Drevorubač, Všetci fotri sú lotri) vynechané. Nové: Martinská legenda, Klub Podporka, Zvukohry (24. 11.). Z mesta, Servis, Transparentnosť: web_fetch vrátil zastarané (cache) výpisy senica.sk z októbra – ponechané údaje z ranného behu; odstávky 25. 11. a 1. 12. stále platné.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,26 +71,6 @@
     ],
     "items": [
       {
-        "name": "Záhorácka deska – Slávik na večeru",
-        "date": "2026-11-22",
-        "day": "22",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Dom kultúry, Námestie oslobodenia 11/17, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/zahoracka-deska-slavik-na-veceru/"
-      },
-      {
-        "name": "Fifo a Vierka – Na prázdninách",
-        "date": "2026-11-22",
-        "day": "22",
-        "month": "November",
-        "time": "16:30",
-        "venue": "Esko, Hollého 750, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/fifo-a-vierka-na-prazdninach/"
-      },
-      {
         "name": "Martinská legenda",
         "date": "2026-11-24",
         "day": "24",
@@ -119,6 +99,26 @@
         "venue": "Záhorská knižnica, Vajanského 28, Senica",
         "category": "Komunita",
         "source_url": "https://ticsenica.sk/podujatie/klub-60-40/"
+      },
+      {
+        "name": "Klub Podporka",
+        "date": "2026-11-24",
+        "day": "24",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Denné centrum Senica, SNP 784, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-21/"
+      },
+      {
+        "name": "Zvukohry",
+        "date": "2026-11-24",
+        "day": "24",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/zvukohry-5/"
       },
       {
         "name": "Tóny múzea – Koncert ECHOSlovak String Quartet v Múzeu Senica",
@@ -151,24 +151,14 @@
         "source_url": "https://ticsenica.sk/podujatie/homeopatia-a-deti-2/"
       },
       {
-        "name": "NOC VONKU",
+        "name": "Dáma v zlatom a pocta Klimtovi",
         "date": "2026-11-26",
         "day": "26",
         "month": "November",
-        "time": null,
-        "venue": "KiviK, SNP 784/2, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/noc-vonku/"
-      },
-      {
-        "name": "Vianočný koncert Viera Šusteková a hostia",
-        "date": "2026-11-27",
-        "day": "27",
-        "month": "November",
-        "time": "18:00",
-        "venue": "Evanjelický kostol, Hollého 747, Senica",
+        "time": "07:30",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/10808-vianocny-koncert-viera-sustekova-a-hostia"
+        "source_url": "https://ticsenica.sk/podujatie/dama-v-zlatom-a-pocta-klimtovi/"
       }
     ]
   },

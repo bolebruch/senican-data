@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-23T20:52:00+02:00",
-    "generated_for_date": "2026-11-23",
+    "generated_at": "2026-11-24T20:10:00+02:00",
+    "generated_for_date": "2026-11-24",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 23. 11. 2026 (večer). Podujatia: 9 z TIC API (od 24. 11.; odpoveď API orezaná, overené položky do 25. 11. + Dáma v zlatom z ranného behu), 0 zo senica.sk Pozvánky (Vianočný koncert 27. 11. vypadol pre limit 9 položiek); kino (Dve deci tušu, Drevorubač, Všetci fotri sú lotri) vynechané. Nové: Martinská legenda, Klub Podporka, Zvukohry (24. 11.). Z mesta, Servis, Transparentnosť: web_fetch vrátil zastarané (cache) výpisy senica.sk z októbra – ponechané údaje z ranného behu; odstávky 25. 11. a 1. 12. stále platné.",
+    "note": "BEH 24. 11. 2026 (večer, ~20:10). Podujatia: 8 z TIC API + 1 zo senica.sk Pozvánky (Vianočný koncert 27. 11., Evanjelický kostol). Dnešné podujatia 24. 11. vynechané, lebo v čase behu už začali/skončili. Kino (Drevorubač, Všetci fotri sú lotri, Mama a Tato sú Božskí, Hry o život) vynechané. Nové: NOC VONKU, Novembrový workshop, Tvorivá sobota, Dobročinná burza kníh. Z mesta: výpisy senica.sk Spravodajstvo/MsP opäť vrátili zastarané (cache) verzie z októbra/septembra – ponechané novembrové položky z predchádzajúceho behu. Servis: odstávky 25. 11. a 1. 12. overené a platné (26. 11. zrušená). Transparentnosť overená, bez zmien.",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -71,66 +71,6 @@
     ],
     "items": [
       {
-        "name": "Martinská legenda",
-        "date": "2026-11-24",
-        "day": "24",
-        "month": "November",
-        "time": "08:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/martinska-legenda-3/"
-      },
-      {
-        "name": "Čítaníčko pre najmenších",
-        "date": "2026-11-24",
-        "day": "24",
-        "month": "November",
-        "time": "09:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/citanicko-pre-najmensich-13/"
-      },
-      {
-        "name": "Klub 60+",
-        "date": "2026-11-24",
-        "day": "24",
-        "month": "November",
-        "time": "13:30",
-        "venue": "Záhorská knižnica, Vajanského 28, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-60-40/"
-      },
-      {
-        "name": "Klub Podporka",
-        "date": "2026-11-24",
-        "day": "24",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Denné centrum Senica, SNP 784, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-21/"
-      },
-      {
-        "name": "Zvukohry",
-        "date": "2026-11-24",
-        "day": "24",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/zvukohry-5/"
-      },
-      {
-        "name": "Tóny múzea – Koncert ECHOSlovak String Quartet v Múzeu Senica",
-        "date": "2026-11-24",
-        "day": "24",
-        "month": "November",
-        "time": "18:00",
-        "venue": "Múzeum Senica, Štefánikova 724/20, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/koncert-echoslovak-string-quartet-v-muzeu-senica/"
-      },
-      {
         "name": "XXXX. ročník Literárnej Senice Ladislava Novomeského 2026",
         "date": "2026-11-25",
         "day": "25",
@@ -151,6 +91,16 @@
         "source_url": "https://ticsenica.sk/podujatie/homeopatia-a-deti-2/"
       },
       {
+        "name": "NOC VONKU",
+        "date": "2026-11-26",
+        "day": "26",
+        "month": "November",
+        "time": null,
+        "venue": "KiviK, SNP 784/2, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/noc-vonku/"
+      },
+      {
         "name": "Dáma v zlatom a pocta Klimtovi",
         "date": "2026-11-26",
         "day": "26",
@@ -159,6 +109,56 @@
         "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/dama-v-zlatom-a-pocta-klimtovi/"
+      },
+      {
+        "name": "Novembrový workshop",
+        "date": "2026-11-26",
+        "day": "26",
+        "month": "November",
+        "time": "16:00",
+        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop-4/"
+      },
+      {
+        "name": "Vianočný koncert Viera Šusteková a hostia",
+        "date": "2026-11-27",
+        "day": "27",
+        "month": "November",
+        "time": "18:00",
+        "venue": "Evanjelický kostol, Hollého 747, Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/10808-vianocny-koncert-viera-sustekova-a-hostia"
+      },
+      {
+        "name": "Tvorivá sobota",
+        "date": "2026-11-28",
+        "day": "28",
+        "month": "November",
+        "time": "09:30",
+        "venue": "Záhorská knižnica, Vajanského 28, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/tvoriva-sobota-5/"
+      },
+      {
+        "name": "Dobročinná burza kníh",
+        "date": "2026-11-28",
+        "day": "28",
+        "month": "November",
+        "time": "10:00",
+        "venue": "Centrum voľného času, Sadová 646/8, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/dobrocinna-burza-knih-4/"
+      },
+      {
+        "name": "Podoby pravdy",
+        "date": "2026-11-28",
+        "day": "28",
+        "month": "November",
+        "time": "15:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/podoby-pravdy/"
       }
     ]
   },

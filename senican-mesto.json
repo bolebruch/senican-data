@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-24T20:10:00+02:00",
-    "generated_for_date": "2026-11-24",
+    "generated_at": "2026-11-25T21:08:00+02:00",
+    "generated_for_date": "2026-11-25",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 24. 11. 2026 (večer, ~20:10). Podujatia: 8 z TIC API + 1 zo senica.sk Pozvánky (Vianočný koncert 27. 11., Evanjelický kostol). Dnešné podujatia 24. 11. vynechané, lebo v čase behu už začali/skončili. Kino (Drevorubač, Všetci fotri sú lotri, Mama a Tato sú Božskí, Hry o život) vynechané. Nové: NOC VONKU, Novembrový workshop, Tvorivá sobota, Dobročinná burza kníh. Z mesta: výpisy senica.sk Spravodajstvo/MsP opäť vrátili zastarané (cache) verzie z októbra/septembra – ponechané novembrové položky z predchádzajúceho behu. Servis: odstávky 25. 11. a 1. 12. overené a platné (26. 11. zrušená). Transparentnosť overená, bez zmien.",
+    "note": "BEH 25. 11. 2026 (večer). Podujatia: 7 z TIC API + 2 zo senica.sk Pozvánky (Klub Podporka 1. 12., Adventný koncert 10. 12.). Dnešné podujatia 25. 11. vynechané (v čase behu už prebehli). Kino (Drevorubač, Všetci fotri sú lotri, Mama a Tato sú Božskí, Hry o život) vynechané. TIC odpoveď bola čiastočne orezaná – podujatia po 28. 11. z TIC neoverené; Záhorácka deska – Bál (29. 11.) je ZRUŠENÉ. Z mesta: nové 4 položky (posyp, výzva do komisií, mandáty, Noc vonku). Zo zápisníka MsP bez nových článkov od 2. 9. Servis: 25. 11. (dnes, už prebehla) a 1. 12. platné. Transparentnosť: pridaný záznam Ustanovujúceho zasadnutia MsZ (24. 11.).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Senica vysádza nové stromy a odstraňuje invázne dreviny",
-        "summary": "Na Sotinskej pribudne zhruba 20 stromov namiesto vyschnutých a pri cyklotrase v Kunove už pribudli lipa a štyri duby letné. Odstraňovanie inváznych a chorých stromov v Kunove a na Sotine pokračuje od pondelka 23. novembra s plošinou.",
-        "date": "2026-11-20",
-        "date_label": "20. 11. 2026",
+        "headline": "Pre hrozbu poľadovice mesto začína s posypom",
+        "summary": "Kvôli predpovedanému snehu a poľadovici sa v stredu 25. novembra od 17:00 začalo s posypom miestnych ciest a chodníkov, prednostne v centre. Najprv len soľou, ďalší postup sa určí podľa vývoja počasia.",
+        "date": "2026-11-25",
+        "date_label": "25. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/jesenne-vysadby-novych-stromov-aj-nevyhnutne-odstranovanie-invaznych-druhov-a-chorych-stromov"
+        "source_url": "https://senica.sk/clanok/pre-riziko-poladovice-zacne-senica-dnes-s-posypom-ciest-a-chodnikov"
       },
       {
-        "headline": "Nové zastupiteľstvo sa prvýkrát zíde 23. novembra",
-        "summary": "Primátor zvolal ustanovujúce zasadnutie mestského zastupiteľstva na pondelok 23. novembra o 17:00 na mestskom úrade. Novozvolení poslanci a primátor najprv v obradnej miestnosti zložia sľub, rokovanie potom pokračuje vo veľkej zasadačke.",
-        "date": "2026-11-19",
-        "date_label": "19. 11. 2026",
+        "headline": "Obyvatelia sa môžu prihlásiť do komisií a mestských výborov",
+        "summary": "Mesto hľadá členov komisií zastupiteľstva a mestských výborov na obdobie 2026 – 2030. Návrhy sa podávajú na predpísanom tlačive viceprimátorke do 10. decembra.",
+        "date": "2026-11-25",
+        "date_label": "25. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/10818-pozvanka-na-ustanovujuce-zasadnutie-mestskeho-zastupitelstva-v-senici"
+        "source_url": "https://senica.sk/clanok/10836-stante-sa-clenom-komisie-mestskeho-zastupitelstva-alebo-clenom-mestskeho-vyboru"
       },
       {
-        "headline": "Senica ocenila svojich výnimočných študentov",
-        "summary": "Pri príležitosti 17. novembra mesto v stredu 18. novembra na radnici ocenilo 17 stredoškolákov. Dostali pamätné plakety a zápis do Pamätnej knihy mesta.",
-        "date": "2026-11-17",
-        "date_label": "17. 11. 2026",
+        "headline": "Nový primátor a 19 poslancov zložili sľub",
+        "summary": "Na ustanovujúcom zasadnutí v pondelok 23. novembra sa nové vedenie mesta ujalo mandátov a zastupiteľstvo zriadilo 11 komisií. Najbližšie riadne zasadnutie je naplánované na 11. februára 2027.",
+        "date": "2026-11-24",
+        "date_label": "24. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/mesto-ocenilo-vynimocnych-studentov"
+        "source_url": "https://senica.sk/clanok/novozvoleny-primator-aj-poslanci-sa-ujali-svojich-mandatov"
       },
       {
-        "headline": "17. november: deň, keď sa začala cesta k slobode",
-        "summary": "Mesto si pripomína Deň boja za slobodu a demokraciu, ktorý je zároveň Medzinárodným dňom študentov. Oba spája odvaha mladých ľudí postaviť sa neslobode.",
-        "date": "2026-11-17",
-        "date_label": "17. 11. 2026",
+        "headline": "Senica sa prvýkrát zapojí do Noci vonku",
+        "summary": "Celoslovenské podujatie o bezdomovectve príde vo štvrtok 26. novembra od 18:00 do klubu KIVIK na SNP 784/2. Program s hudbou, diskusiou a filmom je zadarmo, kto chce, môže prespať vonku.",
+        "date": "2026-11-23",
+        "date_label": "23. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/17-november-den-ktory-priniesol-slobodu"
+        "source_url": "https://senica.sk/clanok/noc-vonku-v-senici-prinesie-silne-pribehy"
       }
     ]
   },
@@ -70,26 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "XXXX. ročník Literárnej Senice Ladislava Novomeského 2026",
-        "date": "2026-11-25",
-        "day": "25",
-        "month": "November",
-        "time": "14:00",
-        "venue": "Glow park House (DAV), Sadová 641/18, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/xxxx-rocnik-literarnej-senice-ladislava-novomeskeho-2026/"
-      },
-      {
-        "name": "Homeopatia a deti",
-        "date": "2026-11-25",
-        "day": "25",
-        "month": "November",
-        "time": "16:30",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/homeopatia-a-deti-2/"
-      },
       {
         "name": "NOC VONKU",
         "date": "2026-11-26",
@@ -159,6 +139,26 @@
         "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
         "category": "Kultúra",
         "source_url": "https://ticsenica.sk/podujatie/podoby-pravdy/"
+      },
+      {
+        "name": "Klub Podporka",
+        "date": "2026-12-01",
+        "day": "1",
+        "month": "December",
+        "time": "16:00",
+        "venue": "Denné centrum, SNP 784 (budova bývalých mestských jaslí), Senica",
+        "category": "Komunita",
+        "source_url": "https://senica.sk/clanok/klub-podporka-v-decembri"
+      },
+      {
+        "name": "Adventný koncert: Jakub Jan Ryba – Česká mše vánočná",
+        "date": "2026-12-10",
+        "day": "10",
+        "month": "December",
+        "time": "16:00",
+        "venue": "Dom kultúry (MsKS), Senica",
+        "category": "Kultúra",
+        "source_url": "https://senica.sk/clanok/adventny-koncert-jakub-jan-ryba-ceska-mse-vanocna"
       }
     ]
   },
@@ -176,7 +176,7 @@
         "when": "25. 11. 2026 od 08:00 do 15:00 hod.",
         "starts": "2026-11-25",
         "ends": "2026-11-25",
-        "status": "plánovaná",
+        "status": "dnes",
         "provider": "Západoslovenská distribučná, a. s.",
         "note": "Obmedzenie 26. 11. 2026 (LOKA IBV MLYN, SLNEČNÁ, SOTINSKÁ) bolo zrušené.",
         "badge": "Servis",
@@ -205,12 +205,16 @@
     "badge": "Úradné",
     "items": [
       {
-        "title": "Pozvánka na Ustanovujúce zasadnutie Mestského zastupiteľstva v Senici",
-        "type": "Pozvánka",
-        "date": "2026-11-23",
-        "date_label": "23. 11. 2026 o 17:00, Mestský úrad v Senici",
+        "title": "Ustanovujúce zasadnutie MsZ",
+        "type": "Záznam MsZ",
+        "date": "2026-11-24",
+        "date_label": "24. 11. 2026",
         "status": null,
-        "source_url": "https://senica.sk/clanok/10818-pozvanka-na-ustanovujuce-zasadnutie-mestskeho-zastupitelstva-v-senici"
+        "source_url": "https://senica.sk/clanok/10824-ustanovujuce-zasadnutie-msz",
+        "extra_links": {
+          "hlasovania_pdf": "https://senica.sk/data/esam/votes/f10824-1.pdf",
+          "video": "https://www.youtube.com/embed/XVFVBqHiRXo"
+        }
       },
       {
         "title": "27. zasadnutie MsZ — zápisnica, hlasovania a videozáznam",

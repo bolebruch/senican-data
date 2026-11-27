@@ -1,11 +1,11 @@
 {
   "meta": {
     "version": "1.0",
-    "generated_at": "2026-11-25T21:08:00+02:00",
-    "generated_for_date": "2026-11-25",
+    "generated_at": "2026-11-27T01:12:00+01:00",
+    "generated_for_date": "2026-11-27",
     "generator": "cowork/senican-mesto-feed",
     "primary_source": "https://www.senica.sk",
-    "note": "BEH 25. 11. 2026 (večer). Podujatia: 7 z TIC API + 2 zo senica.sk Pozvánky (Klub Podporka 1. 12., Adventný koncert 10. 12.). Dnešné podujatia 25. 11. vynechané (v čase behu už prebehli). Kino (Drevorubač, Všetci fotri sú lotri, Mama a Tato sú Božskí, Hry o život) vynechané. TIC odpoveď bola čiastočne orezaná – podujatia po 28. 11. z TIC neoverené; Záhorácka deska – Bál (29. 11.) je ZRUŠENÉ. Z mesta: nové 4 položky (posyp, výzva do komisií, mandáty, Noc vonku). Zo zápisníka MsP bez nových článkov od 2. 9. Servis: 25. 11. (dnes, už prebehla) a 1. 12. platné. Transparentnosť: pridaný záznam Ustanovujúceho zasadnutia MsZ (24. 11.).",
+    "note": "BEH 27. 11. 2026. Podujatia: 8 z TIC API + 1 zo senica.sk Pozvánky (Vianočný koncert V. Šusteková 27. 11.). Kino (Mama a Tato sú Božskí, Hry o život, Všetci fotri sú lotri) vynechané; Záhorácka deska – Bál (29. 11.) ZRUŠENÉ, vynechané. Adventný koncert 10. 12. vypadol z limitu 9 položiek. Z mesta: 4 nové články z 26. 11. Zo zápisníka MsP bez nových článkov od 2. 9. Servis: novembrová odstávka (25. 11.) expirovala, ostáva 1. 12. Transparentnosť bez zmeny. Pozn.: generated_at s offsetom +01:00 (zimný čas SEČ).",
     "ghost_tags": {
       "z_mesta": "z-mesta",
       "podujatia": "podujatia",
@@ -21,40 +21,40 @@
     "badge": "Z mesta",
     "items": [
       {
-        "headline": "Pre hrozbu poľadovice mesto začína s posypom",
-        "summary": "Kvôli predpovedanému snehu a poľadovici sa v stredu 25. novembra od 17:00 začalo s posypom miestnych ciest a chodníkov, prednostne v centre. Najprv len soľou, ďalší postup sa určí podľa vývoja počasia.",
-        "date": "2026-11-25",
-        "date_label": "25. 11. 2026",
+        "headline": "Zdieľané bicykle SenicaBajk končia sezónu skôr",
+        "summary": "Pre zhoršujúce sa počasie sa tretia sezóna SenicaBajk uzatvára už v piatok 27. novembra namiesto plánovaného 30. novembra.",
+        "date": "2026-11-26",
+        "date_label": "26. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/pre-riziko-poladovice-zacne-senica-dnes-s-posypom-ciest-a-chodnikov"
+        "source_url": "https://senica.sk/clanok/3-sezona-senicabajk-sa-konci"
       },
       {
-        "headline": "Obyvatelia sa môžu prihlásiť do komisií a mestských výborov",
-        "summary": "Mesto hľadá členov komisií zastupiteľstva a mestských výborov na obdobie 2026 – 2030. Návrhy sa podávajú na predpísanom tlačive viceprimátorke do 10. decembra.",
-        "date": "2026-11-25",
-        "date_label": "25. 11. 2026",
+        "headline": "Na rieke Teplica sa začala revitalizácia",
+        "summary": "V rámci medzinárodného projektu ReBioClim z programu Interreg Central Europe sa začali práce, ktoré majú rieke Teplica dať novú podobu a prospieť jej okoliu.",
+        "date": "2026-11-26",
+        "date_label": "26. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/10836-stante-sa-clenom-komisie-mestskeho-zastupitelstva-alebo-clenom-mestskeho-vyboru"
+        "source_url": "https://senica.sk/clanok/rieka-teplica-dostane-novu-podobu"
       },
       {
-        "headline": "Nový primátor a 19 poslancov zložili sľub",
-        "summary": "Na ustanovujúcom zasadnutí v pondelok 23. novembra sa nové vedenie mesta ujalo mandátov a zastupiteľstvo zriadilo 11 komisií. Najbližšie riadne zasadnutie je naplánované na 11. februára 2027.",
-        "date": "2026-11-24",
-        "date_label": "24. 11. 2026",
+        "headline": "Jubilejná Literárna Senica pozná víťazov",
+        "summary": "Celoslovenská autorská súťaž Literárna Senica Ladislava Novomeského uzavrela 40. ročník. Ceny laureátom odovzdali v stredu 25. novembra v budove DAV.",
+        "date": "2026-11-26",
+        "date_label": "26. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/novozvoleny-primator-aj-poslanci-sa-ujali-svojich-mandatov"
+        "source_url": "https://senica.sk/clanok/pozname-vitazov-40-rocnika-literarnej-senice"
       },
       {
-        "headline": "Senica sa prvýkrát zapojí do Noci vonku",
-        "summary": "Celoslovenské podujatie o bezdomovectve príde vo štvrtok 26. novembra od 18:00 do klubu KIVIK na SNP 784/2. Program s hudbou, diskusiou a filmom je zadarmo, kto chce, môže prespať vonku.",
-        "date": "2026-11-23",
-        "date_label": "23. 11. 2026",
+        "headline": "Študenti priblížili Deň vďakyvzdania",
+        "summary": "Študenti bilingválneho odboru Obchodnej akadémie v Senici pripravili kultúrno-vzdelávací program o histórii prvého Dňa vďakyvzdania z roku 1621.",
+        "date": "2026-11-26",
+        "date_label": "26. 11. 2026",
         "source_label": "Zdroj: mesto Senica",
         "source_category": "Spravodajstvo",
-        "source_url": "https://senica.sk/clanok/noc-vonku-v-senici-prinesie-silne-pribehy"
+        "source_url": "https://senica.sk/clanok/studenti-opaet-ozivili-sviatok-den-vdakyvzdania"
       }
     ]
   },
@@ -70,36 +70,6 @@
       "Komunita"
     ],
     "items": [
-      {
-        "name": "NOC VONKU",
-        "date": "2026-11-26",
-        "day": "26",
-        "month": "November",
-        "time": null,
-        "venue": "KiviK, SNP 784/2, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/noc-vonku/"
-      },
-      {
-        "name": "Dáma v zlatom a pocta Klimtovi",
-        "date": "2026-11-26",
-        "day": "26",
-        "month": "November",
-        "time": "07:30",
-        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
-        "category": "Kultúra",
-        "source_url": "https://ticsenica.sk/podujatie/dama-v-zlatom-a-pocta-klimtovi/"
-      },
-      {
-        "name": "Novembrový workshop",
-        "date": "2026-11-26",
-        "day": "26",
-        "month": "November",
-        "time": "16:00",
-        "venue": "Ženské komunitné centrum Senica, Janka Kráľa 3, Senica",
-        "category": "Komunita",
-        "source_url": "https://ticsenica.sk/podujatie/novembrovy-workshop-4/"
-      },
       {
         "name": "Vianočný koncert Viera Šusteková a hostia",
         "date": "2026-11-27",
@@ -141,24 +111,54 @@
         "source_url": "https://ticsenica.sk/podujatie/podoby-pravdy/"
       },
       {
+        "name": "Adventný veniec",
+        "date": "2026-11-28",
+        "day": "28",
+        "month": "November",
+        "time": "15:00",
+        "venue": "SD Kunov, Kunov 64, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/adventny-veniec-2/"
+      },
+      {
+        "name": "Rozsvietenie vianočnej výzdoby + prvej sviece na adventnom venci",
+        "date": "2026-11-29",
+        "day": "29",
+        "month": "November",
+        "time": "17:00",
+        "venue": "Mesto Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/rozsvietenie-vianocnej-vyzdoby-prvej-sviece-na-adventnom-venci/"
+      },
+      {
+        "name": "Adventná rozprávka",
+        "date": "2026-12-01",
+        "day": "1",
+        "month": "December",
+        "time": "08:00",
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Kultúra",
+        "source_url": "https://ticsenica.sk/podujatie/adventna-rozpravka/"
+      },
+      {
         "name": "Klub Podporka",
         "date": "2026-12-01",
         "day": "1",
         "month": "December",
         "time": "16:00",
-        "venue": "Denné centrum, SNP 784 (budova bývalých mestských jaslí), Senica",
+        "venue": "Denné centrum Senica, SNP 784, Senica",
         "category": "Komunita",
-        "source_url": "https://senica.sk/clanok/klub-podporka-v-decembri"
+        "source_url": "https://ticsenica.sk/podujatie/klub-podporka-22/"
       },
       {
-        "name": "Adventný koncert: Jakub Jan Ryba – Česká mše vánočná",
-        "date": "2026-12-10",
-        "day": "10",
+        "name": "Zdravé nôžky s odborníkom",
+        "date": "2026-12-02",
+        "day": "2",
         "month": "December",
         "time": "16:00",
-        "venue": "Dom kultúry (MsKS), Senica",
-        "category": "Kultúra",
-        "source_url": "https://senica.sk/clanok/adventny-koncert-jakub-jan-ryba-ceska-mse-vanocna"
+        "venue": "Záhorské osvetové stredisko, Vajanského 19/5, Senica",
+        "category": "Komunita",
+        "source_url": "https://ticsenica.sk/podujatie/zdrave-nozky-s-odbornikom/"
       }
     ]
   },
@@ -169,19 +169,6 @@
     "attribution_url": "https://senica.sk/kategoria/odstavky-elektriny-a-vody",
     "empty_state": "Žiadne aktuálne odstávky ani obmedzenia.",
     "items": [
-      {
-        "type": "elektrina",
-        "what": "Odstávka elektrickej energie – plánované práce na distribučnej sústave",
-        "where": "ŠTEFÁNIKOVA č. 54, 75, 75/x, 81, 3781/1, 75/BL",
-        "when": "25. 11. 2026 od 08:00 do 15:00 hod.",
-        "starts": "2026-11-25",
-        "ends": "2026-11-25",
-        "status": "dnes",
-        "provider": "Západoslovenská distribučná, a. s.",
-        "note": "Obmedzenie 26. 11. 2026 (LOKA IBV MLYN, SLNEČNÁ, SOTINSKÁ) bolo zrušené.",
-        "badge": "Servis",
-        "source_url": "https://senica.sk/clanok/odstavka-elektrickej-energie-november-2026"
-      },
       {
         "type": "elektrina",
         "what": "Odstávka elektrickej energie – plánované práce na distribučnej sústave",
